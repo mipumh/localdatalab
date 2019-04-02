@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: ¿QUÉ SOMOS?
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,10 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">    
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Un grupo de trabajo creado para descubrir y poner en práctica el potencial del periodismo de
+datos en el ámbito local. Unos apasionados de la información rigurosa, transparente, relevante y
+útil. Estudiantes, profesores y profesionales sin miedo a trastear con cualquier tecnología, a
+destapar historias asombrosas y a contarlas de la mejor manera posible.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>

@@ -44,6 +44,49 @@ License: https://www.wowthemes.net/freebies-license/
      margin-top: 57px;
      transition: all 0.4s;
 }
+
+.sb-page-header {
+  position: relative;
+  color: white,80%;
+  font-size: 20px;
+  background-image: url(../images/cool-background.png);
+  background-size:cover;
+}
+
+.sb-page-header h1, h3 {
+  margin-top: 0;
+  color: dark;
+}
+
+.sb-page-header h4 {
+  color: dark;
+  font-weight: 300;
+  margin-bottom: 5px;
+  line-height: 1.4;
+}
+
+.sb-page-header p {
+  color: #e6eaed;
+  font-weight: 300;
+  margin-bottom: 5px;
+  line-height: 1.4;
+}
+
+.sb-page-header .container {
+  position: relative;
+}
+
+.sb-page-header .img-responsive {
+  margin: 0px auto 20px;
+}
+
+@media (min-width: 768px) {
+  .sb-page-header h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+}
+
  section {
      margin-bottom:20px;
 }
@@ -612,7 +655,7 @@ License: https://www.wowthemes.net/freebies-license/
          padding:0;
          height:350px;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(../images/cool-background.png);
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
@@ -627,7 +670,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(../images/cool-background.png);
          background-size:cover;
 }
  .jumbotron.fortags a {

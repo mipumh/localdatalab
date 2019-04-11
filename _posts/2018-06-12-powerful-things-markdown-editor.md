@@ -31,7 +31,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
 }
 ```
 
-#### HTML
+##### HTML
 
 ```html
 <li class="ml-1 mr-1">
@@ -41,7 +41,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
 </li>
 ```
 
-#### CSS
+##### CSS
 
 ```css
 .highlight .c {

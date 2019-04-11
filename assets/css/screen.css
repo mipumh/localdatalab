@@ -432,9 +432,9 @@ License: https://www.wowthemes.net/freebies-license/
      line-height: 1.5rem;
     }
 
-    .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
+    .article-post h4, .article-post h5, .article-post h6 {
      font-weight: 600;
-     margin-bottom: 1rem;
+     margin-bottom: 0.9rem;
     }
 }
  .share,.share a {
@@ -611,7 +611,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
      font-weight: 700;
-     margin-bottom: 1.5rem;
+     font-size: 1.7em;
 }
  .article-post img.shadow {
      -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);

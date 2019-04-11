@@ -418,20 +418,24 @@ License: https://www.wowthemes.net/freebies-license/
 }
  @media (max-width:767px) {
      .post-top-meta.authorpage {
-         text-align:center;
+     text-align:center;
     }
 
-     .article-post {
+    .mainheading h1.posttitle {
+     font-size:1.9em;
+     font-weight:700;
+     margin-bottom:0rem;
+    }
+
+    .article-post {
      font-size:1em;
-}
+     line-height: 1.5rem;
+    }
 
- .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
+    .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
      font-weight: 600;
-     margin-bottom: 1.2rem;
-}
-
-
-
+     margin-bottom: 1rem;
+    }
 }
  .share,.share a {
      color:rgba(0,0,0,.44);

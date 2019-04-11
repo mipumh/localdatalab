@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "¿QUÉ SOMOS?",
-    "body": "  Un grupo de trabajo creado para descubrir y poner en práctica el potencial del periodismo dedatos en el ámbito local. Unos apasionados de la información rigurosa, transparente, relevante yútil. Estudiantes, profesores y profesionales sin miedo a trastear con cualquier tecnología, adestapar historias asombrosas y a contarlas de la mejor manera posible.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository!   Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "body": "  Un grupo de trabajo creado para descubrir y poner en práctica el potencial del periodismo dedatos en el ámbito local. Unos apasionados de la información rigurosa, transparente, relevante yútil. Estudiantes, profesores y profesionales sin miedo a trastear con cualquier tecnología, adestapar historias asombrosas y a contarlas de la mejor manera posible. OrganizadoresMáster Periodismo Periodismo UMH      	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.    "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",

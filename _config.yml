@@ -14,14 +14,14 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Equipo
-    display_name: Redacción
+    name: LocalDataLab
+    display_name: LocalDataLab
     web: https://localdatalab.umh.es/
     twitter: https://twitter.com/mipumh
     description: "Redacción del LocalDataLab."
   john:
-    name: Equipo
-    display_name: Redacción
+    name: LocalDataLab
+    display_name: LocalDataLab
     web: https://localdatalab.umh.es/
     twitter: https://twitter.com/PeriodismoUMH
     description: "Redacción del LocalDataLab."

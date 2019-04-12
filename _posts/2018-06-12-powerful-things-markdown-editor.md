@@ -2,8 +2,8 @@
 layout: post
 title:  "La izquierda pierde con la edad"
 subtitle: "El porcentaje voto a PSOE y Podemos crece en las zonas con mayor número de jóvenes y desciende en las más envejecidas. Esta tendencia se mantiene, incluso con mayor claridad, en el caso de Ciudadanos; pero se invierte en los apoyos al PP"
-author: Redacción
-categories: [ edad, izquierda ]
+author: LocalDataLab
+categories: [ histórico ]
 image: assets/images/1.jpg
 ---
 Los resultados electorales de las últimas cuatro elecciones generales en Elche reflejan la influencia de la edad. Los votos, analizados por secciones censales, constatan que en las zonas con mayor presencia de jóvenes, PSOE y Podemos obtienen mejores resultados que en las que reside una población con mayor edad. Algo similar sucede en Ciudadadanos, donde el año de nacimiento de los ilicitanos ejerce una influencia todavía mayor. En el PP, en cambio, sucede lo contrario: sus resultados mejoran cuando crece la edad de sus electores.

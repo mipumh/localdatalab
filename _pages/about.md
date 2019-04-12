@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿QUÉ SOMOS?
+title: ¿Quiénes somos?
 permalink: /about
 comments: true
 ---

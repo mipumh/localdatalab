@@ -5,7 +5,7 @@ description: "Seminario de periodismo de datos en el ámbito local."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-38906933-4'
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Quiénes somos?
-permalink: /about
+permalink: /equipo
 comments: true
 ---
 

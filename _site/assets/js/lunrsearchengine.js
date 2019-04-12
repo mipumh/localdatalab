@@ -6,7 +6,7 @@ var documents = [{
     "body": "Black Hole 404Esta página no existe, se la ha tragado el agujero negro.  Por favor, vuelva por la estela que le trajo hasta este rincón de la galaxia o suba a la nave por aquí.  "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "http://localhost:4000/equipo",
     "title": "¿Quiénes somos?",
     "body": "  Un grupo de trabajo creado para descubrir y poner en práctica el potencial del periodismo dedatos en el ámbito local. Unos apasionados de la información rigurosa, transparente, relevante yútil. Estudiantes, profesores y profesionales sin miedo a trastear con cualquier tecnología, adestapar historias asombrosas y a contarlas de la mejor manera posible. OrganizadoresMáster Periodismo Periodismo UMH      	    Miguel Carvajal:     Profesor en @PeriodismoUMH y director del @mipumh. Leo y escribo sobre innovación y modelos de negocio en el periodismo.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.          	    Miguel Carvajal:     Estudiante de Periodismo UMH.    "
     }, {

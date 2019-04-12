@@ -6,7 +6,7 @@ author: LocalDataLab
 categories: [ histórico ]
 image: assets/images/1.jpg
 ---
-Los resultados electorales de las últimas cuatro elecciones generales en Elche reflejan la influencia de la edad. Los votos, analizados por secciones censales, constatan que en las zonas con mayor presencia de jóvenes, PSOE y Podemos obtienen mejores resultados que en las que reside una población con mayor edad. Algo similar sucede en Ciudadadanos, donde el año de nacimiento de los ilicitanos ejerce una influencia todavía mayor. En el PP, en cambio, sucede lo contrario: sus resultados mejoran cuando crece la edad de sus electores.
+Los resultados electorales de las últimas cuatro elecciones generales en Elche reflejan la influencia de la edad. Los votos, analizados por secciones censales, constatan que en las zonas con mayor presencia de jóvenes, PSOE y Podemos obtienen mejores resultados que en las que reside una población con mayor edad. Algo similar sucede en Ciudadanos, donde el año de nacimiento de los ilicitanos ejerce una influencia todavía mayor. En el PP, en cambio, sucede lo contrario: sus resultados mejoran cuando crece la edad de sus electores.
 
 ### 0-19 años: Ciudadanos domina entre los padres con hijos a su cargo
 

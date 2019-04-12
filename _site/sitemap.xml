@@ -51,6 +51,12 @@
 <loc>http://localhost:4000/category/tutorial/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/edad/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/izquierda/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

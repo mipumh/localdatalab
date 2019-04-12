@@ -1,106 +1,38 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "La izquierda pierde con la edad"
+subtitle: "El porcentaje voto a PSOE y Podemos crece en las zonas con mayor número de jóvenes y desciende en las más envejecidas. Esta tendencia se mantiene, incluso con mayor claridad, en el caso de Ciudadanos; pero se invierte en los apoyos al PP"
+author: Redacción
+categories: [ edad, izquierda ]
 image: assets/images/1.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Los resultados electorales de las últimas cuatro elecciones generales en Elche reflejan la influencia de la edad. Los votos, analizados por secciones censales, constatan que en las zonas con mayor presencia de jóvenes, PSOE y Podemos obtienen mejores resultados que en las que reside una población con mayor edad. Algo similar sucede en Ciudadadanos, donde el año de nacimiento de los ilicitanos ejerce una influencia todavía mayor. En el PP, en cambio, sucede lo contrario: sus resultados mejoran cuando crece la edad de sus electores.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+### 0-19 años: Ciudadanos domina entre los padres con hijos a su cargo
 
-<div class='tableauPlaceholder' id='viz1554937438261' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;EleccionesElche&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EleccionesElche&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;EleccionesElche&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'>                    var divElement = document.getElementById('viz1554937438261');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<div class="flourish-embed" data-src="visualisation/290450"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-## Special formatting
+Ciudadanos presenta la tendencia más positiva al tener en cuenta la presencia de menores de 19 años en las secciones censales de Elche. El partido naranja obtiene sus mejores resultados en las zonas en las que estos niños y jóvenes, la inmensa mayoría dependientes económicamente de sus padres, suponen un mayor porcentaje de la población.
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+La línea del PSOE en estas zonas también crece, aunque de manera menos evidente. Este apoyo fue mucho mayor en 2008, cuando la mayor parte de sus mejores resultados se produjeron en las secciones más rejuvenecidas. La tendencia empezó a revertirse en 2011 y cambió definitivamente en 2015, coincidiendo con el surgimiento de los nuevos partidos.
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Esta variable apenas influye en el voto de Podemos. En el del PP, en cambio, sí se observa un claro descenso de sus resultados en las zonas con menor porcentaje de menores de 19 años, especialmente a partir de 2011.
 
 
-## Writing code blocks
+### 20-39 años: el PSOE aún seduce a los millenial
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-##### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-##### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
+<div class="flourish-embed" data-src="visualisation/297137"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 
+### 40-59 años
+
+<div class="flourish-embed" data-src="visualisation/297139"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+### 60-79 años
 
-## Reference lists
+<div class="flourish-embed" data-src="visualisation/297143"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-The quick brown jumped over the lazy.
+### Más de 79 años
 
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><div class="flourish-embed" data-src="visualisation/297168"></div><script src="https://public.flourish.studio/resources/embed.js"></script></p>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Data Lab</title>
+    <description>Seminario de periodismo de datos en el ámbito local.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Apr 2019 21:25:24 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2019 21:25:24 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>La izquierda pierde con la edad</title>
+        <description>&lt;p&gt;Los resultados electorales de las últimas cuatro elecciones generales en Elche reflejan la influencia de la edad. Los votos, analizados por secciones censales, constatan que en las zonas con mayor presencia de jóvenes, PSOE y Podemos obtienen mejores resultados que en las que reside una población con mayor edad. Algo similar sucede en Ciudadanos, donde el año de nacimiento de los ilicitanos ejerce una influencia todavía mayor. En el PP, en cambio, sucede lo contrario: sus resultados mejoran cuando crece la edad de sus electores.&lt;/p&gt;
+
+&lt;h3 id=&quot;0-19-años-ciudadanos-domina-entre-los-padres-con-hijos-a-su-cargo&quot;&gt;0-19 años: Ciudadanos domina entre los padres con hijos a su cargo&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/290450&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Ciudadanos presenta la tendencia más positiva al tener en cuenta la presencia de menores de 19 años en las secciones censales de Elche. El partido naranja obtiene sus mejores resultados en las zonas en las que estos niños y jóvenes, la inmensa mayoría dependientes económicamente de sus padres, suponen un mayor porcentaje de la población.&lt;/p&gt;
+
+&lt;p&gt;La línea del PSOE en estas zonas también crece, aunque de manera menos evidente. Este apoyo fue mucho mayor en 2008, cuando la mayor parte de sus mejores resultados se produjeron en las secciones más rejuvenecidas. La tendencia empezó a revertirse en 2011 y cambió definitivamente en 2015, coincidiendo con el surgimiento de los nuevos partidos.&lt;/p&gt;
+
+&lt;p&gt;Esta variable apenas influye en el voto de Podemos. En el del PP, en cambio, sí se observa un claro descenso de sus resultados en las zonas con menor porcentaje de menores de 19 años, especialmente a partir de 2011.&lt;/p&gt;
+
+&lt;h3 id=&quot;20-39-años-el-psoe-aún-seduce-a-los-millenial&quot;&gt;20-39 años: el PSOE aún seduce a los millenial&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297137&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;40-59-años&quot;&gt;40-59 años&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297139&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;60-79-años&quot;&gt;60-79 años&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297143&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;más-de-79-años&quot;&gt;Más de 79 años&lt;/h3&gt;
+
+&lt;p&gt;&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297168&quot;&gt;&lt;/div&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/la-izquierda-pierde-con-la-edad/</link>
+        <guid isPermaLink="true">http://localhost:4000/la-izquierda-pierde-con-la-edad/</guid>
+        
+        
+        <category>histórico</category>
+        
+      </item>
+    
+  </channel>
+</rss>

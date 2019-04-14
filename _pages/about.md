@@ -8,10 +8,11 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8">    
 
-<p>Un grupo de trabajo creado para descubrir y poner en práctica el potencial del periodismo de
-datos en el ámbito local. Unos apasionados de la información rigurosa, transparente, relevante y
-útil. Estudiantes, profesores y profesionales sin miedo a trastear con cualquier tecnología, a
-destapar historias asombrosas y a contarlas de la mejor manera posible.</p>
+<p>Local Data Lab es un grupo de trabajo compuesto por profesionales, profesores y alumnos de Periodismo de la Universidad Miguel Hernández. Nacimos en febrero de 2019 con el fin de descubrir y poner en práctica el potencial del periodismo de datos en el ámbito local.</p> 
+
+<p>Estamos convencidos de que es posible y necesario obtener, analizar y visualizar información de manera rigurosa, relevante y útil en nuestro entorno más cercano. Creemos en la transparencia (ajena y propia), nos encanta trastear con cualquier tecnología, buscamos destapar buenas historias y aspiramos a contarlas de la mejor manera posible.</p>
+
+<p>Hemos arrancado con los datos de la maratón electoral de 2019, con el foco en los resultados y la campaña de las elecciones generales y locales en Elche. Pero después seguiremos analizando a fondo cuestiones como la vivienda, el transporte, la seguridad o el medio ambiente.</p>
 
 </div>
 

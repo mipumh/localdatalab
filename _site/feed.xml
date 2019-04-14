@@ -5,9 +5,43 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Apr 2019 10:52:08 +0200</pubDate>
-    <lastBuildDate>Sun, 14 Apr 2019 10:52:08 +0200</lastBuildDate>
+    <pubDate>Sun, 14 Apr 2019 19:56:17 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2019 19:56:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>La carrera electoral que se juega en Facebook</title>
+        <description>&lt;p&gt;Las redes sociales juegan un papel muy importante en la carrera electoral de los partidos, pero en algunas ocasiones los resultados reales distan mucho de la popularidad de los políticos en la red.&lt;/p&gt;
+
+&lt;p&gt;Las redes sociales ya son una parte importante de la vida de los ciudadanos, y los políticos lo saben. Por ello cada vez les dedican más tiempo y cuidado. Facebook juega un papel importante en la comunicación, pero el partido más votado no siempre es el que más seguidores reúne en redes sociales.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/298955&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Si comparamos los seguidores en la red social Facebook que tienen cada partido y candidato nos daremos cuenta de que unos destacan más que otros. En cuanto a partidos, Podemos es el que cuenta con más seguidores, seguido de Ciudadanos y Vox. El líder de la formación morada también es el candidato con más seguidores, le sigue Ciudadanos y Esquerra Republicana.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/298942&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La media de menciones a los partidos ganan en número a los candidatos. La alusiones en esta red social se hacen con más regularidad a las formaciones políticas, lo que les dota de mayor peso. El único candidato que supera en alusiones a su partido es Gabriel Rufián, y el partido que más menciones en relación a su candidato genera es Vox.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/299096&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Los videos son la herramienta más usada por nuestros políticos para comunicarse con los ciudadanos. Tanto es así, que los seis partidos analizados les dan mucho peso en sus redes. A la hora de comunicarse mediante escritos, Esquerra y Unidas Podemos les dan mucho más valor que el resto de formaciones, seguidos de Vox. La fotografías también son un recurso bastante extendido, menos en la formación naranja. Ciudadanos únicamente invierte un 11% en fotos del total de su contenido en Facebook.&lt;/p&gt;
+
+&lt;p&gt;Por &lt;strong&gt;Claudia Saumell&lt;/strong&gt; y &lt;strong&gt;Enrique Más&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/carrera-electoral-se-juega-en-facebook/</link>
+        <guid isPermaLink="true">http://localhost:4000/carrera-electoral-se-juega-en-facebook/</guid>
+        
+        
+        <category>redes</category>
+        
+        <category>discurso</category>
+        
+      </item>
     
       <item>
         <title>La izquierda pierde con la edad</title>
@@ -43,7 +77,7 @@
 
 &lt;p&gt;&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297168&quot;&gt;&lt;/div&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/la-izquierda-pierde-con-la-edad/</link>
         <guid isPermaLink="true">http://localhost:4000/la-izquierda-pierde-con-la-edad/</guid>
         

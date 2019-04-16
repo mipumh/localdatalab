@@ -13,17 +13,19 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  red:
     name: LocalDataLab
     display_name: LocalDataLab
     web: https://localdatalab.umh.es/
+    pic: assets/images/logo.png
     twitter: https://twitter.com/mipumh
     description: "Redacción del LocalDataLab."
-  john:
-    name: LocalDataLab
-    display_name: LocalDataLab
+  irene:
+    name: irene
+    display_name: Irene C. Reig
     web: https://localdatalab.umh.es/
-    twitter: https://twitter.com/PeriodismoUMH
+    pic: https://pbs.twimg.com/profile_images/1116261717074436096/rEe7H66D_400x400.png
+    twitter: https://twitter.com/ReigCe
     description: "Redacción del LocalDataLab."
 
 # Plugins

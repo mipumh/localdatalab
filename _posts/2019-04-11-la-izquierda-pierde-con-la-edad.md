@@ -2,7 +2,7 @@
 layout: post
 title:  "La izquierda pierde con la edad"
 subtitle: "El porcentaje voto a PSOE y Podemos crece en las zonas con mayor número de jóvenes y desciende en las más envejecidas. Esta tendencia se mantiene, incluso con mayor claridad, en el caso de Ciudadanos; pero se invierte en los apoyos al PP"
-author: LocalDataLab
+author: red
 categories: [ histórico ]
 image: assets/images/1.jpg
 ---

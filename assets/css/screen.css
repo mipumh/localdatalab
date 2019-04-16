@@ -703,6 +703,13 @@ License: https://www.wowthemes.net/freebies-license/
          margin:0;
     }
 }
+
+.jumbotron { 
+         background-image: url(../images/portada.jpg);
+         background-size:cover;
+         margin-bottom: 1rem;
+}
+
 .jumbotron.fortags { 
          margin-top: 3rem;
          padding:0;

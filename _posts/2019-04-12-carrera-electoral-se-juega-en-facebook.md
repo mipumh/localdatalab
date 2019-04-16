@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La carrera electoral que se juega en Facebook"
-author: LocalDataLab
+author: team, enrique 
 categories: [ redes, discurso ]
 image: assets/images/2.jpg
 ---

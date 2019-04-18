@@ -17,7 +17,7 @@ authors:
     name: LocalDataLab
     display_name: LocalDataLab
     web: https://localdatalab.umh.es/
-    pic: assets/images/logo.png
+    pic: https://localdatalab.umh.es/assets/images/logo.png
     twitter: https://twitter.com/mipumh
     description: "Redacción del LocalDataLab."
   irene:

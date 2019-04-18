@@ -6,7 +6,7 @@ author: irene
 categories: [ redes, discurso ]
 image: assets/images/3.png
 ---
-Tanto la cuenta en Twitter de [VOX](https://twitter.com/vox_es) como la de [Santiago Abascal](https://twitter.com/Santi_ABASCAL) lideran el ranking de seguidores ganados semanalmente frente al resto de partidos que se presentan a las Elecciones Generales del 28A. VOX Ha obtenido esta última semana un 3.680 unas cifras mayores a las del resto, a pesar de reducir su cantidad la segunda semana de marzo.
+Tanto la cuenta en Twitter de [VOX](https://twitter.com/vox_es) como la de [Santiago Abascal](https://twitter.com/Santi_ABASCAL) lideran el ranking de seguidores ganados semanalmente frente al resto de partidos que se presentan a las Elecciones Generales del 28A. VOX ha obtenido estos últimos siete días 3.680 seguidores, una cifra mayor a las del resto, a pesar de reducir su cantidad la segunda semana de marzo.
 
 Desde que Pedro Sánchez decidió disolver Las Cortes Generales y convocar elecciones el pasado 4 de marzo, según la fecha de [publicación en el BOE](https://www.boe.es/boe/dias/2019/03/05/pdfs/BOE-A-2019-3109.pdf)), el número de seguidores en las cuentas de los cinco partidos principales y la de sus líderes ha aumentado progresivamente durante la precampaña y la campaña electoral, iniciada el pasado 11 de abril. 
 
@@ -16,21 +16,23 @@ Desde que Pedro Sánchez decidió disolver Las Cortes Generales y convocar elecc
 
 La cuenta de Twitter de Santiago Abascal, desde el inicio de la precampaña hasta esta última semana, inicio de la campaña electoral el pasado 11 de abril, se posiciona la primera entre el resto de líderes con un total de 3.362 followers.
 
-Desde un último puesto, [Pablo Iglesias](https://twitter.com/Pablo_Iglesias_), líder de PODEMOS, adelanta a lo largo de estos meses a todos sus oponentes hasta posicionarse en segundo puesto con un total de 2.926 seguidores semanales ganados. [Pablo Casado](https://twitter.com/pablocasado_) mantiene sus cifras hasta el inicio de campaña, donde es adelantado por Iglesias. Los últimos en el ranking son [Pedro Sánchez](https://twitter.com/sanchezcastejon) y [Albert Rivera](https://twitter.com/Albert_Rivera). 
+Desde el último lugar, [Pablo Iglesias](https://twitter.com/Pablo_Iglesias_), líder de PODEMOS, adelanta a lo largo de estos meses a todos sus oponentes hasta situarse en segundo puesto con un total de 2.926 seguidores semanales ganados. [Pablo Casado](https://twitter.com/pablocasado_) mantiene sus cifras hasta el inicio de campaña, momento en el que Iglesias le adelanta. Los últimos en el ranking son [Pedro Sánchez](https://twitter.com/sanchezcastejon) y [Albert Rivera](https://twitter.com/Albert_Rivera). 
 
 ### La izquierda adelanta en el ranking
 
 <div class="flourish-embed" data-src="visualisation/299351"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-Durante la primera semana de precampaña, las cuentas oficiales de PSOE y PODEMOS comenzaron con un aumento de followers semanales menor al de Ciudadanos y PP hasta alcanzar niveles más elevados. 
+Durante la primera semana de precampaña, las cuentas oficiales de PSOE y PODEMOS comenzaron con un aumento de seguidores semanales menor al de Ciudadanos y PP hasta alcanzar niveles más elevados. 
 
-El [PSOE](https://twitter.com/PSOE), a partir de la segunda semana de precampaña, comienza a aumentar sus cifras hasta posicionarse en segundo puesto. Asimismo, [PODEMOS](https://twitter.com/ahorapodemos), en cuarto lugar en un inicio, crece hasta el 25 de marzo hasta alcanzar el tercer puesto actual del ranking de aumento de seguidores.
+El PSOE,
 
-En contraste, [Ciudadanos](https://twitter.com/CiudadanosCs) es el partido que menos seguidores ha aumentado desde el 4 marzo hasta la actualidad, comenzó en un segundo puesto al inicio de precampaña hasta descender drásticamente, con un ligero aumento de los seguidores la semana previa al inicio de campaña, hasta posicionándose el penúltimo. El [PP](https://twitter.com/populares) queda relegado a los últimos puestos, descendiendo el número de seguidores semanales progresivamente hasta quedar en último puesto.
+El [PSOE](https://twitter.com/PSOE), a partir de la segunda semana de precampaña, comienza a aumentar sus cifras hasta posicionarse en segundo puesto. Asimismo, [PODEMOS](https://twitter.com/ahorapodemos), en cuarto lugar inicialmente, crece hasta alcanzar el tercer puesto actual.
+
+En contraste, [Ciudadanos](https://twitter.com/CiudadanosCs) es el partido que menos ha visto aumentar su número de seguidores desde el 4 marzo hasta la actualidad. Comenzó en un segundo puesto al inicio de precampaña hasta descender drásticamente, con un ligero aumento de los seguidores la semana previa al inicio de campaña, hasta posicionarse el penúltimo. El [PP](https://twitter.com/populares) queda relegado a los últimos puestos, descendiendo el número de seguidores semanales progresivamente hasta situarse en último puesto.
 
 ### Pablo Iglesias y PODEMOS, líderes totales
 
-Cabe destacar que a pesar del notable aumento en los seguidores de VOX y Abascal, son las cuentas de Pablo Iglesias y PODEMOS las que más seguidores poseen. Las actividades de *activefollowing *y *unfollowing* permiten a las cuentas de Twitter aumentar su número de seguidores a la vez que disminuyen aquellos a los que siguen. Un comportamiento susceptible para la captación de nuevos simpatizantes. 
+A pesar del notable aumento en los seguidores de VOX y Abascal, son las cuentas de Pablo Iglesias y PODEMOS las que más seguidores poseen. Las actividades de *activefollowing* y *unfollowing* permiten a las cuentas de Twitter aumentar su número de seguidores a la vez que disminuyen aquellos a los que siguen. Un comportamiento susceptible para la captación de nuevos simpatizantes. 
 
 <div class="flourish-embed" data-src="visualisation/300604"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 

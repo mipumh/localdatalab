@@ -5,8 +5,8 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Apr 2019 11:21:45 +0200</pubDate>
-    <lastBuildDate>Fri, 19 Apr 2019 11:21:45 +0200</lastBuildDate>
+    <pubDate>Sat, 20 Apr 2019 11:47:18 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Apr 2019 11:47:18 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -104,7 +104,7 @@
         <title>Prueba para tabla Elche con Bokeh</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elche.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1200&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elche.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1000&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;Ut quis fringilla eros. Nunc a ex dui. Proin aliquam nisi vitae euismod imperdiet. Fusce congue purus at sollicitudin ultrices. Donec non dapibus dolor, quis malesuada massa. Curabitur tempor, purus id tincidunt auctor, quam tellus viverra nisi, eu bibendum augue lacus eget augue. Aliquam condimentum auctor nisi ac interdum. Curabitur vestibulum sem sed maximus tincidunt. Quisque ultrices, libero vitae elementum tincidunt, sem erat dignissim odio, in dictum sem quam in velit. Sed id urna consequat, mollis est in, tincidunt diam. Etiam sollicitudin, arcu sit amet malesuada luctus, ligula mi pulvinar risus, a venenatis sem diam id nulla. Vivamus aliquet massa non mauris condimentum, vitae lobortis mi pharetra. Nulla rhoncus iaculis est, quis blandit sapien porta nec.&lt;/p&gt;

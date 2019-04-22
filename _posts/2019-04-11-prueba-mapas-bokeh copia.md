@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis
 <iframe src="/assets/images/elche2.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1000"
+    height="1100"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

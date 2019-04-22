@@ -8,10 +8,10 @@ image: assets/images/1.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien.
 
-<iframe src="/assets/images/elche1.html"
+<iframe src="/assets/images/elchemap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1000"
+    height="680"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

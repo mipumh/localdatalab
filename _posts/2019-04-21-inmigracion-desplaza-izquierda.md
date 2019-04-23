@@ -3,7 +3,7 @@ layout: post
 title: "La inmigración se desplaza a la izquierda"
 subtitle: "Los resultados electorales de PP y Ciudadanos mejoran cuanto mayor es el porcentaje de nacidos en España. Las zonas con mayor inmigración tienden a decantarse por Podemos y, sobre todo, por el PSOE"
 author: felix 
-categories: [ historico ]
+categories: [ histórico ]
 image: assets/images/nacionalidad.png
 ---
 El respaldo a los partidos que, en teoría, ponen más límites a la inmigración disminuye en las zonas de Elche con menor número de nacidos en España. Los datos deben analizarse con cautela, pero teniendo en cuenta que la mayor parte de los extracomunitarios no tienen derecho a voto en las elecciones generales, parece evidente que el rechazo a los inmigrantes no es mayoritario en sus vecindarios.

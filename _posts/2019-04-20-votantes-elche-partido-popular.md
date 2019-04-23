@@ -3,7 +3,7 @@ layout: post
 title: "Los votantes de Elche prefieren un gobierno nacional del Partido Popular"
 subtitle: "Si el Congreso de los Diputados se constituyera con los votos de la ciudad, el panorama político sería de centroderecha en todas las elecciones"
 author: veronica 
-categories: [ historico ]
+categories: [ histórico ]
 image: assets/images/parlamento.png
 ---
 En la tradición política y electoral de EEUU quién vence en el estado de Ohio se convierte en Presidente de la nación más poderosa del mundo. Los politólogos españoles han realizado múltiples análisis y escrito libros intentando averiguar qué región española podría ser nuestro “Ohio” y [Aragón es la elegida](https://elpais.com/politica/2015/10/08/actualidad/1444335805_496770.html). Incluso el pueblo de [Calanda](https://www.elmundo.es/cronica/2019/04/16/5caf8a0121efa0ba698b4611.html) se coloca en este epicentro de modelos, en este caso de la llamada “España vaciada”.  Pero ¿qué pasaría si el gobierno de la nación se decidiese en Elche? 

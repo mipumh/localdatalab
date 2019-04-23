@@ -17,7 +17,20 @@ comments: true
   <div class="col-md-4">
     <div class="sticky-top sticky-top-80">
       <h5>Organizadores</h5>
-      <a target="_blank" href="http://mip.umh.es/" class="btn btn-info">Máster Periodismo</a> <a target="_blank" href="http://periodismo.umh.es/" class="btn btn-warning">Periodismo UMH</a>
+      <ul class="list-unstyled">
+        <li class="media">
+          <img src="{{ site.baseurl }}/assets/images/periodismo.jpg" class="mr-3" alt="...">
+          <div class="media-body">
+            <p class="mt-0 mb-1">Periodismo UMH</p>
+          </div>
+        </li>
+        <li class="media my-4">
+          <img src="{{ site.baseurl }}/assets/images/mip.jpg" class="mr-3" alt="...">
+          <div class="media-body">
+            <p class="mt-0 mb-1">Máster Innovación en Periodismo</p>
+          </div>
+        </li>
+      </ul>
     </div>
   </div>
 </div>

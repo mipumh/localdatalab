@@ -3,7 +3,7 @@ layout: post
 title: "Podemos triunfa en Facebook"
 subtitle: "Después del partido morado destacan en menciones Ciudadanos y el partido de extrema derecha Vox, pero en algunas ocasiones los resultados reales distan mucho de la popularidad de los políticos en la red"
 author: red 
-categories: [ redes, discurso ]
+categories: [ redes ]
 image: assets/images/2.jpg
 ---
 Las redes sociales, según el CIS, ya son el segundo medio más utilizado por los ciudadanos para informarse sobre la campaña electoral, y los políticos lo saben. Por ello cada vez les dedican más tiempo y cuidado. Facebook juega un papel importante en la comunicación, pero el partido más votado no siempre es el que más seguidores reúne en redes sociales.

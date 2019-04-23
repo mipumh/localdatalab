@@ -3,7 +3,7 @@ layout: post
 title: "VOX es el partido que más crece en Twitter"
 subtitle: "La cuenta de Abascal aumenta notablemente sus seguidores durante la campaña electoral"
 author: irene 
-categories: [ redes, discurso ]
+categories: [ redes ]
 image: assets/images/3.png
 ---
 Tanto la cuenta en Twitter de [VOX](https://twitter.com/vox_es) como la de [Santiago Abascal](https://twitter.com/Santi_ABASCAL) lideran el ranking de seguidores ganados semanalmente frente al resto de partidos que se presentan a las Elecciones Generales del 28A. VOX ha obtenido estos últimos siete días 3.680 seguidores, una cifra mayor a las del resto, a pesar de reducir su cantidad la segunda semana de marzo.

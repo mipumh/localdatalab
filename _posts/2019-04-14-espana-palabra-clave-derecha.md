@@ -3,7 +3,7 @@ layout: post
 title: "España, la palabra clave de la derecha para el 28A"
 subtitle: "El PSOE es el partido que más temas abarca en sus publicaciones de Twitter"
 author: irene 
-categories: [ redes, discurso ]
+categories: [ redes ]
 image: assets/images/palabras.png
 ---
 España es la palabra clave, o hashtag, más utilizada en las publicaciones de las cuentas de Twitter de los partidos españoles y de sus líderes. Durante la primera semana de campaña electoral, iniciada el pasado 11 de abril, Santiago Abascal habla de España en 61 ocasiones, VOX lo hace 37 veces, PP 45, Ciudadanos 24 y PSOE 25. 

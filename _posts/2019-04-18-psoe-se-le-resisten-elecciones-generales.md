@@ -8,10 +8,10 @@ image: assets/images/psoe.jpg
 ---
 Existen dos grandes bastiones para el PSOE en Elche que, según los datos analizados a partir de las elecciones generales de 2008, poco se han modificado: el barrio de los Palmerales y una gran área del barrio de Carrús y más concretamente en la zona de Casablanca. Aunque es cierto que en 2008 una amplia mayoría de la población ilicitana eligió al Partido Popular como su opción de gobierno con 67.584 votos y el 51.71 %. 
 
-<iframe src="/assets/images/elchemap.html"
+<iframe src="/assets/images/elxPSOE.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="650"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

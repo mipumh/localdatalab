@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Al PSOE se le resisten las elecciones generales en Elche"
-subtitle: "Pese a gobernar en el consistorio durante 36 de los 40 años de las primeras elecciones municipales, el Partido Socialista no es capaz de ganar en Elche en elecciones generales desde 1993"
-author: veronica 
+title: "El PSOE se queda en la periferia"
+subtitle: "Pese a gobernar en el Ayuntamiento durante 36 años, el Partido Socialista sólo conserva parte de su fuerza en Carrús y Los Palmerales"
+author: enrique 
 categories: [ histórico ]
 image: assets/images/psoe.jpg
 ---
@@ -11,7 +11,7 @@ Existen dos grandes bastiones para el PSOE en Elche que, según los datos analiz
 <iframe src="/assets/images/elchemap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="650"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -21,7 +21,7 @@ En 2011, el PP vuelve a imponerse con el apoyo de 67.268 personas y el 54,58% de
 
 En las elecciones generales de 2015, el PSOE sufre otro varapalo, aunque sigue manteniendo sus secciones más representativas, pero incluso en ellas se puede apreciar el descenso del voto. 
 
-En 2016, debido a la imposibilidad de formar gobierno a nivel nacional, se vuelven a convocar unas elecciones generales y en esta ocasión mantiene resultados con una leve pérdida de votos siguiendo la tendencia de elecciones anteriores. (mapa de calor)
+En 2016, debido a la imposibilidad de formar gobierno a nivel nacional, se vuelven a convocar unas elecciones generales y en esta ocasión mantiene resultados con una leve pérdida de votos siguiendo la tendencia de elecciones anteriores.
 
 ### Enfermos del Doctor Sapena
 

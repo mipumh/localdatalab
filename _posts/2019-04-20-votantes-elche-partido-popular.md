@@ -8,8 +8,6 @@ image: assets/images/parlamento.png
 ---
 En la tradición política y electoral de EEUU quién vence en el estado de Ohio se convierte en Presidente de la nación más poderosa del mundo. Los politólogos españoles han realizado múltiples análisis y escrito libros intentando averiguar qué región española podría ser nuestro “Ohio” y [Aragón es la elegida](https://elpais.com/politica/2015/10/08/actualidad/1444335805_496770.html). Incluso el pueblo de [Calanda](https://www.elmundo.es/cronica/2019/04/16/5caf8a0121efa0ba698b4611.html) se coloca en este epicentro de modelos, en este caso de la llamada “España vaciada”.  Pero ¿qué pasaría si el gobierno de la nación se decidiese en Elche? 
 
-![]({ site.baseurl }/assets/images/parlamento.png)
-
 Si solo votaran los ilicitanos, en los últimos diez años la respuesta es evidente:el presidente sería del Partido Popular. En el periodo del bipartidismo, los resultados son clarísimos y los populares gozarían de una cómoda mayoría. En las dos últimas generales, con la irrupción de Ciudadanos y Podemos, se habría repetido el gobierno que efectivamente dirigió España y no habría habido moción de censura ya que el PSOE no alcanzaría una mayoría para que prosperara, con lo que Mariano Rajoy continuaría a la cabeza del Ejecutivo.
 
 ### Una ciudad con mayoría obrera y sin embargo conservadora

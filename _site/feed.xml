@@ -5,8 +5,8 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Apr 2019 14:08:31 +0200</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 14:08:31 +0200</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 17:44:17 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 17:44:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -30,8 +30,6 @@
 &lt;p&gt;La relación entre el voto en blanco, en teoría una de las formas de desacuerdo con todas las propuestas, y el apoyo a los diferentes partidos es mucho más leve. Aun así, sí es posible observar un mayor porcentaje de votos al PSOE y sobre todo al PP en aquellas secciones censales en las que se depositaron sobres vacíos, especialmente en 2011. La curva de los nuevos partidos, Ciudadanos y Podemos, es prácticamente plana.&lt;/p&gt;
 
 &lt;h3 id=&quot;el-voto-nulo-no-le-sirve-a-nadie&quot;&gt;El voto nulo no le sirve a nadie&lt;/h3&gt;
-
-&lt;p&gt;[https://public.flourish.studio/visualisation/297223/]&lt;/p&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297223&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
@@ -191,8 +189,6 @@
         <title>Los votantes de Elche prefieren un gobierno nacional del Partido Popular</title>
         <description>&lt;p&gt;En la tradición política y electoral de EEUU quién vence en el estado de Ohio se convierte en Presidente de la nación más poderosa del mundo. Los politólogos españoles han realizado múltiples análisis y escrito libros intentando averiguar qué región española podría ser nuestro “Ohio” y &lt;a href=&quot;https://elpais.com/politica/2015/10/08/actualidad/1444335805_496770.html&quot;&gt;Aragón es la elegida&lt;/a&gt;. Incluso el pueblo de &lt;a href=&quot;https://www.elmundo.es/cronica/2019/04/16/5caf8a0121efa0ba698b4611.html&quot;&gt;Calanda&lt;/a&gt; se coloca en este epicentro de modelos, en este caso de la llamada “España vaciada”.  Pero ¿qué pasaría si el gobierno de la nación se decidiese en Elche?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{ site.baseurl }/assets/images/parlamento.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Si solo votaran los ilicitanos, en los últimos diez años la respuesta es evidente:el presidente sería del Partido Popular. En el periodo del bipartidismo, los resultados son clarísimos y los populares gozarían de una cómoda mayoría. En las dos últimas generales, con la irrupción de Ciudadanos y Podemos, se habría repetido el gobierno que efectivamente dirigió España y no habría habido moción de censura ya que el PSOE no alcanzaría una mayoría para que prosperara, con lo que Mariano Rajoy continuaría a la cabeza del Ejecutivo.&lt;/p&gt;
 
 &lt;h3 id=&quot;una-ciudad-con-mayoría-obrera-y-sin-embargo-conservadora&quot;&gt;Una ciudad con mayoría obrera y sin embargo conservadora&lt;/h3&gt;
@@ -226,7 +222,7 @@
 En 2008, los resultados siguen su línea habitual en elecciones generales. El centro, las pedanías y las zonas nuevas de la ciudad son claramente populares. En el resto, ganó el PSOE, pero sin alcanzar la mayoría en la localidad. El 51.71% de los ilicitanos votan al PP, frente al 41.56% que se decantaron por los socialistas. 
 En 2011, el PP, al igual que en el resto de España, barre ganando incluso en la mayoría de secciones tradicionalmente socialistas. La ola “popular” arrasa por completo en el municipio, llegando a alcanzar la alcaldía en las municipales de ese mismo año, algo que nunca había ocurrido en democracia en la ciudad.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;650&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;2015-y-2016-el-camino-al-voto-útil&quot;&gt;2015 y 2016: el camino al voto útil&lt;/h3&gt;
@@ -273,17 +269,17 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
       </item>
     
       <item>
-        <title>Al PSOE se le resisten las elecciones generales en Elche</title>
+        <title>El PSOE se queda en la periferia</title>
         <description>&lt;p&gt;Existen dos grandes bastiones para el PSOE en Elche que, según los datos analizados a partir de las elecciones generales de 2008, poco se han modificado: el barrio de los Palmerales y una gran área del barrio de Carrús y más concretamente en la zona de Casablanca. Aunque es cierto que en 2008 una amplia mayoría de la población ilicitana eligió al Partido Popular como su opción de gobierno con 67.584 votos y el 51.71 %.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;650&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;En 2011, el PP vuelve a imponerse con el apoyo de 67.268 personas y el 54,58% del voto casi doblando al PSOE que acaba con 35.676 y un 28,95%. Como es habitual, en las secciones centrales de la ciudad, los socialistas obtienen sus peores resultados, desplomándose hasta un 9,42% en la sección 2 del distrito 1 alrededor de la Plaza de la Merced.&lt;/p&gt;
 
 &lt;p&gt;En las elecciones generales de 2015, el PSOE sufre otro varapalo, aunque sigue manteniendo sus secciones más representativas, pero incluso en ellas se puede apreciar el descenso del voto.&lt;/p&gt;
 
-&lt;p&gt;En 2016, debido a la imposibilidad de formar gobierno a nivel nacional, se vuelven a convocar unas elecciones generales y en esta ocasión mantiene resultados con una leve pérdida de votos siguiendo la tendencia de elecciones anteriores. (mapa de calor)&lt;/p&gt;
+&lt;p&gt;En 2016, debido a la imposibilidad de formar gobierno a nivel nacional, se vuelven a convocar unas elecciones generales y en esta ocasión mantiene resultados con una leve pérdida de votos siguiendo la tendencia de elecciones anteriores.&lt;/p&gt;
 
 &lt;h3 id=&quot;enfermos-del-doctor-sapena&quot;&gt;Enfermos del Doctor Sapena&lt;/h3&gt;
 
@@ -331,7 +327,7 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
         <title>El partido de lo nuevo</title>
         <description>&lt;p&gt;En 2015 se produjo la irrupción de Ciudadanos a nivel nacional, con Albert Rivera a la cabeza. Los mejores resultados de este partido en la ciudad de Elche se dieron en la sección 21 del distrito 1 y en las 24 y 25 del distrito 2, todas ellas en la zona nueva del barrio de Altabix, con un 34,39%, un 29,46% y un 31,68% de los votos respectivamente.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;650&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;castigados-por-el-voto-útil&quot;&gt;Castigados por el voto útil&lt;/h3&gt;
@@ -380,7 +376,7 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
         <title>En Elche no se puede</title>
         <description>&lt;p&gt;Fue en 2015 cuando Podemos hizo su primera aparición en las urnas españolas, pero su entrada no cambió de manera significativa el voto en Elche. De las 171 secciones que tiene la ciudad, solo en 4 obtuvieron la confianza mayoritaria de los ciudadanos. Estos datos empeoraron en 2016, presumiblemente como consecuencia del voto útil, lo que redujo su victoria en una única zona de Elche: las manzanas de El Raval más próximas al Puente de la Generalitat.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elchemap.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;650&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;El voto a este partido se concentra sobre todo en las regiones periféricas de la ciudad y en los barrios donde viven las personas de clases sociales más humildes. Por otra parte, el centro le sigue siendo fiel a la derecha, así que el porcentaje de votos a Podemos en estas secciones es casi inexistente.&lt;/p&gt;
@@ -393,9 +389,6 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
 &lt;p&gt;En el año 2015, su porcentaje más alto fue un 29’47% en la sección 8 del distrito 6 (zona del Pla). Mientras, si nos desplazamos al centro de la ciudad, el voto a este partido tiende a desaparecer, ya que esta zona suele decantarse por el Partido Popular para las elecciones generales aunque a nivel municipal predominen los gobiernos socialistas.&lt;/p&gt;
 
 &lt;p&gt;Sin embargo, hubo zonas en las que el voto mayoritario sí que se vio afectado por la irrupción de los nuevos partidos políticos. Este es el caso de la zona del Pla (distrito 6-08) al que ya nos hemos referido. En esa parte de Elche el partido ganador en 2011 fue el PP con un 40’41% de los votos, pero en 2015 descendió casi un 20% quedándose con un 21’38%. La caída del PSOE no fue tan dura pero también se notó, el apoyo a este partido pasó de un 37’55 en 2011 a un 30’77 en 2015. Esos votos se han repartido entre Podemos que se llevó el 29’47% en esa zona y Ciudadanos que consiguió un 13’04%.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed flourish-slope chart&quot; data-src=&quot;visualisation/296774&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;De 2015 a 2016 la cosa no varió demasiado para este partido. Siguió manteniendo su porcentaje más alto en la zona del Pla, aunque con una leve caída de un 0’8%, y su resultado más bajo en la zona centro de la ciudad.
 Algo curioso que ha pasado en el desarrollo de Podemos entre 2015 y 2016 es que ha sido el único partido que: por un lado, en los lugares donde más votos obtuvo en 2015 (distritos 6-8 y 1-10) durante las elecciones de 2016 disminuyó y, por otro lado, en la segunda zona donde menos apoyo consiguió en las elecciones de 2015 (distrito 2-2) el voto aumentó de 8’63% a 9’20% en las de 2016.&lt;/p&gt;
@@ -449,8 +442,6 @@ Algo curioso que ha pasado en el desarrollo de Podemos entre 2015 y 2016 es que 
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Durante la primera semana de precampaña, las cuentas oficiales de PSOE y PODEMOS comenzaron con un aumento de seguidores semanales menor al de Ciudadanos y PP hasta alcanzar niveles más elevados.&lt;/p&gt;
-
-&lt;p&gt;El PSOE,&lt;/p&gt;
 
 &lt;p&gt;El &lt;a href=&quot;https://twitter.com/PSOE&quot;&gt;PSOE&lt;/a&gt;, a partir de la segunda semana de precampaña, comienza a aumentar sus cifras hasta posicionarse en segundo puesto. Asimismo, &lt;a href=&quot;https://twitter.com/ahorapodemos&quot;&gt;PODEMOS&lt;/a&gt;, en cuarto lugar inicialmente, crece hasta alcanzar el tercer puesto actual.&lt;/p&gt;
 

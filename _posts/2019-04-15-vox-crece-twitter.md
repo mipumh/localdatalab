@@ -24,8 +24,6 @@ Desde el último lugar, [Pablo Iglesias](https://twitter.com/Pablo_Iglesias_), l
 
 Durante la primera semana de precampaña, las cuentas oficiales de PSOE y PODEMOS comenzaron con un aumento de seguidores semanales menor al de Ciudadanos y PP hasta alcanzar niveles más elevados. 
 
-El PSOE,
-
 El [PSOE](https://twitter.com/PSOE), a partir de la segunda semana de precampaña, comienza a aumentar sus cifras hasta posicionarse en segundo puesto. Asimismo, [PODEMOS](https://twitter.com/ahorapodemos), en cuarto lugar inicialmente, crece hasta alcanzar el tercer puesto actual.
 
 En contraste, [Ciudadanos](https://twitter.com/CiudadanosCs) es el partido que menos ha visto aumentar su número de seguidores desde el 4 marzo hasta la actualidad. Comenzó en un segundo puesto al inicio de precampaña hasta descender drásticamente, con un ligero aumento de los seguidores la semana previa al inicio de campaña, hasta posicionarse el penúltimo. El [PP](https://twitter.com/populares) queda relegado a los últimos puestos, descendiendo el número de seguidores semanales progresivamente hasta situarse en último puesto.

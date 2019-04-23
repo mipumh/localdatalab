@@ -11,7 +11,7 @@ Fue en 2015 cuando Podemos hizo su primera aparición en las urnas españolas, p
 <iframe src="/assets/images/elchemap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="650"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -26,8 +26,6 @@ El voto a este partido se concentra sobre todo en las regiones periféricas de l
 En el año 2015, su porcentaje más alto fue un 29’47% en la sección 8 del distrito 6 (zona del Pla). Mientras, si nos desplazamos al centro de la ciudad, el voto a este partido tiende a desaparecer, ya que esta zona suele decantarse por el Partido Popular para las elecciones generales aunque a nivel municipal predominen los gobiernos socialistas. 
 
 Sin embargo, hubo zonas en las que el voto mayoritario sí que se vio afectado por la irrupción de los nuevos partidos políticos. Este es el caso de la zona del Pla (distrito 6-08) al que ya nos hemos referido. En esa parte de Elche el partido ganador en 2011 fue el PP con un 40’41% de los votos, pero en 2015 descendió casi un 20% quedándose con un 21’38%. La caída del PSOE no fue tan dura pero también se notó, el apoyo a este partido pasó de un 37’55 en 2011 a un 30’77 en 2015. Esos votos se han repartido entre Podemos que se llevó el 29’47% en esa zona y Ciudadanos que consiguió un 13’04%.
-
-<div class="flourish-embed flourish-slope chart" data-src="visualisation/296774"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 De 2015 a 2016 la cosa no varió demasiado para este partido. Siguió manteniendo su porcentaje más alto en la zona del Pla, aunque con una leve caída de un 0’8%, y su resultado más bajo en la zona centro de la ciudad.
 Algo curioso que ha pasado en el desarrollo de Podemos entre 2015 y 2016 es que ha sido el único partido que: por un lado, en los lugares donde más votos obtuvo en 2015 (distritos 6-8 y 1-10) durante las elecciones de 2016 disminuyó y, por otro lado, en la segunda zona donde menos apoyo consiguió en las elecciones de 2015 (distrito 2-2) el voto aumentó de 8’63% a 9’20% en las de 2016.

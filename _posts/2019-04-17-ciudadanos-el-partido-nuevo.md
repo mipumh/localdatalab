@@ -2,7 +2,7 @@
 layout: post
 title: "El partido de lo nuevo"
 subtitle: "Ciudadanos se estrenó en Elche arrebatando más de 20.000 votos a los partidos hegemónicos en las elecciones de 2015, sobre todo gracias a los apoyos de los vecinos del Martínez Valero y la Ciudad Deportiva"
-author: irene 
+author: enrique 
 categories: [ redes, discurso ]
 image: assets/images/ciudadanos.jpg
 ---
@@ -11,7 +11,7 @@ En 2015 se produjo la irrupción de Ciudadanos a nivel nacional, con Albert Rive
  <iframe src="/assets/images/elchemap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="650"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

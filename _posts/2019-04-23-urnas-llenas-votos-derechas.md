@@ -25,8 +25,6 @@ La relación entre el voto en blanco, en teoría una de las formas de desacuerdo
 
 ### El voto nulo no le sirve a nadie
 
-[https://public.flourish.studio/visualisation/297223/]
-
 <div class="flourish-embed" data-src="visualisation/297223"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 Apenas se observa ningún tipo de relación entre el voto nulo y los resultados de los partidos. El voto de protesta contra el sistema (o el error) no parece estar vinculado con ninguno de estos cuatro grandes partidos. Incluso si cabe un poco menos con Ciudadanos, que obtiene unos resultados ligeramente inferiores cuando el voto nulo aumenta.

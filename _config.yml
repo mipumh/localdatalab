@@ -14,10 +14,10 @@ permalink: /:title/
 # Authors
 authors:
   red:
-    name: LocalDataLab
+    name: red
     display_name: LocalDataLab
     web: https://localdatalab.umh.es/
-    pic: https://localdatalab.umh.es/assets/images/logo.png
+    pic: /assets/images/logo.png
     twitter: https://twitter.com/mipumh
     description: "Redacción del LocalDataLab."
   irene:
@@ -27,6 +27,35 @@ authors:
     pic: https://pbs.twimg.com/profile_images/1116261717074436096/rEe7H66D_400x400.png
     twitter: https://twitter.com/ReigCe
     description: "Redacción del LocalDataLab."
+  felix:
+    name: felix
+    display_name: Félix Arias
+    web: https://localdatalab.umh.es/
+    pic: https://pbs.twimg.com/profile_images/791663348425293825/-bF5CaFk_400x400.jpg
+    twitter: https://twitter.com/flxarias
+    description: "Director del LocalDataLab."
+  veronica:
+    name: veronica
+    display_name: Verónica Maciá
+    web: https://localdatalab.umh.es/
+    pic: https://pbs.twimg.com/profile_images/1119932529270824961/HC29SF_i_400x400.jpg
+    twitter: https://twitter.com/VeronicaMaciaRi
+    description: "Redacción del LocalDataLab."
+  enrique:
+    name: enrique
+    display_name: Enrique Fernández
+    web: https://localdatalab.umh.es/
+    pic: https://pbs.twimg.com/profile_images/711564377703510016/NDLg5Q3J_400x400.jpg
+    twitter: https://twitter.com/byhenry77
+    description: "Redacción del LocalDataLab."
+  gara:
+    name: gara
+    display_name: Gara Pulido
+    web: https://localdatalab.umh.es/
+    pic: https://pbs.twimg.com/profile_images/1007259645499592705/X8merZBo_400x400.jpg
+    twitter: https://twitter.com/PulidoTacoronte
+    description: "Redacción del LocalDataLab."
+  
 
 # Plugins
 plugins: 
@@ -45,7 +74,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other

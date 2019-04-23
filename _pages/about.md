@@ -29,7 +29,7 @@ comments: true
   <div class="col-lg-3">
       	<a target="_blank" href="{{ journos.link }}" role="button"><img src="{{ journos.pic }}" alt="{{ journos.name }}" width="140" height="140" class="bd-placeholder-img rounded-circle"></a>
         <h3>{{ journos.name }}</h3>
-        <p>{{ journos.bio }}</p>
+        <span class="badge badge-dark">{{ journos.rol }}</span><p>{{ journos.bio }}</p>
   </div><!-- /.col-lg-4 -->
 {% endfor %}
 </div><!-- /.row -->

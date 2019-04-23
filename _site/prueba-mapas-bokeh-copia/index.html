@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+<link rel="icon" href="/assets/images/logo.png">
+    
+<title>Prueba para tabla Elche con Bokeh | LocalData Lab</title>
+        
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Prueba para tabla Elche con Bokeh | Local Data Lab</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Prueba para tabla Elche con Bokeh" />
+<meta name="author" content="red" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien." />
+<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien." />
+<link rel="canonical" href="http://localhost:4000/prueba-mapas-bokeh-copia/" />
+<meta property="og:url" content="http://localhost:4000/prueba-mapas-bokeh-copia/" />
+<meta property="og:site_name" content="Local Data Lab" />
+<meta property="og:image" content="http://localhost:4000/assets/images/1.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-04-11T00:00:00+02:00" />
+<script type="application/ld+json">
+{"headline":"Prueba para tabla Elche con Bokeh","dateModified":"2019-04-11T00:00:00+02:00","datePublished":"2019-04-11T00:00:00+02:00","url":"http://localhost:4000/prueba-mapas-bokeh-copia/","image":"http://localhost:4000/assets/images/1.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/prueba-mapas-bokeh-copia/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"red"},"author":{"@type":"Person","name":"red"},"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien.","@type":"BlogPosting","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+<link href="/assets/css/screen.css" rel="stylesheet">
+    
+<link href="/assets/css/main.css" rel="stylesheet">
+    
+<script src="/assets/js/jquery.min.js"></script>
+    
+</head>
+    
+
+    
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+    
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    
+    <div class="container pr-0">    
+    
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/logo.png" alt="LocalData Lab">
+    </a>
+    <!-- End Logo -->
+  
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+       
+        <!-- Begin Menu -->
+        
+            <ul class="navbar-nav ml-auto">
+                
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/equipo">Equipo</a>
+                </li>
+                
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Escribe y pulsa intro..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+  
+            </ul>		
+        
+        
+  
+        <!-- End Menu -->
+
+    </div>
+        
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+    
+<div class="site-content">   
+
+<!-- Site Title
+================================================== -->
+    <div class="sb-page-header position-relative overflow-hidden p-2 p-md-4 text-center bg-light">
+      <div class="col-md-4 p-lg-4 mx-auto my-4">
+            <h1 class="posttitle"><a class="text-white" href="/">Local Data Lab</a></h1>    
+            <p class="lead font-weight-normal text-white">Seminario de periodismo de datos en el ámbito local.</p>
+        </div> 
+    </div>
+    
+<div class="container">    
+<!-- Content
+================================================== --> 
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+	<div class="row">
+
+		<!-- Post Share -->
+		<div class="col-md-2 pl-0">            
+           <div class="share sticky-top sticky-top-offset">
+	<p>
+		Compartir
+	</p>
+	<ul>
+		<li class="ml-1 mr-1">
+			<a target="_blank" href="https://twitter.com/intent/tweet?text=Prueba para tabla Elche con Bokeh&url=http://localhost:4000/prueba-mapas-bokeh-copia/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+				<i class="fab fa-twitter"></i>
+			</a>
+		</li>
+
+		<li class="ml-1 mr-1">
+			<a target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/prueba-mapas-bokeh-copia/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+				<i class="fab fa-facebook-f"></i>
+			</a>
+		</li>
+
+		<li class="ml-1 mr-1">
+			<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/prueba-mapas-bokeh-copia/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+				<i class="fab fa-linkedin-in"></i>
+			</a>
+		</li>
+
+	</ul>
+	
+    <div class="sep">
+    </div>				
+    <ul>
+        <li> 
+        <a  class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+  
+		</div>
+		
+
+		<!-- Post -->        
+        
+        
+		<div class="col-md-8 flex-first flex-md-unordered">
+			<div class="mainheading">
+                
+                <!-- Post Title -->
+				<h1 class="posttitle">Prueba para tabla Elche con Bokeh</h1> 
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum.</h4> 
+                
+			</div>
+
+			<!-- Post Featured Image 
+            
+
+            
+            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="http://localhost:4000/assets/images/1.jpg" alt="Prueba para tabla Elche con Bokeh">
+            
+
+            
+            End Featured Image -->
+            
+            
+
+			<!-- Post Content -->
+			<div class="article-post">
+                <!-- Toc if any -->            
+                
+                <!-- End Toc -->
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In elit enim, venenatis eu convallis et, viverra at arcu. Fusce tincidunt sapien sit amet massa venenatis, eu scelerisque ante elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu velit in ligula mollis efficitur sed vitae felis. Duis accumsan enim nec viverra rutrum. Integer id justo eget nulla tincidunt blandit eget in diam. Integer at ante elit. Duis ac mi eu ligula imperdiet dictum. Mauris mattis fringilla ligula at volutpat. In ac bibendum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse molestie venenatis lacinia. Sed scelerisque vehicula vulputate. Mauris nibh ex, ornare eu interdum id, pretium pellentesque ex. Duis sed accumsan sapien.</p>
+
+<iframe src="/assets/images/elche2.html" sandbox="allow-same-origin allow-scripts" width="100%" height="1100" scrolling="no" seamless="seamless" frameborder="0">
+</iframe>
+
+<p>Ut quis fringilla eros. Nunc a ex dui. Proin aliquam nisi vitae euismod imperdiet. Fusce congue purus at sollicitudin ultrices. Donec non dapibus dolor, quis malesuada massa. Curabitur tempor, purus id tincidunt auctor, quam tellus viverra nisi, eu bibendum augue lacus eget augue. Aliquam condimentum auctor nisi ac interdum. Curabitur vestibulum sem sed maximus tincidunt. Quisque ultrices, libero vitae elementum tincidunt, sem erat dignissim odio, in dictum sem quam in velit. Sed id urna consequat, mollis est in, tincidunt diam. Etiam sollicitudin, arcu sit amet malesuada luctus, ligula mi pulvinar risus, a venenatis sem diam id nulla. Vivamus aliquet massa non mauris condimentum, vitae lobortis mi pharetra. Nulla rhoncus iaculis est, quis blandit sapien porta nec.</p>
+
+<p>Etiam a tristique ligula, nec semper arcu. Proin malesuada mi lacus, id semper metus accumsan non. Sed sem mauris, accumsan ut orci et, placerat semper neque. Nulla ut augue nunc. Praesent leo tellus, mollis sit amet turpis eu, condimentum scelerisque ipsum. Vestibulum quis diam ultrices, ullamcorper tortor at, rutrum magna. Morbi et volutpat urna, id semper erat. Etiam condimentum leo non lorem varius, eget interdum ex tincidunt. Aenean et aliquet lorem. Nulla molestie congue laoreet. Vivamus suscipit congue tellus, quis egestas velit convallis ut.</p>
+
+			</div>
+            
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2019-04-11">11 Apr 2019</time></span>           
+                
+                </small>
+            </p>
+
+                <!-- Author Box -->
+                                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        <img class="author-thumb" src="/assets/images/logo.png" alt="LocalDataLab">
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://localdatalab.umh.es/">LocalDataLab</a><a target="_blank" href="https://twitter.com/mipumh" class="btn follow">Seguir</a>
+                        <span class="author-description">Redacción del LocalDataLab.</span>                        
+                    </div>
+                </div>              
+                
+            
+			<!-- Post Categories -->
+			<div class="after-post-cats">
+				<ul class="tags mb-4">
+                    
+                    
+                    <li>                        
+                     <a class="smoothscroll" href="/categories#histórico">histórico</a>
+                    </li>
+                    
+				</ul>
+			</div>
+            <!-- End Categories -->
+            
+            <!-- Post Tags -->
+			<div class="after-post-tags">
+				<ul class="tags">
+                    
+                    
+				</ul>
+			</div>
+			<!-- End Tags -->
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            
+            <a class="prev d-block col-md-6" href="http://localhost:4000/asi-ha-votado-elche/"> &laquo; Así han votado tus vecinos ilicitanos en las generales de la última década</a>
+            
+            
+            <a class="next d-block col-md-6 text-lg-right" href="http://localhost:4000/prueba-mapas-bokeh/">Prueba para tabla Elche con Bokeh &raquo; </a>
+            
+            <div class="clearfix"></div>
+            </div>
+            <!-- End Categories -->
+
+		</div>
+		<!-- End Post -->
+
+	</div>
+<!-- End Article
+================================================== -->
+</div>
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">      
+            
+            
+                                        
+                    <a class="mt-1 mb-1" href="/categories#redes">redes (5)</a>
+                                        
+                    <a class="mt-1 mb-1" href="/categories#histórico">histórico (9)</a>
+                                        
+                    <a class="mt-1 mb-1" href="/categories#discurso">discurso (4)</a>
+                                        
+                    <a class="mt-1 mb-1" href="/categories#historico">historico (2)</a>
+                
+            
+            
+		</div>
+        
+
+        
+	</div>
+</div>
+    
+
+ 
+
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                 Copyright © 2019 LocalData Lab 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                Rediseño del LocalDataLab a partir de <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a>.
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+   
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
+    
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+    
+</body>
+</html>

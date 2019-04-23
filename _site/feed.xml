@@ -5,8 +5,8 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Apr 2019 21:46:20 +0200</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 21:46:20 +0200</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 00:31:54 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:31:54 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -359,7 +359,7 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
 
 &lt;p&gt;Donde más votantes de este partido hubo en 2016 fue en el distrito 1 sección 21, en la zona de Nuevo Altabix donde obtuvo el 29,44% y votó el 83,76% del censo ganando el PP con el 39,49% de los votos. En esta sección el censo de población entre 0 y 39 años es del 69,32%, y la población entre 60 a 79 apenas alcanza el 4,11%. Si nos vamos al censo por género las mujeres suponen el 48,3% y los hombres el 51,7%.&lt;/p&gt;
 
-&lt;p&gt;En cambio la zona con peor resultado para Ciudadanos fue en el distrito 2 sección 11, en el barrio de los Palmerales, con un 4,99% de los votos y una participación del 42,03% de los censados. En esta sección ganó el PSOE con el 55,68% del voto emitido. En el censo hay un 67,72% con una edad comprendida entre 0 y 39 años mientras que las personas entre 60-79 apenas alcanza el 9,11%. El censo femenino en este bastión fue del 48,42% y el masculino alcanzó el 51,68%.&lt;/p&gt;
+&lt;p&gt;En cambio la zona con peor resultado para Ciudadanos fue en el distrito 2 sección 11, en el barrio de los Palmerales, con un 4,99% de los votos y una participación del 42,03% de los censados. En esta sección ganó el PSOE con el 55,68% del voto emitido. En el censo hay un 67,72% con una edad comprendida entre 0 y 39 años mientras que las personas entre 60-79 apenas alcanza el 9,11%. El censo femenino en esta sección fue del 48,42% y el masculino alcanzó el 51,68%.&lt;/p&gt;
 
 &lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
   &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
@@ -374,9 +374,7 @@ Con la tradición conservadora de la ciudad, no extraña que la repetición de e
         <guid isPermaLink="true">http://localhost:4000/ciudadanos-el-partido-nuevo/</guid>
         
         
-        <category>redes</category>
-        
-        <category>discurso</category>
+        <category>histórico</category>
         
       </item>
     
@@ -479,8 +477,6 @@ Algo curioso que ha pasado en el desarrollo de Podemos entre 2015 y 2016 es que 
         
         
         <category>redes</category>
-        
-        <category>discurso</category>
         
       </item>
     

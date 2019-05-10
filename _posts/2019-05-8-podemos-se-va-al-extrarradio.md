@@ -11,7 +11,7 @@ El apoyo de Unidas Podemos en el centro nunca ha sido importante, pero el 28 de 
 <iframe src="/assets/images/elxHPODEMOS.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -26,7 +26,7 @@ Si extrapolamos los porcentajes a cifras, Unidas Podemos ha pasado de tener 24.6
 <iframe src="/assets/images/VariacionesPodemos.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

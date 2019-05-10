@@ -11,7 +11,7 @@ Elche no fue una excepción el 28 de abril en la victoria del PSOE. Pero si los 
 <iframe src="/assets/images/bloques.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="1760"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -28,7 +28,7 @@ Los partidos del bloque de la izquierda (Podemos, Compromís y PSOE) mejoraron e
 <iframe src="/assets/images/VariacionesBqsComparada.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

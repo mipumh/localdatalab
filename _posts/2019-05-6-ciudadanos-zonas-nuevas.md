@@ -8,11 +8,10 @@ image: assets/images/ciudadanos.png
 ---
 Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares como las pedanías de Torrellano y la Hoya, Nuevo Altabix desde el Estadio Martínez Valero hasta el Polideportivo de Altabix (antiguo Kelme), y al sur de la ciudad en la zona colindante a la carretera de Dolores. En la pedanía de la Hoya consigue imponerse y ser la fuerza más votada. Y en el casco urbano su mejor resultado lo obtiene en el distrito 2 sección 22, anejo al Estadio Martínez Valero, donde casi dobla al PP en votos y supera al PSOE.
 
-
 <iframe src="/assets/images/elxHCS.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -23,7 +22,7 @@ Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares co
 <iframe src="/assets/images/VariacionesCS.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="700"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

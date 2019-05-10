@@ -11,7 +11,7 @@ Vox no consiguió el 28A alzarse con la victoria en ninguna de las secciones del
 <iframe src="/assets/images/elxHVox.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

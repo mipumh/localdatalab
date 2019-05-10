@@ -5,15 +5,15 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 May 2019 19:57:52 +0200</pubDate>
-    <lastBuildDate>Fri, 10 May 2019 19:57:52 +0200</lastBuildDate>
+    <pubDate>Fri, 10 May 2019 20:13:51 +0200</pubDate>
+    <lastBuildDate>Fri, 10 May 2019 20:13:51 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Vox germina en el campo de Elche</title>
         <description>&lt;p&gt;Vox no consiguió el 28A alzarse con la victoria en ninguna de las secciones del casco urbano de Elche. Ni siquiera en la zona centro, con un voto más girado a la derecha, obtuvo mejores resultados.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elxHVox.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elxHVox.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;En todas las secciones censales del centro de Elche el Partido Popular sigue siendo la fuerza más votada seguida de Ciudadanos. Por otra parte, en los barrios que desde siempre se han considerado obreros Vox no consigue germinar del todo y aunque en muchas de sus secciones censales consigue superar al PP, queda lejos de otras formaciones como PSOE, Ciudadanos o Unidas Podemos.&lt;/p&gt;
@@ -63,7 +63,7 @@
         <title>El morado se destiñe hasta el extrarradio</title>
         <description>&lt;p&gt;El apoyo de Unidas Podemos en el centro nunca ha sido importante, pero el 28 de abril los resultados de la formación morada empeoraron incluso en sus zonas fuertes. El partido no ha tenido en ninguna de las anteriores elecciones la confianza mayoritaria de los ilicitanos. En 2016 solo ganó en 4 de las 171 secciones de las que se compone la ciudad. Este 2019 los resultados no han mejorado.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elxHPODEMOS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elxHPODEMOS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337325/&quot;&gt;&lt;/div&gt;
@@ -73,7 +73,7 @@
 
 &lt;p&gt;Si extrapolamos los porcentajes a cifras, Unidas Podemos ha pasado de tener 24.661 votos en la ciudad a 16.775 en este 28A. La pérdida ha sido de 7.886 votos. La explicación de esto puede tener dos motivos: por un lado, la desilusión de los ciudadanos con el partido morado por las diferencias internas que ha sufrido y que han generado incertidumbre en sus votantes o, por el otro, en que los ilicitanos hayan optado por el voto útil.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/VariacionesPodemos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/VariacionesPodemos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;Dentro del declive, hay zonas en las que el voto no ha variado de manera significativa. Este es el caso de las manzanas más cercanas a La Glorieta, en la que en 2016 el porcentaje de votos fue el 9’20% y en estas elecciones ha bajado a un 4’98%, esta zona podría considerarse como la más fiel al partido en estas elecciones.&lt;/p&gt;
@@ -114,7 +114,7 @@
         <title>Al PP sólo le queda el centro</title>
         <description>&lt;p&gt;Las elecciones generales del 28 de abril dibujaron un mapa en el que el dominio del PP quedó reducido a sus bastiones tradicionales del centro del casco urbano ilicitano. Los populares perdieron votos por el centro en las zonas más nuevas de la ciudad y en el extrarradio sur, y por la derecha en algunas de las pedanías.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elxHPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elxHPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/336895&quot;&gt;&lt;/div&gt;
@@ -141,7 +141,7 @@
 
 &lt;p&gt;Una vez más, Elche rompe la tendencia nacional de que a mayor participación, mayor voto progresista. La zona centro, feudo conservador, registra las mayores cotas de participación de toda la ciudad, muy por encima de la media.  La sección 2-23, Portalada y zona nueva del Filet de Fora, registra la mayor participación de la ciudad, con un 86% y el PP gana aunque no de manera tan contundente como en elecciones anteriores. En el lado opuesto, la sección 2-11, en el barrio de Los Palmerales y con sólo un 47,69% de votantes, los populares  consiguen un 9.18%, uno de los resultados más bajos de la ciudad&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/VariacionesPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/VariacionesPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;El 28 de abril de 2019 quedará en la memoria del Partido Popular ilicitano como el día en que el PSOE consiguió ganarles tras más de 25 años de hegemonía en elecciones generales. Tomando como referencia la última década, desde 2008, los populares han tenido su resultado más exiguo. La irrupción de dos partidos más en la derecha, Ciudadanos y VOX, ha hecho mella en sus números finales aunque es cierto que la suma de los tres, apenas ha provocado un desequilibrio entre conservadores y progresistas.&lt;/p&gt;
@@ -170,12 +170,12 @@
         <title>Las zonas nuevas y las pedanías empujan a Ciudadanos</title>
         <description>&lt;p&gt;Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares como las pedanías de Torrellano y la Hoya, Nuevo Altabix desde el Estadio Martínez Valero hasta el Polideportivo de Altabix (antiguo Kelme), y al sur de la ciudad en la zona colindante a la carretera de Dolores. En la pedanía de la Hoya consigue imponerse y ser la fuerza más votada. Y en el casco urbano su mejor resultado lo obtiene en el distrito 2 sección 22, anejo al Estadio Martínez Valero, donde casi dobla al PP en votos y supera al PSOE.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elxHCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elxHCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares como las pedanías de Torrellano y la Hoya, Nuevo Altabix desde el Estadio Martínez Valero hasta el Polideportivo de Altabix (antiguo Kelme), y al sur de la ciudad en la zona colindante a la carretera de Dolores. En la pedanía de la Hoya consigue imponerse y ser la fuerza más votada. Y en el casco urbano su mejor resultado lo obtiene en el distrito 2 sección 22, anejo al Estadio Martínez Valero, donde casi dobla al PP en votos y supera al PSOE.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/VariacionesCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;700&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/VariacionesCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;El mejor dato para Ciudadanos en relación a la recuperación del voto lo obtiene en el distrito 3 sección 4, en el inicio del Camino de los Magros. En 2015 entró en la liza a nivel nacional y en este lugar consiguió el 8,16% del voto, en las elecciones de 2016 superó ese dato con el 11,37% y en estas últimas elecciones casi consigue doblar a su primer dato con el 15,61% de las papeletas.&lt;/p&gt;
@@ -224,7 +224,7 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         <title>La periferia vuelve a teñir Elche de rojo</title>
         <description>&lt;p&gt;El Partido Socialista consiguió el 28 de abril recuperar terreno perdido en casi todas las secciones ilicitanas, aunque el caso más significativo lo podemos encontrar en una de las dos secciones del barrio de los Palmerales, la más cercana al Hospital General de Elche (distrito 2 sección 11), donde los socialistas vuelven a ser partido hegemónico y no solo revalidan victoria con el 62,50% de los votos sino que además mejoran sus datos respecto a 2016, año en el que obtuvieron el 55,68% de los votos.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/elxHPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/elxHPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337314/&quot;&gt;&lt;/div&gt;
@@ -261,7 +261,7 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
 
 &lt;p&gt;A modo de curiosidad el lugar donde el PSOE obtiene un buen resultado con el 43,98% de los votos, pero más votos nulos son contabilizados es en el Distrito 4 sección 17 adyacente a la Avenida de Novelda con Obispo Barrachina donde el 2,21% de los votos fueron anulados. Por otro lado el Partido Socialista consigue su peor resultado en la sección donde más participación hubo, hablamos del distrito 1 sección 2, zona que se encuentra alrededor de la Basílica de Santa María, donde votaron el 82,63% del censo y los socialistas sólo alcanzaron el 10,04% de los votos. En cambio en una de las secciones del barrio de los Palmerales la participación no alcanzó siquiera el 50% (47,69%), pero el PSOE se alzó con la mayoría de las papeletas obteniendo el 62,5%.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/VariacionesPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/VariacionesPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;El pasado 28 de abril se convirtió en una fecha histórica para el Partido Socialista ilicitano ya que desde 1993 no conseguía superar en votos y posicionarse como primera fuerza política en  unas elecciones generales. Desde 2008 había ido perdiendo votantes en una caída constante que le llevó de los  54.319 en ese año a los 27.384 en 2016. Pero en estas últimas elecciones, el PSOE recuperó parte del terreno perdido y consiguió volver a cifras de 2011 (35.706) e incluso mejorarlas con 36.914 electores y el 29,01% del total de electores. Pero aun así queda muy lejos de los 54.319 votos del año 2008. El partido socialista logra convencer en Elche y la fragmentación del voto en la derecha le otorga una victoria que se le resistía en unas elecciones generales desde hace 26 años.&lt;/p&gt;
@@ -358,7 +358,7 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         <title>La brecha entre la izquierda y la derecha es demográfica</title>
         <description>&lt;p&gt;Elche no fue una excepción el 28 de abril en la victoria del PSOE. Pero si los resultados se agrupan por bloques, la derecha ganó con holgura en las elecciones generales. La izquierda recuperó terreno en la mayor parte de las secciones censales ilicitanas, pero no sirvió para salvar una distancia aún mayor en los comicios de 2016.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/bloques.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/bloques.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1760&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;Los mejores resultados de Ciudadanos, PP y Vox en las zonas más envejecidas, con más mujeres, con menos extranjeros y con mayor participación decantaron la balanza.&lt;/p&gt;
@@ -370,7 +370,7 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
 
 &lt;p&gt;Los partidos del bloque de la izquierda (Podemos, Compromís y PSOE) mejoraron el 28A sus resultados en la mayor parte de las secciones censales de Elche, tanto con respecto a 2016 como a 2008. Esta mejoría fue especialmente relevante en las dos secciones censales del barrio de Los Palmerales (2_11 y 2_10), donde el PSOE alcanzó sus mejores resultados. Esta curva, en cambio, fue menos clara en la mayor parte de las zonas del oeste del barrio de Carrús, como en los alrededores de la Avenida de las Cortes Valencianas (4_11). Y la izquierda apenas ganó votos en territorios de las pedanías como Algorós (7_14) o las manzanas más céntricas de la ciudad (1_3, 1_2 y 2_1).&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/VariacionesBqsComparada.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1100&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/VariacionesBqsComparada.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;La tendencia, como es lógico, se invierte en el bloque de la derecha (Ciudadanos, PP y Vox). Estos tres partidos perdieron terreno en comparación con lo que los dos primeros habían logrado años atrás, pero con importantes matices en función de la zona. En parte del centro (1_3, 1_2), la derecha casi mantuvo sus apoyos con respecto a 2016 y aumentó sobre 2008. En otras, como los alrededores del Polideportivo de Carrús y el colegio Casablanca (3_27), incluso subió considerablemente en los últimos comicios. El descenso más importante del voto de derechas se produjo en la partida de la Algoda (7_23), precisamente donde Vox obtuvo el mayor porcentaje de votos.&lt;/p&gt;
@@ -419,7 +419,7 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         <title>El cambio del voto de los ilicitanos, calle a calle</title>
         <description>&lt;p&gt;El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de las secciones censales de Elche.&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/images/ganador.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1200&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/Ganador.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1760&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últimas citas con las urnas, especialmente en el centro y los barrios del oeste, se transformó en un despegue generalizado del bloque de izquierdas (Unidas Podemos, Compromís y PSOE). Pero los datos que se desprenden de los resultados las distintas formaciones reflejan importantes matices. En esta nueva entrega del Local Data Lab, analizamos y visualizamos la evolución de los votos y el cruce con las variables demográficas.&lt;/p&gt;
@@ -429,56 +429,56 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
 
 &lt;h3 id=&quot;la-izquierda-gana-terreno-pero-se-queda-en-el-extrarradio&quot;&gt;La izquierda gana terreno, pero se queda en el extrarradio&lt;/h3&gt;
 
-&lt;p&gt;El estudio del comportamiento de los bloques [ENLACE A LA PIEZA DE LOS BLOQUES] refleja la mejora de la izquierda, pero también la brecha demográfica que todavía existe entre ambos lados del espectro ideológico y el bastión que todavía conserva la derecha en el centro de la ciudad.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://localdatalab.umh.es/brecha-izquierda-derecha-elche/&quot;&gt;El estudio del comportamiento de los bloques&lt;/a&gt; refleja la mejora de la izquierda, pero también la brecha demográfica que todavía existe entre ambos lados del espectro ideológico y el bastión que todavía conserva la derecha en el centro de la ciudad.&lt;/p&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/339037&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;el-bipartidismo-sólo-pervive-en-la-periferia-y-entre-la-población-más-envejecida&quot;&gt;El bipartidismo sólo pervive en la periferia y entre la población más envejecida&lt;/h3&gt;
 
-&lt;p&gt;El voto a PP y PSOE [ENLACE A LA PIEZA DEL BIPARTIDISMO] desciende especialmente en las pedanías y en las zonas con menor presencia de mayores de 60 años, pero resiste en las secciones con mayor inmigración y menor participación&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://localdatalab.umh.es/bipartidismo-en-el-extrarradio/&quot;&gt;El voto a PP y PSOE&lt;/a&gt; desciende especialmente en las pedanías y en las zonas con menor presencia de mayores de 60 años, pero resiste en las secciones con mayor inmigración y menor participación&lt;/p&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/333917&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;el-congreso-ilicitano-sería-de-derechas&quot;&gt;El Congreso ilicitano sería de derechas&lt;/h3&gt;
 
-&lt;p&gt;El Congreso de los Diputados, solo con los votos de Elche volvería a ser conservador [ENLACE A LA PIEZA DEL PARLAMENTO ILICITANO]. Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.&lt;/p&gt;
+&lt;p&gt;El Congreso de los Diputados, &lt;a href=&quot;https://localdatalab.umh.es/parlamento-ilicitano-28A/&quot;&gt;solo con los votos de Elche volvería a ser conservador&lt;/a&gt;. Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/images/VariacionesPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;el-cinturón-rojo-se-abrocha-en-elche&quot;&gt;El cinturón rojo se abrocha en Elche&lt;/h3&gt;
 
-&lt;p&gt;El centro y gran parte de las pedanías se le siguen resistiendo al PSOE [ENLACE A LA PIEZA DEL PSOE], pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.&lt;/p&gt;
+&lt;p&gt;El centro y gran parte de &lt;a href=&quot;https://localdatalab.umh.es/PSOE-periferia-de-rojo/&quot;&gt;las pedanías se le siguen resistiendo al PSOE&lt;/a&gt;, pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/images/VariacionesCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;ciudadanos-por-todas-partes-pero-sobre-todo-en-las-zonas-jóvenes&quot;&gt;Ciudadanos por todas partes, pero sobre todo en las zonas jóvenes&lt;/h3&gt;
 
-&lt;p&gt;El partido de Albert Ribera recupera su fuerza [ENLACE A LA PIEZA DE CIUDADANOS] en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.&lt;/p&gt;
+&lt;p&gt;El &lt;a href=&quot;https://localdatalab.umh.es/ciudadanos-zonas-nuevas/&quot;&gt;partido de Albert Rivera recupera su fuerza&lt;/a&gt; en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/images/VariacionesPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;el-pp-se-aferra-al-centro&quot;&gt;El PP se aferra al centro&lt;/h3&gt;
 
-&lt;p&gt;La caída generalizada de los votos al Partido Popular en Elche [ENLACE A LA PIEZA DEL PP] implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&quot;https://localdatalab.umh.es/PP-solo-queda-centro-elche/&quot;&gt;caída generalizada de los votos al Partido Popular en Elche&lt;/a&gt; implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/images/VariacionesPodemos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;podemos-se-queda-en-las-afueras&quot;&gt;Podemos se queda en las afueras&lt;/h3&gt;
 
-&lt;p&gt;El caso de Unidas Podemos [ENLACE A LA PIEZA DE PODEMOS] es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.&lt;/p&gt;
+&lt;p&gt;El &lt;a href=&quot;https://localdatalab.umh.es/podemos-se-va-al-extrarradio/&quot;&gt;caso de Unidas Podemos&lt;/a&gt; es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.&lt;/p&gt;
 
 &lt;iframe src=&quot;/assets/images/VariacionesVox.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;h3 id=&quot;vox-asoma-por-el-campo&quot;&gt;Vox asoma por el campo&lt;/h3&gt;
 
-&lt;p&gt;La irrupción de Vox &lt;a href=&quot;&quot;&gt;ENLACE A LA PIEZA DE VOX&lt;/a&gt;, cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&quot;https://localdatalab.umh.es/vox-germina-campo-elche/&quot;&gt;irrupción de Vox&lt;/a&gt;, cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.&lt;/p&gt;
 
 &lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
   &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;

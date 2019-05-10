@@ -11,7 +11,7 @@ El Partido Socialista consiguió el 28 de abril recuperar terreno perdido en cas
 <iframe src="/assets/images/elxHPSOE.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -50,7 +50,7 @@ A modo de curiosidad el lugar donde el PSOE obtiene un buen resultado con el 43,
 <iframe src="/assets/images/VariacionesPSOE.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

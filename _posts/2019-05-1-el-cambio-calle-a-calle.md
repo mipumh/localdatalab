@@ -8,10 +8,10 @@ image: assets/images/image1.png
 ---
 El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de las secciones censales de Elche. 
 
-<iframe src="/assets/images/ganador.html"
+<iframe src="/assets/images/Ganador.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1200"
+    height="1760"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -30,19 +30,19 @@ El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últi
 
 ### La izquierda gana terreno, pero se queda en el extrarradio
 
-El estudio del comportamiento de los bloques [ENLACE A LA PIEZA DE LOS BLOQUES] refleja la mejora de la izquierda, pero también la brecha demográfica que todavía existe entre ambos lados del espectro ideológico y el bastión que todavía conserva la derecha en el centro de la ciudad.
+[El estudio del comportamiento de los bloques](https://localdatalab.umh.es/brecha-izquierda-derecha-elche/) refleja la mejora de la izquierda, pero también la brecha demográfica que todavía existe entre ambos lados del espectro ideológico y el bastión que todavía conserva la derecha en el centro de la ciudad.
 
 <div class="flourish-embed" data-src="visualisation/339037"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### El bipartidismo sólo pervive en la periferia y entre la población más envejecida
 
-El voto a PP y PSOE [ENLACE A LA PIEZA DEL BIPARTIDISMO] desciende especialmente en las pedanías y en las zonas con menor presencia de mayores de 60 años, pero resiste en las secciones con mayor inmigración y menor participación
+[El voto a PP y PSOE](https://localdatalab.umh.es/bipartidismo-en-el-extrarradio/) desciende especialmente en las pedanías y en las zonas con menor presencia de mayores de 60 años, pero resiste en las secciones con mayor inmigración y menor participación
 
 <div class="flourish-embed" data-src="visualisation/333917"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### El Congreso ilicitano sería de derechas
 
-El Congreso de los Diputados, solo con los votos de Elche volvería a ser conservador [ENLACE A LA PIEZA DEL PARLAMENTO ILICITANO]. Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.
+El Congreso de los Diputados, [solo con los votos de Elche volvería a ser conservador](https://localdatalab.umh.es/parlamento-ilicitano-28A/). Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.
 
 <iframe src="/assets/images/VariacionesPSOE.html"
     sandbox="allow-same-origin allow-scripts"
@@ -55,7 +55,7 @@ El Congreso de los Diputados, solo con los votos de Elche volvería a ser conser
 
 ### El cinturón rojo se abrocha en Elche
 
-El centro y gran parte de las pedanías se le siguen resistiendo al PSOE [ENLACE A LA PIEZA DEL PSOE], pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.
+El centro y gran parte de [las pedanías se le siguen resistiendo al PSOE](https://localdatalab.umh.es/PSOE-periferia-de-rojo/), pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.
 
 <iframe src="/assets/images/VariacionesCS.html"
     sandbox="allow-same-origin allow-scripts"
@@ -68,7 +68,7 @@ El centro y gran parte de las pedanías se le siguen resistiendo al PSOE [ENLACE
 
 ### Ciudadanos por todas partes, pero sobre todo en las zonas jóvenes
 
-El partido de Albert Ribera recupera su fuerza [ENLACE A LA PIEZA DE CIUDADANOS] en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.
+El [partido de Albert Rivera recupera su fuerza](https://localdatalab.umh.es/ciudadanos-zonas-nuevas/) en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.
 
 <iframe src="/assets/images/VariacionesPP.html"
     sandbox="allow-same-origin allow-scripts"
@@ -81,7 +81,7 @@ El partido de Albert Ribera recupera su fuerza [ENLACE A LA PIEZA DE CIUDADANOS]
 
 ### El PP se aferra al centro
 
-La caída generalizada de los votos al Partido Popular en Elche [ENLACE A LA PIEZA DEL PP] implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.
+La [caída generalizada de los votos al Partido Popular en Elche](https://localdatalab.umh.es/PP-solo-queda-centro-elche/) implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.
 
 <iframe src="/assets/images/VariacionesPodemos.html"
     sandbox="allow-same-origin allow-scripts"
@@ -94,7 +94,7 @@ La caída generalizada de los votos al Partido Popular en Elche [ENLACE A LA PIE
 
 ### Podemos se queda en las afueras
 
-El caso de Unidas Podemos [ENLACE A LA PIEZA DE PODEMOS] es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.
+El [caso de Unidas Podemos](https://localdatalab.umh.es/podemos-se-va-al-extrarradio/) es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.
 
 <iframe src="/assets/images/VariacionesVox.html"
     sandbox="allow-same-origin allow-scripts"
@@ -107,7 +107,7 @@ El caso de Unidas Podemos [ENLACE A LA PIEZA DE PODEMOS] es el opuesto al del PP
 
 ### Vox asoma por el campo
 
-La irrupción de Vox [ENLACE A LA PIEZA DE VOX](), cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.
+La [irrupción de Vox](https://localdatalab.umh.es/vox-germina-campo-elche/), cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.
 
 
 <div class="alert alert-secondary" role="alert">

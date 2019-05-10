@@ -11,7 +11,7 @@ Las elecciones generales del 28 de abril dibujaron un mapa en el que el dominio 
 <iframe src="/assets/images/elxHPP.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -40,7 +40,7 @@ Una vez más, Elche rompe la tendencia nacional de que a mayor participación, m
 <iframe src="/assets/images/VariacionesPP.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1100"
+    height="850"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

@@ -338,9 +338,12 @@ License: https://www.wowthemes.net/freebies-license/
      font-style:italic;
      color:rgba(0,0,0,.5);
 }
- .article-post p,.article-post blockquote {
+ .article-post p,.article-post h3,.article-post blockquote, .article-post .alert {
      margin:0 0 1.5rem 0;
-}
+     max-width: 46rem;
+     margin-left: auto;
+     margin-right: auto;
+ }
  .featured-image {
      display:block;
      margin-bottom:1.5rem;

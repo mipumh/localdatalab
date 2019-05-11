@@ -11,7 +11,7 @@ El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de la
 <iframe src="/assets/images/Ganador.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1760"
+    height="1700"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

@@ -36,19 +36,19 @@ Los partidos del bloque de la izquierda (Podemos, Compromís y PSOE) mejoraron e
 
 La tendencia, como es lógico, se invierte en el bloque de la derecha (Ciudadanos, PP y Vox). Estos tres partidos perdieron terreno en comparación con lo que los dos primeros habían logrado años atrás, pero con importantes matices en función de la zona. En parte del centro (1_3, 1_2), la derecha casi mantuvo sus apoyos con respecto a 2016 y aumentó sobre 2008. En otras, como los alrededores del Polideportivo de Carrús y el colegio Casablanca (3_27), incluso subió considerablemente en los últimos comicios. El descenso más importante del voto de derechas se produjo en la partida de la Algoda (7_23), precisamente donde Vox obtuvo el mayor porcentaje de votos.    
 
-<div class="flourish-embed" data-src="story/40031/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="story/40031"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Los años y las mujeres giran a la derecha
 
 La relación entre la edad y el sexo de los votantes con los resultados electorales de los bloques confirma las tendencias observadas, por separado, en los partidos. La curva es prácticamente inapreciable en las zonas con mayor porcentaje de niños y jóvenes. Sin embargo, el apoyo a la izquierda sí es claramente mayor conforme aumenta el número de iliciantes de entre 20 y 39 años. A partir de ahí, la tendencia se invierte: en las zonas con mayor porcentaje de personas de más de 40 años, la derecha tiende a ganar apoyos. Y lo mismo sucede cuando aumenta el porcentaje de población femenina.
 
-<div class="flourish-embed" data-src="story/40032/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="story/40032"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### La diversidad se desplaza por la izquierda
 
 Las zonas de Elche con mayor diversidad de nacionalidades tienden a registrar un mayor apoyo a las formaciones de izquierda. Se trata de una de las tendencias más evidentes del cruce de variables poblacionales con el voto. La presencia de ciudadanos del continente americano ejerce una influencia reducida, pero las secciones en las que residen más personas de áfrica o del resto de la Unión Europea se decantan claramente el bloque de Podemos, Compromís y PSOE. En las zonas con mayor porcentaje de personas nacidas en España, en cambio, tiende a crecer el apoyo a los partidos de derecha.
 
-<div class="flourish-embed" data-src="visualisation/40034/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/40034"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Participar es de derechas
 

@@ -17,7 +17,7 @@ El apoyo de Unidas Podemos en el centro nunca ha sido importante, pero el 28 de 
     frameborder="0">
 </iframe>
 
-<div class="flourish-embed" data-src="visualisation/337325/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337325"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 En el distrito 8 sección 6 su caída ha sido en picado, concretamente de un 14’32%. No debemos olvidar que fue justamente aquí, en la parte adyacente a la rotonda del Aljub, donde en 2016 obtuvo su mejor resultado (28’61%), sin embargo este 2019 los ciudadanos abandonaron al partido dejando su porcentaje de votos en el 14’29 %.
  
@@ -34,13 +34,13 @@ Si extrapolamos los porcentajes a cifras, Unidas Podemos ha pasado de tener 24.6
  
 Dentro del declive, hay zonas en las que el voto no ha variado de manera significativa. Este es el caso de las manzanas más cercanas a La Glorieta, en la que en 2016 el porcentaje de votos fue el 9’20% y en estas elecciones ha bajado a un 4’98%, esta zona podría considerarse como la más fiel al partido en estas elecciones.
 
-<div class="flourish-embed" data-src="visualisation/337383/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337383"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### El sexo no influye en el partido morado
 
 En el caso de Unidas Podemos la variable ‘hombre/mujer’ es indiferente en cuanto al voto, ya que en secciones con porcentajes de mujeres en censo similares ha obtenido resultados muy dispares, por ejemplo: en el distrito 5-23 el censo de mujeres representa el 50’34% y el porcentaje de votos al partido morado ha sido el 19’67%; mientras que, por otro lado en el distrito 2-02 el censo de mujeres es un 54’05 y el resultado fue un 4’98%. Aunque la tendencia en voto de las mujeres en cuanto a este partido ha descendido en comparación a años anteriores. 
 
-<div class="flourish-embed" data-src="visualisation/337755/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337755"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Favorecidos por la inmigración
 

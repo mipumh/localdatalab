@@ -21,7 +21,7 @@ Las elecciones generales del 28 de abril dibujaron un mapa en el que el dominio 
 
 La partida de Algoda, en el distrito 7, sección 23 es la que experimenta una mayor caída en el porcentaje de votos obtenidos. Mas de un 56% de sufragios perdido en una década, en una zona tradicionalmente con mayoría del PP. El el lado opuesto, donde menos disminuyen es el el distrito 4, sección 11 con “solo” un 18% de pérdida de voto. Tiene su explicación ya que está situada en Carrús, cerca del centro de salud del Toscar y al ser una zona generalmente de mayoría socialista, la bajada afecta menos ya que se parte de un menor número de votos. Esto también sucede en el barrio de Los Palmerales y el de San Antón, ambos en el distrito 2, secciones 9, 10, 11 y 22.
 
-<div class="flourish-embed" data-src="visualisation/337839/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337839"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Anclados en el pasado
 
@@ -29,11 +29,11 @@ El Partido Popular, una vez más, no consigue ilusionar a los jóvenes. Aunque n
 
 En cuanto al sexo, y al igual que en pasadas elecciones, a más mujeres, mayor voto conservador. En general el porcentaje de hombres y mujeres en bastante similar en todas las secciones, pero en la 2-03, en los alrededores de la Glorieta, ellas son un 55,80% y es una de las 22 secciones donde el PP ha ganado en estas elecciones. Donde menos mujeres hay, en Torrellano, sección 7-04 y con un 46.33% el resultado final ha sido de un empate entre PP y PSOE.
 
-<div class="flourish-embed" data-src="visualisation/337840/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337840"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 La influencia que la existencia de inmigrantes tiene en el porcentaje de voto obtenido por los populares apenas tiene efecto pero si quisiéramos marcar una tendencia, en zonas con más vecinos procedentes de África,  menos votos obtiene el PP, mientras que en zonas con predominio de residentes americanos, los conservadores obtienen un mejor resultado.
 
-<div class="flourish-embed" data-src="visualisation/337841/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337841"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 Una vez más, Elche rompe la tendencia nacional de que a mayor participación, mayor voto progresista. La zona centro, feudo conservador, registra las mayores cotas de participación de toda la ciudad, muy por encima de la media.  La sección 2-23, Portalada y zona nueva del Filet de Fora, registra la mayor participación de la ciudad, con un 86% y el PP gana aunque no de manera tan contundente como en elecciones anteriores. En el lado opuesto, la sección 2-11, en el barrio de Los Palmerales y con sólo un 47,69% de votantes, los populares  consiguen un 9.18%, uno de los resultados más bajos de la ciudad
 

@@ -17,13 +17,13 @@ El Partido Socialista consiguió el 28 de abril recuperar terreno perdido en cas
     frameborder="0">
 </iframe>
 
-<div class="flourish-embed" data-src="visualisation/337314/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337314"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### San Antón vuelve a abrazar al PSOE
 
 El PSOE obtiene sus mejores datos en cuanto a recuperación de voto en el distrito 2 sección 6, que corresponde a una de las dos secciones censales del barrio de San Antón, donde se alza con el 44,09% del voto en 2019 frente al 31,66% de 2018, lo que significa casi un 14,50% más entre unas elecciones y otras..
 
-<div class="flourish-embed" data-src="visualisation/337822/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337822"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Las ilicitanas no apoyaron a Sánchez
 
@@ -33,7 +33,7 @@ Si cruzamos los resultados del PSOE con la presencia de mujeres en las secciones
 
 En la sección del barrio de los Palmerales comentada anteriormente (distrito 2 sección 11) el censo de población de entre 0 y 39 años es del 67,93%, y en este lugar el PSOE obtiene el 62,5% del voto. En cambio el distrito 1 sección 2, es donde esa misma franja de edad apenas alcanza el 37,66%  y los socialistas solo obtienen el 10,04% del respaldo de sus habitantes.
 
-<div class="flourish-embed" data-src="visualisation/337823/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337823"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Más extranjeros no significa más intolerancia
 
@@ -41,7 +41,7 @@ En las secciones censales donde más población inmigrante existe los datos reve
 
 El mayor grupo de población africana se encuentra en el Distrito 3 sección 1, alrededor de la Plaza San Agatángelo de Carrús, con un 14,35% del padrón, y en este lugar el PSOE obtiene el 43,47% de los votos. Este dato nos puede llevar a la conclusión de que no existe una tendencia entre un barrio obrero votante de izquierdas y un auge de intolerancia hacia el extranjero.
 
-<div class="flourish-embed" data-src="visualisation/337820/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337820"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### La alta participación del centro daña al PSOE
 

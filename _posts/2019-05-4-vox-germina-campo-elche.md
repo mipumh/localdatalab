@@ -19,11 +19,11 @@ Vox no consiguió el 28A alzarse con la victoria en ninguna de las secciones del
 
 En todas las secciones censales del centro de Elche el Partido Popular sigue siendo la fuerza más votada seguida de Ciudadanos. Por otra parte, en los barrios que desde siempre se han considerado obreros Vox no consigue germinar del todo y aunque en muchas de sus secciones censales consigue superar al PP, queda lejos de otras formaciones como PSOE, Ciudadanos o Unidas Podemos.
 
-<div class="flourish-embed" data-src="visualisation/337844/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337844"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 La tendencia del voto joven entre 20 a 39 años marca una ligera descendencia por debajo de la media respecto a otros partidos, pero el voto entre 40 a 59 años sí que marca un ligero ascenso lo que nos hace suponer que el mayor caladero de votos de Vox está comprendido entre los 35 a 50 años. En cuanto al voto de las mujeres a esta formación también podemos apreciar un descenso conforme a la media.
 
-<div class="flourish-embed" data-src="visualisation/337846/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337846"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Las pedanías se convierten en abono fértil
 
@@ -31,7 +31,7 @@ Si analizamos el voto por edad el lugar donde Vox obtiene su mejor resultado ent
 
 En el distrito 7 sección 23, partida de la pedanía de Algoda, Vox se impone con un empate técnico con el PSOE y una mínima ventaja, siendo la fuerza más votada (161 votos frente a 160).
 
-<div class="flourish-embed" data-src="visualisation/337845/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337845"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### El apoyo a Vox no florece en la clase trabajadora
 

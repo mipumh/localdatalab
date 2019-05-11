@@ -30,13 +30,13 @@ Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares co
 
 El mejor dato para Ciudadanos en relación a la recuperación del voto lo obtiene en el distrito 3 sección 4, en el inicio del Camino de los Magros. En 2015 entró en la liza a nivel nacional y en este lugar consiguió el 8,16% del voto, en las elecciones de 2016 superó ese dato con el 11,37% y en estas últimas elecciones casi consigue doblar a su primer dato con el 15,61% de las papeletas.
 
-<div class="flourish-embed" data-src="visualisation/337342/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337342"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### La permanencia se juega en Altabix
 
 Su mayor caída en el histórico se produce en el distrito 1 sección 21 en Nuevo Altabix, alrededor de la Jefatura de la Policía Local de Elche, ya que en 2015 obtuvo el 34,39% y en estas últimas elecciones solo el 29,34% de los votantes le otorgó su confianza, aunque cabe destacar que los datos son prácticamente iguales a los de 2016 en los que obtuvo el 29,44%. Por lo tanto el denominado voto útil de las pasadas elecciones no ha regresado a Ciudadanos.
 
-<div class="flourish-embed" data-src="visualisation/*/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337832"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Voto joven de clase media
 

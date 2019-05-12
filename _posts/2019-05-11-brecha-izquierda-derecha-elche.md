@@ -48,7 +48,7 @@ La relación entre la edad y el sexo de los votantes con los resultados electora
 
 Las zonas de Elche con mayor diversidad de nacionalidades tienden a registrar un mayor apoyo a las formaciones de izquierda. Se trata de una de las tendencias más evidentes del cruce de variables poblacionales con el voto. La presencia de ciudadanos del continente americano ejerce una influencia reducida, pero las secciones en las que residen más personas de áfrica o del resto de la Unión Europea se decantan claramente el bloque de Podemos, Compromís y PSOE. En las zonas con mayor porcentaje de personas nacidas en España, en cambio, tiende a crecer el apoyo a los partidos de derecha.
 
-<div class="flourish-embed" data-src="visualisation/40034"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="story/40034"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Participar es de derechas
 

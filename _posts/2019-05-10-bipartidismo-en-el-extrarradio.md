@@ -14,7 +14,7 @@ La suma de los dos partidos con mayor tradición democrática, PP y PSOE, tocó 
 
 El bipartidismo se resintió considerablemente en todos los rincones de Elche, pero con diferente intensidad. En el barrio de Los Palmerales (2_10 y 2_11), gracias sobre todo al apoyo al PSOE, el descenso de los partidos convencionales fue reducido. Algo similar sucedió en las manzanas que rodean el parque 1 de Mayo (3_17). Las principales caídas, en cambio, se registraron en gran parte de las partidas rurales. Es especialmente notable el caso de la Algoda (7_23), que hasta 2011 estaba entre las zonas con mayor apoyo a los partidos convencionales. El castigo también fue considerable en zonas como las de la Ciudad Deportiva (1_17) o el Huerto de Travalón (2_24). 
 
-<div class="flourish-embed" data-src="visualisation/40034"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="story/40034"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### La juventud huye del convencionalismo
 

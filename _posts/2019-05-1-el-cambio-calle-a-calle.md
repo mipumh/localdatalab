@@ -109,6 +109,18 @@ El [caso de Unidas Podemos](https://localdatalab.umh.es/podemos-se-va-al-extrarr
 
 La [irrupción de Vox](https://localdatalab.umh.es/vox-germina-campo-elche/), cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.
 
+<iframe src="/assets/images/VariacionesCompromis.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="850"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+### Los votos de Compromís sólo cambian de lugar
+
+Compromís apenas mejoró los resultados globales que alcanzó en 2011, cuando se presentó por última vez en solitario a unas Generales. [La coalición mejoró en algunas zonas del sur](https://localdatalab.umh.es/compromis-solo-despega-sur/), especialmente de El Pla y El Raval, pero empeoró en secciones del norte como las de Carrús.
 
 <div class="alert alert-secondary" role="alert">
   <h4 class="alert-heading">Nota metodológica</h4>

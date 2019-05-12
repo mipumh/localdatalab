@@ -42,7 +42,7 @@ Su mayor caída en el histórico se produce en el distrito 1 sección 21 en Nuev
 
 En este mismo distrito y sección (1-21), los censados entre 0 y 39 años suponen el 52,61% de la población y de los 60 años en adelante el 31,45%, de lo que se podría deducir que el voto a Ciudadanos en un voto joven de clase media.
 
-<div class="flourish-embed" data-src="visualisation/337829/"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/337829"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 Su mayor remontada la encontramos en el Distrito 1 sección 5, frente al colegio Ferrández Cruz donde en 2015 obtuvo el 31,68% de los votos, cayendo en 2016 al 25,00% y recuperando algo más de cinco puntos y medio (30,63%) en las últimas elecciones.
 El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado fue en el distrito 2 sección 25, al sur de la ciudad y bordeando Puertas Encarnadas, donde la participación fue del 85,71% y el partido alcanzó el 30,63% de los votos.

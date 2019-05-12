@@ -5,8 +5,8 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 May 2019 11:37:23 +0200</pubDate>
-    <lastBuildDate>Sat, 11 May 2019 11:37:23 +0200</lastBuildDate>
+    <pubDate>Sun, 12 May 2019 09:29:21 +0200</pubDate>
+    <lastBuildDate>Sun, 12 May 2019 09:29:21 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -44,7 +44,7 @@
 
 &lt;p&gt;Las zonas de Elche con mayor diversidad de nacionalidades tienden a registrar un mayor apoyo a las formaciones de izquierda. Se trata de una de las tendencias más evidentes del cruce de variables poblacionales con el voto. La presencia de ciudadanos del continente americano ejerce una influencia reducida, pero las secciones en las que residen más personas de áfrica o del resto de la Unión Europea se decantan claramente el bloque de Podemos, Compromís y PSOE. En las zonas con mayor porcentaje de personas nacidas en España, en cambio, tiende a crecer el apoyo a los partidos de derecha.&lt;/p&gt;
 
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/40034&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;story/40034&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;participar-es-de-derechas&quot;&gt;Participar es de derechas&lt;/h3&gt;
@@ -81,7 +81,7 @@
 
 &lt;p&gt;El bipartidismo se resintió considerablemente en todos los rincones de Elche, pero con diferente intensidad. En el barrio de Los Palmerales (2_10 y 2_11), gracias sobre todo al apoyo al PSOE, el descenso de los partidos convencionales fue reducido. Algo similar sucedió en las manzanas que rodean el parque 1 de Mayo (3_17). Las principales caídas, en cambio, se registraron en gran parte de las partidas rurales. Es especialmente notable el caso de la Algoda (7_23), que hasta 2011 estaba entre las zonas con mayor apoyo a los partidos convencionales. El castigo también fue considerable en zonas como las de la Ciudad Deportiva (1_17) o el Huerto de Travalón (2_24).&lt;/p&gt;
 
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/40034&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;story/40034&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;la-juventud-huye-del-convencionalismo&quot;&gt;La juventud huye del convencionalismo&lt;/h3&gt;
@@ -232,7 +232,7 @@
 
 &lt;p&gt;En este mismo distrito y sección (1-21), los censados entre 0 y 39 años suponen el 52,61% de la población y de los 60 años en adelante el 31,45%, de lo que se podría deducir que el voto a Ciudadanos en un voto joven de clase media.&lt;/p&gt;
 
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337829/&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337829&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Su mayor remontada la encontramos en el Distrito 1 sección 5, frente al colegio Ferrández Cruz donde en 2015 obtuvo el 31,68% de los votos, cayendo en 2016 al 25,00% y recuperando algo más de cinco puntos y medio (30,63%) en las últimas elecciones.
@@ -416,6 +416,62 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
       </item>
     
       <item>
+        <title>Compromís sólo despega en el sur</title>
+        <description>&lt;p&gt;Los pobres resultados de Compromís en su regreso en solitario a las Elecciones generales se explican, sobre todo, por el escaso apoyo generalizado que obtuvieron en amplias zonas del centro, de barrios como Carrús o de las partidas rurales del norte. La coalición mejoró sus resultados en secciones censales del sur, especialmente en calles clave de El Pla y El Raval, pero incluso ahí sus apoyos nunca llegaron al 5%.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHCompromis.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El mapa que Compromís dibujó el 28 de abril en Elche fue sin duda el más modesto y plano de los seis partidos más votados. La lista encabezada por Aitana Joana Mas en la provincia de Alicante sólo despuntó ligeramente en las manzanas que hay frente al Centro de Salud de El Raval (2_18) y en el cruce de las calles Pedro Juan Perpiñán con Hilarión Eslava (6_18). En muchas zonas de Carrús, en cambio, la coalición apenas superó el 1% del total de apoyos.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337375&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;escasa-fidelidad&quot;&gt;Escasa fidelidad&lt;/h3&gt;
+
+&lt;p&gt;Ha transcurrido casi una década desde la última vez que Compromís se presentó en solitario a unas Generales y las variaciones son relativas, pero parece evidente que existe una importante volatilidad en el votante de esta formación. La zona que queda al sur del Puente de la Virgen, por ejemplo, en la que en 2011 un 5% de los ilicitanos votaron a la coalición, se situó el 28A sobre la media de apoyos al partido en la ciudad. En la zona de Parque 9 de octubre, donde Compromís obtuvo más de un 3% de apoyos en 2011, este año apenas obtuvo un puñado de votos.&lt;/p&gt;
+
+&lt;h3 id=&quot;no-importan-los-años-ni-el-sexo&quot;&gt;No importan los años ni el sexo&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337790&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La edad y el sexo ejercen escasa influencia en el apoyo a Compromís. La formación tiende a obtener más apoyos en las zonas con más niños y adolescentes y con una población de entre 40 y 59 años, mientras que cotiza a la baja en el resto de franjas. La mayor presencia de mujeres le favorece, pero muy ligeramente.&lt;/p&gt;
+
+&lt;h3 id=&quot;más-apoyos-en-las-zonas-con-menos-inmigración&quot;&gt;Más apoyos en las zonas con menos inmigración&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337789&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La variable de la nacionalidad sí parece tener un poco más de repercusión. Compromís tiende a cosechar mejores resultados conforme disminuye el porcentaje de extranjeros en las secciones censales de la ciudad, especialmente de inmigrantes del norte de África.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-compromís-sí-le-gusta-participar&quot;&gt;A Compromís sí le gusta participar&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337788&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;A diferencia de lo que sucedió con el bloque de la izquierda el 28A, Compromís se vio favorecido por la participación. Gran parte de sus mejores resultados se registraron en las secciones censales en las que un mayor porcentaje de ilicitanos acudieron a su cita con las urnas.&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales del 28A en la sección 2 del distrito 5 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 03 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/compromis-solo-cambia-lugar/</link>
+        <guid isPermaLink="true">http://localhost:4000/compromis-solo-cambia-lugar/</guid>
+        
+        
+        <category>resultados</category>
+        
+      </item>
+    
+      <item>
         <title>El cambio del voto de los ilicitanos, calle a calle</title>
         <description>&lt;p&gt;El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de las secciones censales de Elche.&lt;/p&gt;
 
@@ -480,6 +536,13 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
 
 &lt;p&gt;La &lt;a href=&quot;https://localdatalab.umh.es/vox-germina-campo-elche/&quot;&gt;irrupción de Vox&lt;/a&gt;, cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.&lt;/p&gt;
 
+&lt;iframe src=&quot;/assets/images/VariacionesCompromis.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;h3 id=&quot;los-votos-de-compromís-sólo-cambian-de-lugar&quot;&gt;Los votos de Compromís sólo cambian de lugar&lt;/h3&gt;
+
+&lt;p&gt;Compromís apenas mejoró los resultados globales que alcanzó en 2011, cuando se presentó por última vez en solitario a unas Generales. &lt;a href=&quot;https://localdatalab.umh.es/compromis-solo-despega-sur/&quot;&gt;La coalición mejoró en algunas zonas del sur&lt;/a&gt;, especialmente de El Pla y El Raval, pero empeoró en secciones del norte como las de Carrús.&lt;/p&gt;
+
 &lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
   &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
   &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
@@ -497,50 +560,6 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         
         
         <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>Urnas llenas, votos para la derecha</title>
-        <description>&lt;p&gt;Las urnas de las secciones censales de Elche que más se han llenado en las últimas cuatro elecciones generales han favorecido a los partidos de derecha y centroderecha. La relación entre el voto de protesta es menos clara, pero tiende a favorecer a PP y PSOE, los dos partidos con mayor recorrido.&lt;/p&gt;
-
-&lt;h3 id=&quot;participar-no-es-de-izquierdas&quot;&gt;Participar no es de izquierdas&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297212&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La movilización favorece a PP y a Ciudadanos. El Partido Popular obtiene gran parte de sus mejores resultados en las zonas de Elche que en las últimas cuatro elecciones generales registraron un mayor porcentaje de participación. Algo similar sucede con la formación naranja, en los dos últimos comicios, con una dinámica casi idéntica en ambas convocatorias.&lt;/p&gt;
-
-&lt;p&gt;En el PSOE, la tendencia es totalmente contraria, especialmente en 2’15 y 2016. Algunos de sus mejores resultados se registraron en secciones como la que corresponde al barrio de Los Palmerales, donde la participación fue la más baja de la ciudad. Esta relación también se observa en el caso de Podemos, pero con una línea bastante más plana.&lt;/p&gt;
-
-&lt;h3 id=&quot;votos-en-blanco-para-los-partidos-convencionales&quot;&gt;Votos en blanco para los partidos convencionales&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297220&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La relación entre el voto en blanco, en teoría una de las formas de desacuerdo con todas las propuestas, y el apoyo a los diferentes partidos es mucho más leve. Aun así, sí es posible observar un mayor porcentaje de votos al PSOE y sobre todo al PP en aquellas secciones censales en las que se depositaron sobres vacíos, especialmente en 2011. La curva de los nuevos partidos, Ciudadanos y Podemos, es prácticamente plana.&lt;/p&gt;
-
-&lt;h3 id=&quot;el-voto-nulo-no-le-sirve-a-nadie&quot;&gt;El voto nulo no le sirve a nadie&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/297223&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Apenas se observa ningún tipo de relación entre el voto nulo y los resultados de los partidos. El voto de protesta contra el sistema (o el error) no parece estar vinculado con ninguno de estos cuatro grandes partidos. Incluso si cabe un poco menos con Ciudadanos, que obtiene unos resultados ligeramente inferiores cuando el voto nulo aumenta.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 23 Apr 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/urnas-llenas-votos-derechas/</link>
-        <guid isPermaLink="true">http://localhost:4000/urnas-llenas-votos-derechas/</guid>
-        
-        
-        <category>histórico</category>
         
       </item>
     

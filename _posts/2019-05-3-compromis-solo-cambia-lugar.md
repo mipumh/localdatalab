@@ -4,7 +4,7 @@ title: "Compromís sólo despega en el sur"
 subtitle: "La coalición sólo supera el 4% de los votos en algunas zonas de El Pla y El Raval tras concurrir en solitario a las Generales ocho años después"
 author: felix 
 categories: [ resultados ]
-image: assets/images/vox.png
+image: assets/images/compromis.png
 ---
 Los pobres resultados de Compromís en su regreso en solitario a las Elecciones generales se explican, sobre todo, por el escaso apoyo generalizado que obtuvieron en amplias zonas del centro, de barrios como Carrús o de las partidas rurales del norte. La coalición mejoró sus resultados en secciones censales del sur, especialmente en calles clave de El Pla y El Raval, pero incluso ahí sus apoyos nunca llegaron al 5%.
 

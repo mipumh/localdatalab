@@ -5,9 +5,51 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 May 2019 09:29:21 +0200</pubDate>
-    <lastBuildDate>Sun, 12 May 2019 09:29:21 +0200</lastBuildDate>
+    <pubDate>Wed, 22 May 2019 17:05:55 +0200</pubDate>
+    <lastBuildDate>Wed, 22 May 2019 17:05:55 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Éstas son las propuestas de los partidos ilicitanos para el 26M</title>
+        <description>&lt;p&gt;Este es el resumen de las 833 medidas planteadas por cinco de los partidos que han tenido representación en el Pleno Municipal de la pasada legislatura: PSOE, Partido Popular, Compromís, Ilicitanos por Elche y el Partido de Elche —la ausencia de Ciudadanos se debe a que no publicó su programa electoral ni respondió a ninguna de nuestras solicitudes—. Compara mediante estas visualizaciones qué importancia le dan los partidos a cada tema y, sobre todo, qué piensan hacer al respecto.&lt;/p&gt;
+
+&lt;h3 id=&quot;las-promesas-tema-a-tema&quot;&gt;Las promesas, tema a tema&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/342295&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;A grandes rasgos, los programas de PSOE, Partido Popular, Compromís, Ilicitanos por Elche y el Partido de Elche son bastante homogéneos. Incluso hay temas en los que las medidas son prácticamente exactas, como la construcción de un nuevo Conservatorio de Música o la solución urgente del problema del Mercado Central. No obstante, siguen encontrándose importantes diferencias ideológicas. Por ejemplo, los únicos partidos que contemplan propuestas en el ámbito local para el colectivo LGTBI+ son PSOE y Compromís. Otro conflicto se presenta a la hora de hablar de impuestos, ya que los partidos de izquierdas abogan por mantenerlos o incrementarlos, mientras que el resto de formaciones tienen intenciones de reducirlos o incluso suprimirlos.&lt;/p&gt;
+
+&lt;h3 id=&quot;de-qué-habla-más-cada-partido&quot;&gt;¿De qué habla más cada partido?&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/294963&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Además de las propias propuestas, un buen ejercicio para saber qué importancia le dan los partidos a los problemas de la ciudadanía es contar cuántas medidas plantean para cada tema. Entre las formaciones propias del bipartidismo, PP y PSOE, se observan diferencias importantes: por un lado, el partido encabezado por Carlos González le da una  especial importancia a Medioambiente, Cultura, Educación y Juventud. Por otro lado, el Partido Popular cuenta con otras prioridades, como son Bienestar Social, Pedanías,  Agricultura o Turismo.&lt;/p&gt;
+
+&lt;p&gt;A diferencia del PSOE, el partido encabezado por Pablo Ruz cuenta con pocas medidas de Educación (3), pero le da una mayor importancia a las políticas de Empleo y Economía (13). En cuanto a las ayudas sociales, ambos partidos coinciden en número de propuestas: 17 de Dependencia + 11 de Servicios Sociales en el caso del PSOE, frente a las 28 que propone el PP de Bienestar Social. No obstante, en materia de Igualdad, tema en el que el PSOE tiene más propuestas que ninguno, encontramos otra diferencia importante: 9 medidas del partido de González frente a 2 del de Ruz.&lt;/p&gt;
+
+&lt;p&gt;Con respecto al resto de partidos, en un golpe de vista se aprecia a qué le da más importancia cada uno. Compromís aboga por impulsar el Urbanismo, la Economía, el Medioambiente (coincide con el PSOE e Ilicitanos por Elche) y las Pedanías; e  Ilicitanos por Elche se centra también en Medioambiente y Pedanías, pero destaca su énfasis en Sanidad y Deporte al ser la formación con más propuestas en ambos temas. Finalmente, el Partido de Elche, que destaca por el ser partido con el programa más escueto, centra sus puntos en Cultura, Deporte y Empleo; no obstante, el documento está bastante repartido, ya que ningún tema supera las diez medidas.&lt;/p&gt;
+
+&lt;p&gt;Por &lt;strong&gt;Dámaso Mondéjar&lt;/strong&gt; y &lt;strong&gt;Cristian Ramón Marín&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos para desarrollar estos contenidos se han obtenido del análisis pormenorizado de los programas electorales de cinco de los partidos que han tenido representación en el Pleno Municipal de la pasada legislatura: PSOE, Partido Popular, Compromís, Ilicitanos por Elche y el Partido de Elche. Se intentó contactar con Ciudadanos por distintas vías para obtener su programa electoral, pero nunca hubo respuesta.&lt;/p&gt;
+  &lt;p&gt;Los bloques temáticos se han escogido con un objetivo principal: ofrecer una visión global del programa de cada partido, tanto a nivel ideológico como de gestión de los recursos municipales. Finalmente, se han seleccionado 19: Turismo, Cultura, Empleo, Comercio, Educación, Sanidad, Pedanías, Transporte, Medioambiente, Diversidad Funcional, Inmigración, Diversidad, Fiscalidad y Pedanías.&lt;/p&gt; 
+  &lt;p&gt;La metodología seguida para elaborar las visualizaciones está formada por dos pasos. En primer lugar, se clasificó en una hoja de cálculo cada una de las medidas que pertenecen a los bloques antes mencionados. En segundo lugar, se analizó cada bloque para elaborar un resumen que destacara las propuestas concretas y las medidas distintivas de cada partido. Por tanto, los resúmenes evitan los siguientes elementos: (1) formulaciones generales, (2) propuestas ambiguas, (3) medidas que ya fueron tomadas durante la legislatura anterior y que los partidos proponen mantener y (4) propuestas que no dependen de las competencias municipales.&lt;/p&gt;
+  &lt;p&gt;La visualización de ambos comparadores se ha desarrollado con la herramienta &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt; por considerarse la manera más sencilla de simplificar las propuestas.&lt;/p&gt; 
+  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1yqF3-5tXgure8_1ydQGmeRWCBmRXisvnYM_R4qPq4PI/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/propuestas-partidos-ilicitanos/</link>
+        <guid isPermaLink="true">http://localhost:4000/propuestas-partidos-ilicitanos/</guid>
+        
+        
+        <category>programas</category>
+        
+      </item>
     
       <item>
         <title>La brecha entre la izquierda y la derecha es demográfica</title>
@@ -81,7 +123,7 @@
 
 &lt;p&gt;El bipartidismo se resintió considerablemente en todos los rincones de Elche, pero con diferente intensidad. En el barrio de Los Palmerales (2_10 y 2_11), gracias sobre todo al apoyo al PSOE, el descenso de los partidos convencionales fue reducido. Algo similar sucedió en las manzanas que rodean el parque 1 de Mayo (3_17). Las principales caídas, en cambio, se registraron en gran parte de las partidas rurales. Es especialmente notable el caso de la Algoda (7_23), que hasta 2011 estaba entre las zonas con mayor apoyo a los partidos convencionales. El castigo también fue considerable en zonas como las de la Ciudad Deportiva (1_17) o el Huerto de Travalón (2_24).&lt;/p&gt;
 
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;story/40034&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;story/40035&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;la-juventud-huye-del-convencionalismo&quot;&gt;La juventud huye del convencionalismo&lt;/h3&gt;
@@ -465,98 +507,6 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         <pubDate>Fri, 03 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/compromis-solo-cambia-lugar/</link>
         <guid isPermaLink="true">http://localhost:4000/compromis-solo-cambia-lugar/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>El cambio del voto de los ilicitanos, calle a calle</title>
-        <description>&lt;p&gt;El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de las secciones censales de Elche.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/Ganador.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1700&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últimas citas con las urnas, especialmente en el centro y los barrios del oeste, se transformó en un despegue generalizado del bloque de izquierdas (Unidas Podemos, Compromís y PSOE). Pero los datos que se desprenden de los resultados las distintas formaciones reflejan importantes matices. En esta nueva entrega del Local Data Lab, analizamos y visualizamos la evolución de los votos y el cruce con las variables demográficas.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesBqsComparada.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;la-izquierda-gana-terreno-pero-se-queda-en-el-extrarradio&quot;&gt;La izquierda gana terreno, pero se queda en el extrarradio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://localdatalab.umh.es/brecha-izquierda-derecha-elche/&quot;&gt;El estudio del comportamiento de los bloques&lt;/a&gt; refleja la mejora de la izquierda, pero también la brecha demográfica que todavía existe entre ambos lados del espectro ideológico y el bastión que todavía conserva la derecha en el centro de la ciudad.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/339037&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;el-bipartidismo-sólo-pervive-en-la-periferia-y-entre-la-población-más-envejecida&quot;&gt;El bipartidismo sólo pervive en la periferia y entre la población más envejecida&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://localdatalab.umh.es/bipartidismo-en-el-extrarradio/&quot;&gt;El voto a PP y PSOE&lt;/a&gt; desciende especialmente en las pedanías y en las zonas con menor presencia de mayores de 60 años, pero resiste en las secciones con mayor inmigración y menor participación&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/333917&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;el-congreso-ilicitano-sería-de-derechas&quot;&gt;El Congreso ilicitano sería de derechas&lt;/h3&gt;
-
-&lt;p&gt;El Congreso de los Diputados, &lt;a href=&quot;https://localdatalab.umh.es/parlamento-ilicitano-28A/&quot;&gt;solo con los votos de Elche volvería a ser conservador&lt;/a&gt;. Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;el-cinturón-rojo-se-abrocha-en-elche&quot;&gt;El cinturón rojo se abrocha en Elche&lt;/h3&gt;
-
-&lt;p&gt;El centro y gran parte de &lt;a href=&quot;https://localdatalab.umh.es/PSOE-periferia-de-rojo/&quot;&gt;las pedanías se le siguen resistiendo al PSOE&lt;/a&gt;, pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;ciudadanos-por-todas-partes-pero-sobre-todo-en-las-zonas-jóvenes&quot;&gt;Ciudadanos por todas partes, pero sobre todo en las zonas jóvenes&lt;/h3&gt;
-
-&lt;p&gt;El &lt;a href=&quot;https://localdatalab.umh.es/ciudadanos-zonas-nuevas/&quot;&gt;partido de Albert Rivera recupera su fuerza&lt;/a&gt; en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;el-pp-se-aferra-al-centro&quot;&gt;El PP se aferra al centro&lt;/h3&gt;
-
-&lt;p&gt;La &lt;a href=&quot;https://localdatalab.umh.es/PP-solo-queda-centro-elche/&quot;&gt;caída generalizada de los votos al Partido Popular en Elche&lt;/a&gt; implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPodemos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;podemos-se-queda-en-las-afueras&quot;&gt;Podemos se queda en las afueras&lt;/h3&gt;
-
-&lt;p&gt;El &lt;a href=&quot;https://localdatalab.umh.es/podemos-se-va-al-extrarradio/&quot;&gt;caso de Unidas Podemos&lt;/a&gt; es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesVox.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;vox-asoma-por-el-campo&quot;&gt;Vox asoma por el campo&lt;/h3&gt;
-
-&lt;p&gt;La &lt;a href=&quot;https://localdatalab.umh.es/vox-germina-campo-elche/&quot;&gt;irrupción de Vox&lt;/a&gt;, cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesCompromis.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;h3 id=&quot;los-votos-de-compromís-sólo-cambian-de-lugar&quot;&gt;Los votos de Compromís sólo cambian de lugar&lt;/h3&gt;
-
-&lt;p&gt;Compromís apenas mejoró los resultados globales que alcanzó en 2011, cuando se presentó por última vez en solitario a unas Generales. &lt;a href=&quot;https://localdatalab.umh.es/compromis-solo-despega-sur/&quot;&gt;La coalición mejoró en algunas zonas del sur&lt;/a&gt;, especialmente de El Pla y El Raval, pero empeoró en secciones del norte como las de Carrús.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
-&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
-  &lt;p&gt;Un posible error detectado en los resultados electorales del 28A en la sección 2 del distrito 5 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/el-cambio-calle-a-calle/</link>
-        <guid isPermaLink="true">http://localhost:4000/el-cambio-calle-a-calle/</guid>
         
         
         <category>resultados</category>

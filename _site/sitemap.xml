@@ -94,6 +94,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/propuestas-partidos-ilicitanos/</loc>
+<lastmod>2019-05-21T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/test-ajusta-tu-voto/</loc>
 <lastmod>2019-05-22T00:00:00+02:00</lastmod>
 </url>
 <url>
@@ -122,6 +126,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/images/Elche2.html</loc>

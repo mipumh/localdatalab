@@ -5,9 +5,39 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 May 2019 17:05:55 +0200</pubDate>
-    <lastBuildDate>Wed, 22 May 2019 17:05:55 +0200</lastBuildDate>
+    <pubDate>Wed, 22 May 2019 17:13:35 +0200</pubDate>
+    <lastBuildDate>Wed, 22 May 2019 17:13:35 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Ilicitano, pon a prueba tu voto: ¿Qué programa se ajusta más a tus ideas?</title>
+        <description>&lt;p&gt;En la recta final del 26M, el programa electoral es uno de los mecanismos más efectivos para captar el voto. Se trata del “contrato” que los partidos se comprometen a firmar con la ciudadanía; por ello, en el DataLabUMH hemos querido ponértelo fácil para que vislumbres, aunque sea ligeramente, el voto que más te beneficia de cara a los comicios de este domingo. No obstante, recuerda, no somos políticos, así que no prometemos nada.&lt;/p&gt;
+
+&lt;div class=&quot;apester-media&quot; data-media-id=&quot;5ce50891b015b4820fdf9a60&quot; height=&quot;580&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://static.apester.com/js/sdk/latest/apester-sdk.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El test consta de 16 preguntas. Aunque algunas de las respuestas no te afecten, no te convenzan o, por el contrario, te gusten todas, contesta una única respuesta con lo que más se acerque a lo que piensas.&lt;/p&gt;
+
+&lt;p&gt;Por &lt;strong&gt;Dámaso Mondéjar&lt;/strong&gt; y &lt;strong&gt;Cristian Ramón Marín&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos para desarrollar estos contenidos se han obtenido del análisis pormenorizado de los programas electorales de cinco de los partidos que han tenido representación en el Pleno Municipal de la pasada legislatura: PSOE, Partido Popular, Compromís, Ilicitanos por Elche y el Partido de Elche. Se intentó contactar con Ciudadanos por distintas vías para obtener su programa electoral, pero nunca hubo respuesta.&lt;/p&gt;
+  &lt;p&gt;El diseño de las preguntas y las respuestas se ha realizado con criterios objetivos y de manera que represente, de manera proporcional, a todos los partidos por igual. Las diferencias existentes se deben a que no todos los partidos tienen el mismo número de propuestas y a la ausencia de referencias sobre los temas establecidos en los programas electorales.&lt;/p&gt;
+  &lt;p&gt;Los bloques temáticos se han escogido con un objetivo principal: ofrecer una visión global del programa de cada partido, tanto a nivel ideológico como de gestión de los recursos municipales. Finalmente, se han seleccionado 19: Turismo, Cultura, Empleo, Comercio, Educación, Sanidad, Pedanías, Transporte, Medioambiente, Diversidad Funcional, Inmigración, Diversidad, Fiscalidad y Pedanías.&lt;/p&gt; 
+  &lt;p&gt;La metodología seguida para elaborar las visualizaciones está formada por dos pasos. En primer lugar, se clasificó en una hoja de cálculo cada una de las medidas que pertenecen a los bloques antes mencionados. En segundo lugar, se analizó cada bloque para elaborar un resumen que destacara las propuestas concretas y las medidas distintivas de cada partido. Por tanto, los resúmenes evitan los siguientes elementos: (1) formulaciones generales, (2) propuestas ambiguas, (3) medidas que ya fueron tomadas durante la legislatura anterior y que los partidos proponen mantener y (4) propuestas que no dependen de las competencias municipales.&lt;/p&gt;
+  &lt;p&gt;La visualización de ambos comparadores se ha desarrollado con la herramienta &lt;a href=&quot;https://apester.com/&quot;&gt;Apester&lt;/a&gt; por considerarse la manera más sencilla de simplificar las propuestas.&lt;/p&gt; 
+  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1yqF3-5tXgure8_1ydQGmeRWCBmRXisvnYM_R4qPq4PI/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/test-ajusta-tu-voto/</link>
+        <guid isPermaLink="true">http://localhost:4000/test-ajusta-tu-voto/</guid>
+        
+        
+        <category>programas</category>
+        
+      </item>
     
       <item>
         <title>Éstas son las propuestas de los partidos ilicitanos para el 26M</title>
@@ -42,7 +72,7 @@
   &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1yqF3-5tXgure8_1ydQGmeRWCBmRXisvnYM_R4qPq4PI/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/propuestas-partidos-ilicitanos/</link>
         <guid isPermaLink="true">http://localhost:4000/propuestas-partidos-ilicitanos/</guid>
         
@@ -451,62 +481,6 @@ El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado 
         <pubDate>Sat, 04 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/vox-germina-campo-elche/</link>
         <guid isPermaLink="true">http://localhost:4000/vox-germina-campo-elche/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>Compromís sólo despega en el sur</title>
-        <description>&lt;p&gt;Los pobres resultados de Compromís en su regreso en solitario a las Elecciones generales se explican, sobre todo, por el escaso apoyo generalizado que obtuvieron en amplias zonas del centro, de barrios como Carrús o de las partidas rurales del norte. La coalición mejoró sus resultados en secciones censales del sur, especialmente en calles clave de El Pla y El Raval, pero incluso ahí sus apoyos nunca llegaron al 5%.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHCompromis.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;El mapa que Compromís dibujó el 28 de abril en Elche fue sin duda el más modesto y plano de los seis partidos más votados. La lista encabezada por Aitana Joana Mas en la provincia de Alicante sólo despuntó ligeramente en las manzanas que hay frente al Centro de Salud de El Raval (2_18) y en el cruce de las calles Pedro Juan Perpiñán con Hilarión Eslava (6_18). En muchas zonas de Carrús, en cambio, la coalición apenas superó el 1% del total de apoyos.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337375&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;escasa-fidelidad&quot;&gt;Escasa fidelidad&lt;/h3&gt;
-
-&lt;p&gt;Ha transcurrido casi una década desde la última vez que Compromís se presentó en solitario a unas Generales y las variaciones son relativas, pero parece evidente que existe una importante volatilidad en el votante de esta formación. La zona que queda al sur del Puente de la Virgen, por ejemplo, en la que en 2011 un 5% de los ilicitanos votaron a la coalición, se situó el 28A sobre la media de apoyos al partido en la ciudad. En la zona de Parque 9 de octubre, donde Compromís obtuvo más de un 3% de apoyos en 2011, este año apenas obtuvo un puñado de votos.&lt;/p&gt;
-
-&lt;h3 id=&quot;no-importan-los-años-ni-el-sexo&quot;&gt;No importan los años ni el sexo&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337790&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La edad y el sexo ejercen escasa influencia en el apoyo a Compromís. La formación tiende a obtener más apoyos en las zonas con más niños y adolescentes y con una población de entre 40 y 59 años, mientras que cotiza a la baja en el resto de franjas. La mayor presencia de mujeres le favorece, pero muy ligeramente.&lt;/p&gt;
-
-&lt;h3 id=&quot;más-apoyos-en-las-zonas-con-menos-inmigración&quot;&gt;Más apoyos en las zonas con menos inmigración&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337789&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La variable de la nacionalidad sí parece tener un poco más de repercusión. Compromís tiende a cosechar mejores resultados conforme disminuye el porcentaje de extranjeros en las secciones censales de la ciudad, especialmente de inmigrantes del norte de África.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-compromís-sí-le-gusta-participar&quot;&gt;A Compromís sí le gusta participar&lt;/h3&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337788&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;A diferencia de lo que sucedió con el bloque de la izquierda el 28A, Compromís se vio favorecido por la participación. Gran parte de sus mejores resultados se registraron en las secciones censales en las que un mayor porcentaje de ilicitanos acudieron a su cita con las urnas.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
-&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
-  &lt;p&gt;Un posible error detectado en los resultados electorales del 28A en la sección 2 del distrito 5 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 03 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/compromis-solo-cambia-lugar/</link>
-        <guid isPermaLink="true">http://localhost:4000/compromis-solo-cambia-lugar/</guid>
         
         
         <category>resultados</category>

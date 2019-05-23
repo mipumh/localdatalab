@@ -5,8 +5,8 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 May 2019 22:21:40 +0200</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 22:21:40 +0200</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 22:40:46 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 22:40:46 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -158,8 +158,8 @@ En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empat
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/la-derecha-define-terriotorio/</link>
-        <guid isPermaLink="true">http://localhost:4000/la-derecha-define-terriotorio/</guid>
+        <link>http://localhost:4000/la-derecha-define-territorio/</link>
+        <guid isPermaLink="true">http://localhost:4000/la-derecha-define-territorio/</guid>
         
         
         <category>histórico</category>
@@ -457,11 +457,11 @@ En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empat
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/369466&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Durante los años noventa y la primera década del nuevo siglo, el bipartidismo imperaba en las urnas ilicitanas. Por supuesto, había algo de margen, como el que consiguió EUPV en 2007 para lograr un concejal que le dio la Alcaldía al PSOE. Ese año marcó el inicio de una tendencia que se contuvo cuatro años, incluso con el surgimiento del Partido de Elche, pero que estalló en 2015 con el auge de Compromís, Ciudadanos e Ilicitanos por Elche. Entre las múltiples incertidumbres del 26M, si hay algo claro es que el resultado no será monocolor. Y como se analiza en este recorrido por todos los resultados electorales de la actual democracia en Elche [ENLACE AL POST DE DATOS GENERALES], una de las claves estaré en la participación.&lt;/p&gt;
+&lt;p&gt;Durante los años noventa y la primera década del nuevo siglo, el bipartidismo imperaba en las urnas ilicitanas. Por supuesto, había algo de margen, como el que consiguió EUPV en 2007 para lograr un concejal que le dio la Alcaldía al PSOE. Ese año marcó el inicio de una tendencia que se contuvo cuatro años, incluso con el surgimiento del Partido de Elche, pero que estalló en 2015 con el auge de Compromís, Ciudadanos e Ilicitanos por Elche. Entre las múltiples incertidumbres del 26M, si hay algo claro es que el resultado no será monocolor. Y como se analiza en este recorrido por todos los &lt;a href=&quot;https://localdatalab.umh.es/el-cambio-calle-a-calle/&quot;&gt;resultados electorales de la actual democracia en Elche&lt;/a&gt;, una de las claves estaré en la participación.&lt;/p&gt;
 
 &lt;h3 id=&quot;la-derecha-conserva-el-centro-las-pedanías-los-mayores-y-las-mujeres&quot;&gt;La derecha conserva el centro, las pedanías, los mayores y las mujeres&lt;/h3&gt;
 
-&lt;iframe src=&quot;/assets/images/bloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;iframe src=&quot;/assets/images/bloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1700&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;La Avenida de la Libertad y el río Vinalopó dibujan las dos líneas que, salvo por excepciones, dibujan el sentido del voto de los ilicitanos en las Elecciones Municipales. Al sur de la principal arteria de la ciudad y en las zonas más céntrica de la ladera, la derecha es casi intocable. Pero el dominio de este bloque es aún más claro en el Camp d’Elx. Sólo la partida de Carrús, al sur del Pantano, y una parte de El Altet se escapan del dominio conservador. La coincidencia del crecimiento de Ciudadanos en las zonas donde más cayó el PP en 2015 explican el escaso movimiento del bloque de derechas.&lt;/p&gt;
@@ -469,7 +469,7 @@ En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empat
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360168&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;La relación entre las variables demográficas de las distintas zonas de Elche y el voto al bloque de derechas son evidentes. En las secciones con mayor porcentaje de mujeres y de mayores de 60 años. La tendencia, en el caso del sexo, incluso se acentúa en las Municipales de 2015. Todo esto se estudia con detalle en el análisis del voto al bloque de la derecha [ENLACE AL POST DE LA DERECHA].&lt;/p&gt;
+&lt;p&gt;La relación entre las variables demográficas de las distintas zonas de Elche y el voto al bloque de derechas son evidentes. En las secciones con mayor porcentaje de mujeres y de mayores de 60 años. La tendencia, en el caso del sexo, incluso se acentúa en las Municipales de 2015. Todo esto se estudia con detalle en el análisis del voto al &lt;a href=&quot;https://localdatalab.umh.es/la-derecha-define-territorio/&quot;&gt;bloque de la derecha&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;la-izquierda-se-renueva-pero-no-traspasa-las-afueras&quot;&gt;La izquierda se renueva, pero no traspasa las afueras&lt;/h3&gt;
 
@@ -481,7 +481,7 @@ En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empat
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360201&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;El cruce de datos de los resultados electorales con el padrón trasluce el apoyo a la izquierda en las zonas con mayor inmigración. En los lugares donde existe mayor población extranjera, especialmente de África (aunque no puedan votar), la curva es ascendente. La tendencia se mantiene en todos los comicios locales, pero se suaviza en 2015, como estudiamos en análisis de la izquierda ilicitana[ENLACE POST IZQUIERDA].&lt;/p&gt;
+&lt;p&gt;El cruce de datos de los resultados electorales con el padrón trasluce el apoyo a la izquierda en las zonas con mayor inmigración. En los lugares donde existe mayor población extranjera, especialmente de África (aunque no puedan votar), la curva es ascendente. La tendencia se mantiene en todos los comicios locales, pero se suaviza en 2015, como estudiamos en análisis de &lt;a href=&quot;https://localdatalab.umh.es/la-izquierda-extrarradio/&quot;&gt;la izquierda ilicitana&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;la-tercera-vía-pasa-por-lo-local&quot;&gt;La tercera vía pasa por lo local&lt;/h3&gt;
 
@@ -493,14 +493,14 @@ En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empat
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360066&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;El descalabro del bipartidismo fue significativo en zonas del casco urbano, como la Plaza de Castilla, y en partidas rurales como Peña de Las Águilas. El auge del Partido de Elche en manzanas de El Pla y de Ilicitanos por Elche en Carrús o Los Palmerales dibujó un nuevo panorama en la ciudad que en el Local Data Lab estudiamos a fondo [ENLACE POST LOCALES Y BIPARTIDISMO].&lt;/p&gt;
+&lt;p&gt;El descalabro del bipartidismo fue significativo en zonas del casco urbano, como la Plaza de Castilla, y en partidas rurales como Peña de Las Águilas. El auge del Partido de Elche en manzanas de El Pla y de Ilicitanos por Elche en Carrús o Los Palmerales dibujó un nuevo panorama en la ciudad que &lt;a href=&quot;https://localdatalab.umh.es/bipartidismo-en-el-extrarradio/&quot;&gt;en el Local Data Lab estudiamos a fondo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;bonustrack-conoce-los-programas-y-pon-a-prueba-tu-voto&quot;&gt;Bonustrack: conoce los programas y pon a prueba tu voto&lt;/h3&gt;
 
 &lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/342295&quot;&gt;&lt;/div&gt;
 &lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Analizado lo sucedido hasta 2015, llega el momento de pensar en el 26M. Y para decidir el voto, tiene sentido conocer las propuestas de los diferentes partidos. Por eso hemos sintetizado y analizado los programas de cinco de los partidos con representación en el Pleno Municipal [ENLACE AL POST DEL COMPARADOR] y hemos planteado un sencillo juego para que compruebes si tus ideas encajan con lo que piensas votar [ENLACE AL TEST].&lt;/p&gt;
+&lt;p&gt;Analizado lo sucedido hasta 2015, llega el momento de pensar en el 26M. Y para decidir el voto, tiene sentido conocer las propuestas de los diferentes partidos. Por eso hemos sintetizado y analizado los &lt;a href=&quot;https://localdatalab.umh.es/propuestas-partidos-ilicitanos/&quot;&gt;programas de cinco de los partidos con representación en el Pleno Municipal&lt;/a&gt; y hemos planteado un sencillo juego para que compruebes &lt;a href=&quot;https://localdatalab.umh.es/test-ajusta-tu-voto/&quot;&gt;si tus ideas encajan con lo que piensas votar&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;apester-media&quot; data-media-id=&quot;5ce50891b015b4820fdf9a60&quot; height=&quot;580&quot;&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;https://static.apester.com/js/sdk/latest/apester-sdk.js&quot;&gt;&lt;/script&gt;

@@ -32,7 +32,7 @@ Durante los años noventa y la primera década del nuevo siglo, el bipartidismo 
 <iframe src="/assets/images/bloquesMpales.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="850"
+    height="1700"
     scrolling="no"
     seamless="seamless"
     frameborder="0">

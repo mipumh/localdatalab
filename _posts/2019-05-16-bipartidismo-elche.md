@@ -4,7 +4,7 @@ title: "Del bipartidismo a los bloques en cada manzana ilicitana"
 subtitle: "Aquí están todos los datos de las tres últimas Elecciones Municipales en Elche, calle por calle: un análisis de los bloques de izquierda y derecha, los seis partidos con representación en el Pleno y los datos del Padrón Municipal. Además, repasamos los resultados y la participación de 32 años de votaciones en Elche y desgranamos los programas de las candidaturas al 26M"
 author: red 
 categories: [ histórico ]
-image: assets/images/3.jpg
+image: assets/images/3.png
 ---
 Muchas son las incógnitas que plantean en Elche las Elecciones Municipales del 26 de mayo: ¿cómo se moverán los bloques de izquierda y derecha? ¿Qué parte de los resultados se trasladarán de las Generales y Autonómicas? ¿Cómo influirán los partidos locales? ¿Y las escisiones de algunos de los nuevos partidos? ¿Y la participación (y la europea)?
 

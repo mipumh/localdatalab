@@ -5,9 +5,369 @@
     <description>Seminario de periodismo de datos en el ámbito local.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 May 2019 17:13:35 +0200</pubDate>
-    <lastBuildDate>Wed, 22 May 2019 17:13:35 +0200</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 22:21:40 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 22:21:40 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Entre la fragmentación y la participación</title>
+        <description>&lt;p&gt;Los resultados de las diez Elecciones Municipales celebradas en Elche reflejan la caída de los partidos con mayor tradición democrática (PP y PSOE) y el auge de diversas opciones hasta hace poco inexistentes o muy minoritarias. Los datos de las últimas Generales y Autonómicas acentúan aún más esta tendencia. El 26 de mayo se sabrá si esta curva se mantiene o si los ilicitanos dan otra oportunidad al bipartidismo. Una de las claves estará en la participación, que ha crecido en los últimos años, pero que presenta unos resultados muy desiguales en función de la sección censal de la ciudad. La otra, en el comportamiento de los bloques de izquierda y derecha.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-bipartidismo-no-suma&quot;&gt;El bipartidismo no suma&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/369466&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La suma de votos de PP y PSOE se situó en las Municipales de 2015, por primera vez en las últimas tres décadas, en el umbral del 50%. Los populares descendieron hasta niveles de 1991 y los socialistas cosecharon casi 14 puntos menos que su peor resultado en el histórico, en 1979, en las primeras elecciones locales. El auge de hasta cuatro partidos lo explica. El Partido de Elche superó el 5% de votos de 2011, pero a esta formación local se le sumó Ilicitanos por Elche, que incluso le adelantó hasta rozar el 6% de apoyos. Ciudadanos surgió de la nada hasta acercarse al 9%, pero la mayor irrupción fue la de Compromís, que durante años había estado presente con diferentes siglas, pero que en 2015 alcanzó el 12,5% de las papeletas.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360222&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La tendencia incluso se acentúa al tener en cuenta todas las elecciones celebradas en Elche. Las últimas Generales y Autonómicas fueron las del sorpasso de Ciudadanos sobre PP. El descenso de Compromís, con respecto a las Municipales, se explica sobre todo por la entrada en liza de Podemos. Está por ver este 26M si el PSOE continúa con el cambio positivo de tendencia, tras más de una década de descenso, y si el PP ha tocado suelo o aún puede alcanzar los niveles de los años ochenta.&lt;/p&gt;
+
+&lt;h3 id=&quot;lo-importante-es-participar&quot;&gt;Lo importante es participar&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/372028&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La participación será uno de los factores determinantes de los resultados del 26M. También una de las incógnitas. La tendencia ligeramente alcista de las últimas Elecciones Generales y, sobre todo, Autonómicas invita a pensar en una alta asistencia a las urnas en las locales. Es difícil estimar cómo influirá en la participación la coincidencia con las Europeas, tradicionalmente con menor movilización, pero que en 1999, el último año en el que coincidieron con las Municipales, alcanzaron uno de sus mejores resultados.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/369427&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El factor clave de la participación en Elche siempre es la sección censal. En el histórico global, la asistencia a las urnas es más bajo en las Elecciones Municipales que en el resto. Pero la diferencia siempre es mucho mayor si se comparan las distintas zonas de la ciudad. Entre las secciones con mayor participación, destaca la situada alrededor del Centro de Congresos (2_23, con un 78,4% en el conjunto en las municipales). Entre las que registran un balance más negativo, resaltan las manzanas situadas al sur del Parque 1 de Mayo (3_22, con un 50,71%), por debajo incluso que zonas como las del barrio de Los Palmerales (2_11).&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/entre-fragmentacion-participacion/</link>
+        <guid isPermaLink="true">http://localhost:4000/entre-fragmentacion-participacion/</guid>
+        
+        
+        <category>histórico</category>
+        
+      </item>
+    
+      <item>
+        <title>La derecha define su territorio</title>
+        <description>&lt;p&gt;El voto a la derecha cambió de color en Elche en las Elecciones Municipales de 2015, pero apenas de lugar. El PP conservó gran parte de sus feudos tradicionales, especialmente en el centro y las Pedanías. Una parte importante de los votos que perdió en el extrarradio, especialmente en el sur del casco urbano o en Torrellano fue a costa del auge de Ciudadanos.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesBloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;En 2011, aún sin Ciudadanos ni Podemos, los partidos de corte local frenaron el ascenso de los tradicionales PP y PSOE. A pesar de ello, los populares subieron en 48 de las 173 secciones en liza y  también se hicieron con seis de las siete de nueva creación: la 1-21, en los alrededores de la sede de la Policía Local, la 2-24 cerca del campo de fútbol, la 2-25 en La Torreta, y en las pedanías la 7-24, 7-25 y 7-26.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/bloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1700&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;En 2015, la derecha, ya con C´s, ganó en 84 de las 173 secciones y siguió dominando el centro de la ciudad y las pedanías. Ciudadanos contribuyó a que las secciones 1-9, 1-17 y 1-18, en la parte nueva del barrio de Altabix, la 2-6, junto al barrio de San Antón, la 5-18 en El Plá, la 6-1 al lado de la iglesia de San José y la 6-10 y la 6-17 cerca de El Corte Inglés, pasaran a manos del centro derecha. Las pedanías continuaron con mayoría conservadora a excepción de la sección 7-2, lindante con el barrio de Carrús, que cambió a mayoría de la izquierda.&lt;/p&gt;
+
+&lt;h3 id=&quot;ciudadanos-cambia-de-color-feudos-socialistas&quot;&gt;Ciudadanos cambia de color feudos socialistas&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360003&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En 2011, en 80 de las 173 secciones, la derecha experimenta un ascenso en su porcentaje de votos recibidos respecto a las de 2007 y las secciones 2-6, al lado del barrio de San Antón, con un 24%, y la 7-22 en Torrellano con un 18%, son las que mayor subida experimentan. Este año aún no había entrado en liza Ciudadanos.&lt;/p&gt;
+
+&lt;p&gt;En 2015, y ya con la participación de C´s, el contexto nacional es de descenso en los votos a la derecha y, aunque en España sigue gobernando el PP, en Elche de nuevo se vuelve a mayoría pero no del PSOE sino de las izquierdas, siguiendo el camino de sustitución del bipartidismo por los bloques ideológicos. Las secciones en las que el incremento respecto al 2011 es mayor son la 1-2 y 1-4 en el centro con un 4% y un 7% respectivamente.&lt;/p&gt;
+
+&lt;p&gt;En cuanto a las caídas, en 2011 los populares descienden solo en 48 secciones, siendo la 2-11, en Los Palmerales con un 9% y en la 4-17, en pleno barrio de Carrús con un 8% donde más votos ceden. En 2015 y ya con C´s, el centro derecha baja en 134 secciones, experimentando sus mayores caídas en las secciones 2-8 en el barrio de San Antón con un 26%, en las 2-11, en Los Palmerales, y la 7-15 en Matola, con un 22%  y en la 2-10 también en Los Palmerales con una bajada del 17%&lt;/p&gt;
+
+&lt;h3 id=&quot;las-mujeres-también-giran-a-la-derecha-en-las-locales&quot;&gt;Las mujeres también giran a la derecha en las locales&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360168&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Al igual que en anteriores análisis sobre comportamiento electoral en generales, en las secciones con mayor porcentaje censal de mujeres, el voto se decanta a la derecha, siendo más pronunciado el incremento en las últimas elecciones, las de 2015. Por otra parte, la relación entre edad y voto, también se mantiene en línea con comicios previos, ascendiendo el voto al bloque de centro derecha, según se incrementa la edad media de los integrantes de cada sección.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-ciudadanos-de-la-ue-apenas-inciden-en-el-voto-conservador&quot;&gt;Los ciudadanos de la UE apenas inciden en el voto conservador&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360175&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En las elecciones locales, los naturales de los Estados miembros de la Unión Europea tienen derecho a voto, pero solo en 2015 se aprecia una una cierta tendencia descendente en el voto a la derecha en secciones con mayor número de europeos. Aún así, en la sección  7-12, La Marina, la que má población procedente de Europa hay, un 18%, la derecha gana con un 47,86%. En 2007 y 2011 la presencia de europeos no tuvo ninguna repercusión en la evolución del voto a los conservadores, manteniendo una línea plana.&lt;/p&gt;
+
+&lt;p&gt;Con los americanos sucede lo mismo, aunque entre estos, únicamente tienen derecho a voto aquellos nacionales de países que tienen firmado convenio de reciprocidad: Colombia, Chile, Perú y Paraguay. Las líneas de tendencia se sitúan casi en paralelo con la media. En 2011 la sección 3-6, con un 11.4% de población procedente de América, el mayor porcentaje , la Texto] Datos clave observados en el gráfico de dispersión&lt;/p&gt;
+
+&lt;h3 id=&quot;la-participación-de-nuevo-decanta-el-voto-hacia-la-derecha&quot;&gt;La participación, de nuevo, decanta el voto hacia la derecha&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360183&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;2007 es el año en el que más incide la participación y otra vez, al igual que en las generales, y al contrario que en el resto de España, a mayor número de votantes, más voto a la derecha. La sección con mayor participación es la 7-14, en la partida de Algorós, y los populares obtienen un 69.53% de los votos. En 2011 destaca la sección 7-21 en La Hoya con un 69.21% de censados que ejercen su derecho al voto y donde gana el PP con un 68.77% de los votos emitidos. En las elecciones de 2015 ya podemos hablar de bloque conservador con la concurrencia de Ciudadanos y es la sección 1-4, en los alrededores del colegio Ferrández Cruz donde mayor participación se registra, con un 76,66% y un 69,88% de votos esta vez sí al bloque de derechas.&lt;/p&gt;
+
+&lt;p&gt;En el lado opuesto, en 2007, la 3-18, tramo final de la Avenida de Novelda, es la que menos votos contabiliza, con un 53.32% de los cuales solo el 21.32% va a manos populares. En 2015 esta baja concurrencia de electores se traslada a la 4-17, en pleno Carrús donde solo el 54.13% acuden a las urnas y el PP obtiene el 19.72%. En 2015 el Raval, en la sección 2-8, es la que ostenta el récord de baja participación con el 59,22% y dónde Populares y Ciudadanos obtienen entre los dos únicamente el 11.14%&lt;/p&gt;
+
+&lt;h3 id=&quot;el-pp-sigue-sin-ceder-sus-feudos-en-el-centro&quot;&gt;El PP sigue sin ceder sus feudos en el centro&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxMPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;En todas las elecciones municipales analizadas, al igual que en las generales, el Partido Popular es dueño del centro y las pedanías. En 2007, el PP gana en 68 de las 166 secciones electorales en que se dividía la ciudad en ese año. Donde más votos obtiene es en las secciones 7-14, partida de Algorós, con un 70% de los votos emitidos, la 7-21, partida de La Hoya, y 2-2, alrededores de la Glorieta, con un 66% y la 1-4, colegio Ferrández Cruz con un 65%.&lt;/p&gt;
+
+&lt;p&gt;Las secciones que en las que menos votos obtiene la candidatura popular son las 3-18, en Carrús, con un 21%, la 2-6 en el barrio de San Antón, y la 3-22, también en Carrús con un 22% y la 3-1, barrio Porfirio Pascual con un 23%.
+En 2011 la candidatura popular gana en 92 de las 173 secciones de Elche, y empata con el PSOE en la 5-24, al lado del parque 9 de octubre. La hoya, 7-21, con el 69% de los votos, La zona de los parques municipales, 1-3 y la Glorieta, 2-2 con un porcentaje del 68% y Algorós, 7-14 y la zona de Ferrández Cruz, 1-4, con el 66% de los votos destacan sobre las demás.&lt;/p&gt;
+
+&lt;p&gt;Por el contrario, en pleno centro de Carrús, la 4-17 con el 20%, los alrededores de los Jardines 1º de Mayo, 3-16, con el 26%, y el Toscar, la 4-11 con el 27% son las zonas en las que, por clara tradición socialista no llegan ni al 30% de los votos, en un año en que el bipartidismo aún triunfaba.&lt;/p&gt;
+
+&lt;p&gt;2015 es el año en que ya entra en la batalla el partido de Rivera, Ciudadanos. A pesar de ello, los populares siguen ganando en 84 de las 173 secciones y empatan con el PSOE en la 3-6 en los alrededores de la Plaza de Barcelona en Carrús.&lt;/p&gt;
+
+&lt;p&gt;En el análisis por secciones ya no aparece el PP en ninguna pedanía entre los tres colegios electorales donde más votos obtienen. De nuevo la zona del colegio Ferrández Cruz, con el 61% de los votos, aparece en los puestos de cabeza. Le sigue la 1-3, los parques municipales con el 59% y la Glorieta,  2-2, y los Baños Árabes, 1-2 con el 58 %. Todas ellas se sitúan en el centro de la ciudad.&lt;/p&gt;
+
+&lt;p&gt;En la cola el barrio de San Antón, 2-8, con apenas el 8% de los votos y  los Palmerales, 2-11 y 2-10, con el 11% y el 12% respectivamente. Estos resultados coinciden con los análisis previos de participación. El centro, tradicionalmente registra un elevado número de votantes, mientras que los Palmerales están entre los distritos con menos votantes que acuden a las urnas.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/359965&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En la comparación entre las elecciones de 2011 y 2007, los populares subieron su porcentaje de votos prácticamente en toda la ciudad, aunque la que mayor aumento experimentó, curiosamente fue la 2-6 en el barrio de San Antón que tradicionalmente había sido votante socialista.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesPPMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;2015 fue muy diferente por la irrupción de Ciudadanos y por el mal momento que atravesaba el PP a nivel nacional y sus votantes descendieron en toda la ciudad, siendo la 7-15, Matola, donde los populares sufrieron su mayor caída. Nada menos que un 32%. El distrito 1, en el centro se mantuvo fiel y los descensos fueron mucho más suaves&lt;/p&gt;
+
+&lt;p&gt;El próximo domingo 26 de mayo, con un panorama electoral incierto y la irrupción de un nuevo partido en la derecha, se verá si el PP sigue cayendo o por el contrario se afianza como la referencia entre los votantes de centro derecha.&lt;/p&gt;
+
+&lt;h3 id=&quot;ciudadanos-de-nueva-construcción&quot;&gt;Ciudadanos de nueva construcción&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHCiudadanos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Pocos mapas son tan claros como el del voto de Ciudadanos. El partido de Rivera, que en 2015 todavía era una novedad fuera de Cataluña, se hizo un hueco más que importante en las zonas más jóvenes de la ciudad. En las manzanas que rodean la Ciudad Deportiva del Kelme (1-18 y 1-19) y en las urbanizaciones más recientes de las Puertas Coloradas (2-25), Ciudadanos superó el 15% de los apoyos. Lo mismo sucedió en la sección situada junto al CEIP Mediterrani.&lt;/p&gt;
+
+&lt;p&gt;Más sorprendente, a priori, resultó el respaldo cosechado en las dos secciones que atraviesa la Avenida de Les Cortes Valencianas (4-12 y 4-19), en el extremo occidental de Carrús, donde alcanzó el 13%. Pero los graneros más importantes de votos de la formación naranja se situaron en fuera del casco urbano: en parte de Torrellano y El Altet, donde alcanzó el 17%.&lt;/p&gt;
+
+&lt;p&gt;Por el contrario, en algunas zonas de Carrús, como las que rodean la Plaza de Barcelona (3-6 y 3-10), Ciudadanos apenas alcanzó el 4%. Tampoco pasó del 5% en la partida de La Algoda. Pero sus peores resultados se registraron en las manzanas del barrio de San Antón (2-6 y 2-8).&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/la-derecha-define-terriotorio/</link>
+        <guid isPermaLink="true">http://localhost:4000/la-derecha-define-terriotorio/</guid>
+        
+        
+        <category>histórico</category>
+        
+      </item>
+    
+      <item>
+        <title>La izquierda se queda en el extrarradio</title>
+        <description>&lt;p&gt;El voto a la izquierda se fragmentó en las Elecciones Municipales de 2015 en Elche, pero apenas cambió de bando. Los apoyos conjuntos a PSOE, Compromís y el resto de formaciones de izquierdas volvieron a superar a los de la derecha en prácticamente todas las secciones censales de Carrús y en una parte importante de El Pla, Altabix y Los Palmerales. El voto a los socialistas en las manzanas tradicionalmente obreras y a la formación liderada por Mireia Mollà en algunas de las zonas nuevas equilibró la balanza.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/bloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;1600&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Carrús sigue siendo, con diferencia, el feudo de la izquierda en las Elecciones Municipales. El barrio obrero por excelencia en Elche ha mantenido su apoyo a este bloque en la última década sin apenas variaciones y con la única excepción de la zona de las Chimeneas y el colegio Francesc Cantó. En 2015, a este dominio se sumó la partida rural de Carrús, situada entre el barrio con el que comparte nombre y el Pantano.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesBloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El apoyo a las izquierdas también se mantuvo en gran parte del sur de la ciudad. El bloque perdió su dominio en secciones como la que conforma el cruce de Pedro Juan Perpiñán con Espronceda, pero recuperó otras como la que rodea el CEIP Luis Vives. Algo más de movimiento se registró en la zona este de la ciudad. El peso de la izquierda se acentuó en Los Palmerales, pero se suavizó en San Antón. Las nuevas urbanizaciones de Altabix, sobre todo tras el auge de Ciudadanos en 2015, se pasaron al lado del centro derecha.&lt;/p&gt;
+
+&lt;p&gt;Pero las mayores subidas de la izquierda, en comparación con la derecha y los partidos locales, se registraron en dos secciones próximas al centro: en las manzanas al sur del Casino y en la zona El Raval que rodean la iglesia de San Juan.&lt;/p&gt;
+
+&lt;h3 id=&quot;de-carrús-a-los-palmerales&quot;&gt;De Carrús a Los Palmerales&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360018&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Como en otras ocasiones, el barrio de los Palmerales sigue siendo uno de los grandes bastiones de la izquierda y es donde la evolución es más clara: del 45,67% en 2007 al 67,69 de 2015, pasando por el 55,49% de 2011. Su evolución siempre ha sido ascendente y en este caso la variación del histórico es de un 22,01%. El el lado contrario, se pueden destacar zonas de Carrús como el distrito 4 sección 12, Plaza Jardín de Aspe, donde en 2007 y con el PSOE como fuerza hegemónica tenía un 51,66%, en 2011 perdió algo más de un punto y en 2015, junto a otros partidos de izquierdas, se desplomó hasta el 34,46% del total del voto.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-mayores-y-las-mujeres-se-alejan-de-la-izquierda&quot;&gt;Los mayores y las mujeres se alejan de la izquierda&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360203&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La relación entre la edad y el voto a la izquierda vuelve a ser consistente. En las zonas con mayor población de entre 20 y 39 años, el bloque registra sus mejores resultados. En cambio, a partir de los 40 años, la tendencia es descendente y más allá de los 79, el voto progresista se desploma. En el voto femenino, la tendencia es aún más clara en su sentido descendente. En todos los casos, la curva es más pronunciada en las Elecciones Municipales de 2007 que en las de 2011 y 2015.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-convivencia-entre-nacionalidades-no-afecta-al-bloque-de-izquierdas&quot;&gt;La convivencia entre nacionalidades no afecta al bloque de izquierdas&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360201&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El voto al bloque de izquierdas tiende a descender en las secciones censales con mayor porcentaje de población nacida en España. En los lugares donde existe mayor población extranjera, especialmente de África, la tendencia es ascendente. La línea se mantiene en todos los comicios locales, pero se suaviza en 2015.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-la-izquierda-local-tampoco-le-favorece-la-participación&quot;&gt;A la izquierda local tampoco le favorece la participación&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360188&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La curva también es descendente cuando se tiene en cuenta la relación entre los votos a los partidos de izquierdas y la participación. La tendencia es más clara en las elecciones de 2015, pero se suaviza en 2011 y, sobre todo, en 2015.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-psoe-echa-raíces-en-los-palmerales&quot;&gt;El PSOE echa raíces en Los Palmerales&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHMPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El mapa del voto del PSOE en las Elecciones Municipales de 2015 en Elche deja claro la zona en la que más apoyo recibe: las tres secciones que se corresponden con el barrio de Los Palmerales. Muy cerca de ahí, los socialistas también obtienen buenos resultados en San Antón. El resto de graneros de votos se localiza principalmente en Carrús, concretamente en los aledaños de la Plaza 1 de Mayo. La zona centro y las pedanías siguen siendo su asignatura pendiente, pero sus peores resultados aparecen en la partida rural de Atzavares Bajo.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/359926&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La evolución más favorable del voto al PSOE se produce el barrio de Los Palmerales. Ahí sube del 45,67% en 2007 al 55,49% en 2011 y ya en 2015 consigue 10 puntos más (65,72%), lo que supone una variación del 20,05% en total. Por el contrario, el mayor descalabro lo sufrió en el distrito 4 sección 12, en la Plaza Jardín de Aspe de la zona del Toscar. En esta sección, en 2007, los socialistas obtuvieron el 51,66% del voto, en 2011 perdieron algo más de tres puntos y medio (48,08%) y en 2015 se desplomaron de manera estrepitosa hasta el 24,78% del total de votos.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesPSOEMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El mapa de variaciones refleja además cómo las elecciones de 2015 supusieron un castigo generalizado en todas las zonas de la ciudad, salvo en el citado oasis de Los Palmerales. Este descenso también se produjo en 2011 en una parte importante del municipio, especialmente en bastiones tradicionales de los socialistas como Carrús o Altabix. En el centro y en zonas nuevas como la de la Ciudad Deportiva, en cambio, sí mejoraron sus resultados.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-nuevos-barrios-dan-una-oportunidad-a-compromís&quot;&gt;Los nuevos barrios dan una oportunidad a Compromís&lt;/h3&gt;
+
+&lt;p&gt;La coalición de Compromís se presentó por primera vez, con estas siglas, a unas elecciones municipales en Elche en 2011, aunque no logró superar la barrera del 5% para obtener representación en el consistorio, ya que obtuvo 3.155 votos y el 2,78% del total. En ese año se puede destacar el 6%, que fue el máximo obtenido en todas las secciones del casco urbano, y que logró en la zona alrededor de la Iglesia de San Juan (2-15), o el 8% en la pedanía de Torrellano (7-16). Pero en las elecciones de 2015 entró con fuerza y logró 15.293 votos y el 13,78% del total, lo que le supuso colocar a cuatro concejales en el Ayuntamiento. En ese 2105, dentro del casco urbano, cabe destacar el 24% del voto obtenido en la zona de Doctor Sapena (6-5) y el apoyo generalizado que cosechó en las zonas nuevas de Altabix y El Corte Inglés. En el Campo de Elche, sobresale el 20% logrado en una de las secciones de Torrellano (7-5).&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHCompro.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;La formación de Mireia Mollá obtuvo en 2015 buenos resultados (por encima del 20% del total) en 5 secciones del casco urbano, dos de ellas en las nuevas urbanizaciones de Altabix (1-20 y 2-22), una frente al Instituto Sixto Marco (2-7), otra en Doctor Sapena (6-5) y la última en el barrio del Raval (2-16). En la periferia sólo consigue superar ese 20% en dos secciones de la pedanía de Torrellano (7-5 y 7-16).&lt;/p&gt;
+
+&lt;p&gt;Los peores resultados de Compromís en 2015 se pueden encontrar, como indica el mapa, en la zona centro del casco urbano, así como en Puertas Coloradas, el Barrio de los Palmerales y en alguna sección del barrio de Carrús. En todas las pedanías, Compromís supera la barrera de los dos dígitos, excepto en la de Algoda, que solo llega al 9% del total del voto.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/359992&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La evolución más destacada del voto a Compromís se produjo en el distrito 6 sección 5, en la zona de Doctor Sapena. En 2011, solo alcanzó el 3,70% del voto, pero en 2015 obtuvo un aumento de más de un 20% llegando hasta el 24,45% del total de las papeletas. En el caso de las pedanías, la formación de Mireia Mollá consiguió su mejor evolución en Torrellano (7-16), ya que pasó del 8,19% en 2011 al 19,95% en 2015, lo que le supuso un aumento del 11,82% en intención del voto.&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/la-izquierda-extrarradio/</link>
+        <guid isPermaLink="true">http://localhost:4000/la-izquierda-extrarradio/</guid>
+        
+        
+        <category>histórico</category>
+        
+      </item>
+    
+      <item>
+        <title>Los nuevos partidos acechan desde la periferia</title>
+        <description>&lt;p&gt;Entre 2007 y 2011, los dos partidos hegemónicos eran los organizadores de la fiesta y nadie les tosía, pero todo cambió cuando se invitaron nuevos partidos como las formaciones locales. El caso más sangrante se localiza en la pedanía de Matola, donde el PP en 2007 obtuvo el 60,09% del voto y el PSOE, el 28,20%, lo que les daba el 88,29 % del total de votos. En 2011 el PP tuvo un leve descenso y el PSOE mejoró levemente su resultado obteniendo el 58,40% y el 28,92% respectivamente. Pero en 2015 ambos partidos se dieron de bruces con la cruda realidad del fin del bipartidismo y en Matola ambos cayeron estrepitosamente obteniendo en estas elecciones los populares el 26,47% y los socialistas el 19,74% del total del voto.&lt;/p&gt;
+
+&lt;p&gt;Algo similar ocurrió en el distrito 1 sección 19, adyacente a la plaza de Castilla en Nuevo Altabix. En esta ocasión, en 2007, ambos partidos sumaban el 81,4% del total, que suponía un 37,58% para el PP y el 43,82% para el PSOE. En 2011 y en este caso a la inversa que en el anterior caso, los populares mejoraron levemente sus resultados con un 37,84% y los socialistas se desplomaron hasta el 36,24%, lo que aún les permitía ser las fuerzas hegemónicas aun habiendo caído hasta el 74,08% del total del voto. Pero en 2015 volvió a suceder y en esta ocasión ambas formaciones se desplomaron de manera estrepitosa bajando el PP al 19,94% y el PSOE al 21,10% lo que ni siquiera les otorgaba una mayoría en dicha sección.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/elxBipartidismo.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;En 2007 y 2011, sólo dos pequeños reductos se resistían a dar todos sus votos a PP y PSOE. En 2007, en el distrito 2 sección 17, en el barrio del Raval, “solo” el 71% del voto fue para ellos. En 2011, en el distrito 6 sección 9, frente al Corte Inglés, también les votó “solo” el 71% del electorado. Pero en 2015, ya se observa un cambio muy significativo en varias zonas de Elche. En ese año y en el distrito 1 secciones 17 y 18, en la Plaza de Castilla, el bipartidismo solo obtiene un 41% y 42% respectivamente.&lt;/p&gt;
+
+&lt;h3 id=&quot;pp-y-psoe-se-hunden-en-torrellano-en-favor-de-los-partidos-locales&quot;&gt;PP y PSOE se hunden en Torrellano en favor de los partidos locales&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360066&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El descalabro ya es palpable y significativo en el casco urbano: en el distrito 1 secciones 17 y 19, alrededor de la Plaza de Castilla, donde PP y PSOE sólo alcanzan el 42% y 41% respectivamente. En las pedanías, los casos más destacables se encuentran en el distrito 7 sección 5, de la pedanía de Torrellano, donde el voto pasa del 80% en 2011 al 46% en 2015, y en el distrito 7 sección 15, en Matola donde cayó del 87% en 2011 al 46% en 2015.&lt;/p&gt;
+
+&lt;p&gt;Y los lugares más fieles a los partidos hegemónicos se encuentran entre otros en el centro de la ciudad o en la zona del Jardín de las Culturas (1-12) donde en 2011 el 85% de las papeletas fueron a parar a PP y PSOE y en 2015 aguantó el tirón con la pérdida de sólo el 17% del voto. Cabe destacar sobre todo una de las secciones del barrio de los Palmerales, (2-11), ya que aunque en 2007 el voto a ambas formaciones suponía el 91% del total e incluso en 2011 consiguió un punto más, ya en 2015 bajo al 77% pero siguió aguantando el tipo siendo la sección con más voto al bipartidismo. En cuanto a las pedanías Algoda y la Hoya son donde mejor han aguantado el tirón pasando del 87% y 88% respectivamente en 2011 al 67% y 66% en 2015, si bien es una brusca caída, en el resto de pedanías los resultados son peores.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-partido-de-elche-se-forja-en-carrús-y-el-pla&quot;&gt;El Partido de Elche se forja en Carrús y El Pla&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHPdElx.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El Partido de Elche, con Jesús Pareja a la cabeza, surgió en 2007 como “alternativa a los partidos tradicionales”. En 2007, obtuvo 4.186 votos, lo que le supuso el 4,03 % del total. En 2011 mejoró sus resultados con 5.977 votos y el 5,27%. Y en 2015 sus resultados también mejoraron siendo 6.487 ilicitanos quienes confiaron en este partido obteniendo el 5,85%.&lt;/p&gt;
+
+&lt;p&gt;Aunque el Partido de Elche no es una formación que obtenga grandes resultados en el cómputo general, sí se pueden destacar varias secciones en los barrios de Carrús y El Pla, donde sus resultados son más visibles. En 2011 y en el barrio de Carrús, su mejor resultado fue en el distrito 4 sección 6, frente al Parque de la Aparadora, donde obtuvo el 11% del voto, pero en 2015 bajo al 8%. En ese mismo año de 2015, en el barrio de Porfirio Pascual, alcanzó el 11% del voto cuando en las anteriores elecciones sólo había obtenido el 7%. En el barrio del Pla también obtiene algún resultado destacable como por ejemplo el 13% del distrito 6 sección 16 en 2011, que baja al 12% en 2015 a cambio de ganar algunos votos más en otras secciones del barrio.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/359980&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En cambio, a los votantes de las secciones del centro de la ciudad, la formación de Jesus Pareja no consigue ilusionar ya que en ninguna de ellas alcanza más allá de un 3%, al igual que en pedanías como Torrellano, Perleta, Maitino o el Altet donde su porcentaje de voto es idéntico al del centro del casco urbano. Las pedanías no son el fuerte de esta formación, su mejor resultado lo obtuvo en 2011 en el LLano de San José con un 8% del voto que bajó al 5% en 2015 y en ese mismo 2015 no logró superar el 5% en ninguna de las pedanías donde más fue votado, exceptuando la Hoya donde alcanzó el 7%.&lt;/p&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesPdeElxMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;La evolución del voto a esta formación ha sido desigual, pero se posible destacar sus mejores resultados en el distrito 3 sección 23, frente al Parque 1 de mayo. En esta sección, en el año 2007 solo obtuvo el 3,45% del voto, pero ya en 2011 casi dobla resultado con el 5,73% y en 2015 se aupó hasta el 9,77% del total del voto. En cambio su voto se desploma en el distrito 2 sección 8, en el barrio de San Antón, donde entró con cierta fuerza en 2007 con el 6,82% del voto, pero en 2011 cayó hasta el 3,79%, y ya en 2015 volvió a caer levemente hasta el 3,71%.&lt;/p&gt;
+
+&lt;h3 id=&quot;ilicitanos-por-elche-triunfó-en-su-debut-en-los-palmerales&quot;&gt;Ilicitanos por Elche triunfó en su debut en los Palmerales&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxHIlicitanos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;El partido creado antes de las elecciones de 2015 por Cristina Martínez surgió como una “escisión” del PP a causa de problemas a nivel interno entre el partido y la propia Martínez. La exconcejal por el Partido Popular arrastró un buen número de votos cuando abandonó a su partido para crear uno propio. La formación obtuvo en sus primeras elecciones 7.267 votos y el 6,55%, consiguiendo dos concejales y superando al Partido de Elche, que ya se había presentado en dos elecciones anteriores.&lt;/p&gt;
+
+&lt;p&gt;En ese año, su mejor resultado lo obtuvo en el distrito 2 sección 10, en el barrio de los Palmerales con el 21% del voto. Y en la otra sección del barrio (9) su resultado tampoco fue nada desdeñable ya que consiguió el 16% del voto. Este dato es curioso ya que un barrio donde la participación no alcanza el 50% y la izquierda siempre ha sido firme ganadora, un partido de reciente creación y surgido de una escisión de un partido de derechas se alzó con un buen puñado de votos arrebatados presumiblemente al PSOE. Otros lugares donde obtuvo óptimos resultados se encuentran en el distrito 3 sección 18, frente a la Plaza Jardín de Aspe, en el que alcanzó el 15% del voto y en ese mismo distrito en la sección 20, alrededor del Centro de Salud Carrús Este, en el que el 17% de los electores le dieron su confianza.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-voto-joven-da-la-espalda-al-bipartidismo&quot;&gt;El voto joven da la espalda al bipartidismo&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360219&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Analizando el histórico desde las elecciones de 2007, se comprueba cómo la tendencia del voto al bipartidismo entre los ilicitanos de entre 18 y 39 años es claramente descendente. El voto que comprende de los 40 a los 59 años mantiene una tendencia lineal levemente descendente en las elecciones de 2015, por lo que se puede deducir que este voto es más fiel. Aunque los votantes más fieles a los partidos tradicionales y cuyo voto no desciende sino que incluso aumenta son las personas mayores de 60 años en adelante.&lt;/p&gt;
+
+&lt;p&gt;En cuanto al voto femenino es notable que en las secciones donde más mujeres hay censadas es el lugar donde el bipartidismo sigue imperando. Como ejemplo de ello podemos destacar en 2011 el distrito 2 sección 2, en los alrededores de la Glorieta, donde el censo de mujeres era del 55,11% y el bipartidismo allí se hizo con el 91,31% de los votos. Otro ejemplo de ello se puede encontrar en la pedanía de Algoros, en las elecciones de 2015 el censo de mujeres en dicha pedanía era del 51,24% y allí PP y PSOE alcanzaron conjuntamente el 89,79% de los votos.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360206&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En relación al voto a los partidos locales claramente se aprecia una tendencia ascendente del votante entre 18 y 39 años. En cambio, el voto a partir de 40 años sufre una caída aparatosa en el gráfico. Un ejemplo de ello se puede percibir alrededor del Centro de Salud Carrús Este (3-20), donde la población comprendida entre 20 y 39 representa el 22,23% y a partir de 40 años el 53,47% y en el que los partidos locales en 2015 obtuvieron el 24,32%. En el caso del voto femenino el descenso es más que considerable en todas las secciones, en la anteriormente mencionada la población de mujeres es del 51,54%. Esta tendencia es algo que se repite en elecciones anteriores y que parece una constante en el voto a estas formaciones.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-inmigración-no-influye-en-el-bipartidismo&quot;&gt;La inmigración no influye en el bipartidismo&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360213&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;No existe una gran desviación en los gráficos en cuanto al voto al bipartidismo y las zonas donde más se concentra la población inmigrante. Se puede destacar no obstante que en el distrito 3 sección 25, en el barrio de Carrús, que es donde más población inmigrante hay congregada, 12,73% del total, el bipartidismo obtuvo un 88,7% aunque en 2015 a raíz de la irrupción de nuevos partidos bajó hasta el 55,45%.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360211&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Existe una tendencia al alza entre las secciones donde más inmigración existe y donde más se vota a los partidos locales. Un ejemplo de ello se da en el distrito 3 sección 18, Frente al Jardin de Aspe,donde el porcentaje de población inmigrante es del 8,04% y los partidos locales obtuvieron en 2015 el 20,4% del total del voto. Aunque el mejor resultado de los partidos locales en conjunto fue en el distrito 2 sección 10, en el barrio de los Palmerales donde obtuvieron el 26,47% de los votos y allí en cambio la población inmigrante solo es del 1,81%.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-bipartidismo-cede-votos-a-diestra-y-siniestra&quot;&gt;El bipartidismo cede votos a diestra y siniestra&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360218&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En las elecciones de 2007 no hubo una diferencia significativa entre la participación a nivel nacional y a nivel local, 63,27% y 62,85% respectivamente, pero tanto PSOE como PP disfrutaban de su hegemonía. En esas mismas elecciones existió un empate técnico entre ambos partidos ya que el 41,91% del electorado (43.483 votos), eligió al partido popular y el 42,02% decidió dar su voto al PSOE (43.595 votos) lo que les proporcionaba 26 de los 27 concejales del consistorio, en esta ocasión los socialistas consiguieron gobernar en coalición con la única concejala que obtuvo Izquierda Unida. Pero ya en las elecciones de 2011 se nota un ligero descenso en la tendencia.&lt;/p&gt;
+
+&lt;p&gt;Aun así se pueden encontrar ejemplos hegemónicos como en el distrito 2 sección 2, ubicada en la Glorieta, donde en 2011 la participación fue del 75,46% y ambos partidos obtuvieron el 91,31% del voto, aunque en este caso las papeletas fueron mayoritariamente para el PP. Ya en 2015 y con la irrupción de nuevos partidos, el bipartidismo se fracturó y ambos partidos cedieron votos a otras formaciones de reciente aparición. Como ejemplo de ello podemos retornar a la sección anterior y comprobar que la participación descendió hasta el 69,76% y el bipartidismo solo obtuvo el 69,5% de los votos. Pero hay que destacar que no existe una tendencia generalista clara al alza o a la baja en cuanto a participación y voto al bipartidismo.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360209&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Existe una tendencia descendente en cuanto a participación y voto a los partidos locales. En las secciones donde más participación hay, el apoyo a estos nuevos partidos desciende.&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 19 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/los-nuevos-partidos-periferia/</link>
+        <guid isPermaLink="true">http://localhost:4000/los-nuevos-partidos-periferia/</guid>
+        
+        
+        <category>histórico</category>
+        
+      </item>
     
       <item>
         <title>Ilicitano, pon a prueba tu voto: ¿Qué programa se ajusta más a tus ideas?</title>
@@ -30,7 +390,7 @@
   &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1yqF3-5tXgure8_1ydQGmeRWCBmRXisvnYM_R4qPq4PI/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <pubDate>Sat, 18 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/test-ajusta-tu-voto/</link>
         <guid isPermaLink="true">http://localhost:4000/test-ajusta-tu-voto/</guid>
         
@@ -72,12 +432,96 @@
   &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1yqF3-5tXgure8_1ydQGmeRWCBmRXisvnYM_R4qPq4PI/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 17 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/propuestas-partidos-ilicitanos/</link>
         <guid isPermaLink="true">http://localhost:4000/propuestas-partidos-ilicitanos/</guid>
         
         
         <category>programas</category>
+        
+      </item>
+    
+      <item>
+        <title>Del bipartidismo a los bloques en cada manzana ilicitana</title>
+        <description>&lt;p&gt;Muchas son las incógnitas que plantean en Elche las Elecciones Municipales del 26 de mayo: ¿cómo se moverán los bloques de izquierda y derecha? ¿Qué parte de los resultados se trasladarán de las Generales y Autonómicas? ¿Cómo influirán los partidos locales? ¿Y las escisiones de algunos de los nuevos partidos? ¿Y la participación (y la europea)?&lt;/p&gt;
+
+&lt;p&gt;Hasta que esa (larga) noche no responda a estas preguntas, qué plan mejor que estudiar lo que ya se sabe: que el bipartidismo se acabó y, aunque retome terreno, no será lo que fue (al menos, de momento); que la participación en las diferentes zonas censales será determinante; que la derecha se mantiene firme en el centro y las pedanías; que la izquierda sigue instalada en el extrarradio y que una de las claves estará en el comportamiento de los partidos locales (tengan o no representación). Todo eso es lo que analizamos en esta nueva entrega del Local Data Lab.&lt;/p&gt;
+
+&lt;h3 id=&quot;adiós-al-monocolor&quot;&gt;Adiós al monocolor&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/elxBipartidismo.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Las Elecciones Municipales de 2015 marcaron un antes y un después en el mapa del voto ilicitano. Hasta 2011, el voto a PP y PSOE superaba el 80% en la inmensa mayoría de las manzanas de la ciudad y sus pedanías. La irrupción de Compromís y Ciudadanos inauguró en Elche una nueva era, la de los bloques. Desde ese momento, los resultados se interpretan en clave ideológica, agrupando a partidos de la misma corriente, y sobre todo de pactos postelectorales. PP y Ciudadanos se instalan en zonas tradicionalmente “populares”, mientras que PSOE y Compromis se afianzan en los barrios obreros, socialistas hasta entonces.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/369466&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Durante los años noventa y la primera década del nuevo siglo, el bipartidismo imperaba en las urnas ilicitanas. Por supuesto, había algo de margen, como el que consiguió EUPV en 2007 para lograr un concejal que le dio la Alcaldía al PSOE. Ese año marcó el inicio de una tendencia que se contuvo cuatro años, incluso con el surgimiento del Partido de Elche, pero que estalló en 2015 con el auge de Compromís, Ciudadanos e Ilicitanos por Elche. Entre las múltiples incertidumbres del 26M, si hay algo claro es que el resultado no será monocolor. Y como se analiza en este recorrido por todos los resultados electorales de la actual democracia en Elche [ENLACE AL POST DE DATOS GENERALES], una de las claves estaré en la participación.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-derecha-conserva-el-centro-las-pedanías-los-mayores-y-las-mujeres&quot;&gt;La derecha conserva el centro, las pedanías, los mayores y las mujeres&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/bloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;La Avenida de la Libertad y el río Vinalopó dibujan las dos líneas que, salvo por excepciones, dibujan el sentido del voto de los ilicitanos en las Elecciones Municipales. Al sur de la principal arteria de la ciudad y en las zonas más céntrica de la ladera, la derecha es casi intocable. Pero el dominio de este bloque es aún más claro en el Camp d’Elx. Sólo la partida de Carrús, al sur del Pantano, y una parte de El Altet se escapan del dominio conservador. La coincidencia del crecimiento de Ciudadanos en las zonas donde más cayó el PP en 2015 explican el escaso movimiento del bloque de derechas.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360168&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La relación entre las variables demográficas de las distintas zonas de Elche y el voto al bloque de derechas son evidentes. En las secciones con mayor porcentaje de mujeres y de mayores de 60 años. La tendencia, en el caso del sexo, incluso se acentúa en las Municipales de 2015. Todo esto se estudia con detalle en el análisis del voto al bloque de la derecha [ENLACE AL POST DE LA DERECHA].&lt;/p&gt;
+
+&lt;h3 id=&quot;la-izquierda-se-renueva-pero-no-traspasa-las-afueras&quot;&gt;La izquierda se renueva, pero no traspasa las afueras&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360018&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En el mapa de la ciudad, el bloque de la izquierda domina claramente al norte de la Avenida de la Libertad, en Carrús, y en las zonas más alejadas del Vinalopó (salvo El Pla): el Corte Inglés, la parte vieja de Altabix y Los Palmerales. Sin olvidar gran parte de El Raval y algunas de las manzanas de las zonas nuevas de Altabix. No obstante, un análisis más pormenorizado refleja la caída del voto a la izquierda en determinadas manzanas de Carrús y el auge en pedanías como Torrellano.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360201&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El cruce de datos de los resultados electorales con el padrón trasluce el apoyo a la izquierda en las zonas con mayor inmigración. En los lugares donde existe mayor población extranjera, especialmente de África (aunque no puedan votar), la curva es ascendente. La tendencia se mantiene en todos los comicios locales, pero se suaviza en 2015, como estudiamos en análisis de la izquierda ilicitana[ENLACE POST IZQUIERDA].&lt;/p&gt;
+
+&lt;h3 id=&quot;la-tercera-vía-pasa-por-lo-local&quot;&gt;La tercera vía pasa por lo local&lt;/h3&gt;
+
+&lt;iframe src=&quot;/assets/images/VariacionesBloquesMpales.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;La irrupción de los partidos locales se convirtió en una de las claves de la pasada legislatura en Elche. No extraña ver cómo estas agrupaciones fueron las que más crecieron en casi todas las secciones censales de la ciudad. Sólo las zonas de Correos, Santa María y el colegio Ferrández Cruz viraron más a la derecha, mientras que la parte más céntrica de El Raval se inclinó hacia la izquierda.&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/360066&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;El descalabro del bipartidismo fue significativo en zonas del casco urbano, como la Plaza de Castilla, y en partidas rurales como Peña de Las Águilas. El auge del Partido de Elche en manzanas de El Pla y de Ilicitanos por Elche en Carrús o Los Palmerales dibujó un nuevo panorama en la ciudad que en el Local Data Lab estudiamos a fondo [ENLACE POST LOCALES Y BIPARTIDISMO].&lt;/p&gt;
+
+&lt;h3 id=&quot;bonustrack-conoce-los-programas-y-pon-a-prueba-tu-voto&quot;&gt;Bonustrack: conoce los programas y pon a prueba tu voto&lt;/h3&gt;
+
+&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/342295&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Analizado lo sucedido hasta 2015, llega el momento de pensar en el 26M. Y para decidir el voto, tiene sentido conocer las propuestas de los diferentes partidos. Por eso hemos sintetizado y analizado los programas de cinco de los partidos con representación en el Pleno Municipal [ENLACE AL POST DEL COMPARADOR] y hemos planteado un sencillo juego para que compruebes si tus ideas encajan con lo que piensas votar [ENLACE AL TEST].&lt;/p&gt;
+
+&lt;div class=&quot;apester-media&quot; data-media-id=&quot;5ce50891b015b4820fdf9a60&quot; height=&quot;580&quot;&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://static.apester.com/js/sdk/latest/apester-sdk.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
+  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
+  &lt;p&gt;En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+&lt;/p&gt;
+  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
+  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.&lt;/p&gt; 
+  &lt;p&gt;Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 16 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/bipartidismo-elche/</link>
+        <guid isPermaLink="true">http://localhost:4000/bipartidismo-elche/</guid>
+        
+        
+        <category>histórico</category>
         
       </item>
     
@@ -206,281 +650,6 @@
         <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/parlamento-ilicitano-28A/</link>
         <guid isPermaLink="true">http://localhost:4000/parlamento-ilicitano-28A/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>La periferia vuelve a teñir Elche de rojo</title>
-        <description>&lt;p&gt;El Partido Socialista consiguió el 28 de abril recuperar terreno perdido en casi todas las secciones ilicitanas, aunque el caso más significativo lo podemos encontrar en una de las dos secciones del barrio de los Palmerales, la más cercana al Hospital General de Elche (distrito 2 sección 11), donde los socialistas vuelven a ser partido hegemónico y no solo revalidan victoria con el 62,50% de los votos sino que además mejoran sus datos respecto a 2016, año en el que obtuvieron el 55,68% de los votos.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337314&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;san-antón-vuelve-a-abrazar-al-psoe&quot;&gt;San Antón vuelve a abrazar al PSOE&lt;/h3&gt;
-
-&lt;p&gt;El PSOE obtiene sus mejores datos en cuanto a recuperación de voto en el distrito 2 sección 6, que corresponde a una de las dos secciones censales del barrio de San Antón, donde se alza con el 44,09% del voto en 2019 frente al 31,66% de 2018, lo que significa casi un 14,50% más entre unas elecciones y otras..&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337822&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;las-ilicitanas-no-apoyaron-a-sánchez&quot;&gt;Las ilicitanas no apoyaron a Sánchez&lt;/h3&gt;
-
-&lt;p&gt;La tendencia de las mujeres ilicitanas en el voto al PSOE marca un dato claramente descendente y en las secciones donde más mujeres hay censadas, la tónica general es un descenso en el voto a este partido.&lt;/p&gt;
-
-&lt;p&gt;Si cruzamos los resultados del PSOE con la presencia de mujeres en las secciones censales, se observa que ha obtenido mejores resultados en el distrito 2 sección 11, comentado anteriormente, donde los datos censales nos dicen que el 48,66% de la población de dicho sector son mujeres. Y su peor dato se encuentra en el distrito 1 sección 2, alrededor de la basílica de Santa María, donde solo obtiene el 10,04% de los votos y allí la población femenina asciende hasta el 53,71%.&lt;/p&gt;
-
-&lt;p&gt;En la sección del barrio de los Palmerales comentada anteriormente (distrito 2 sección 11) el censo de población de entre 0 y 39 años es del 67,93%, y en este lugar el PSOE obtiene el 62,5% del voto. En cambio el distrito 1 sección 2, es donde esa misma franja de edad apenas alcanza el 37,66%  y los socialistas solo obtienen el 10,04% del respaldo de sus habitantes.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337823&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;más-extranjeros-no-significa-más-intolerancia&quot;&gt;Más extranjeros no significa más intolerancia&lt;/h3&gt;
-
-&lt;p&gt;En las secciones censales donde más población inmigrante existe los datos revelan un ascenso notable del voto a los socialistas. Y en muchas de esas secciones (la mayoría en el barrio de Carrús) ese ascenso se traduce para el PSOE en convertirse en la fuerza más votada.&lt;/p&gt;
-
-&lt;p&gt;El mayor grupo de población africana se encuentra en el Distrito 3 sección 1, alrededor de la Plaza San Agatángelo de Carrús, con un 14,35% del padrón, y en este lugar el PSOE obtiene el 43,47% de los votos. Este dato nos puede llevar a la conclusión de que no existe una tendencia entre un barrio obrero votante de izquierdas y un auge de intolerancia hacia el extranjero.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337820&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;la-alta-participación-del-centro-daña-al-psoe&quot;&gt;La alta participación del centro daña al PSOE&lt;/h3&gt;
-
-&lt;p&gt;A modo de curiosidad el lugar donde el PSOE obtiene un buen resultado con el 43,98% de los votos, pero más votos nulos son contabilizados es en el Distrito 4 sección 17 adyacente a la Avenida de Novelda con Obispo Barrachina donde el 2,21% de los votos fueron anulados. Por otro lado el Partido Socialista consigue su peor resultado en la sección donde más participación hubo, hablamos del distrito 1 sección 2, zona que se encuentra alrededor de la Basílica de Santa María, donde votaron el 82,63% del censo y los socialistas sólo alcanzaron el 10,04% de los votos. En cambio en una de las secciones del barrio de los Palmerales la participación no alcanzó siquiera el 50% (47,69%), pero el PSOE se alzó con la mayoría de las papeletas obteniendo el 62,5%.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPSOE.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;El pasado 28 de abril se convirtió en una fecha histórica para el Partido Socialista ilicitano ya que desde 1993 no conseguía superar en votos y posicionarse como primera fuerza política en  unas elecciones generales. Desde 2008 había ido perdiendo votantes en una caída constante que le llevó de los  54.319 en ese año a los 27.384 en 2016. Pero en estas últimas elecciones, el PSOE recuperó parte del terreno perdido y consiguió volver a cifras de 2011 (35.706) e incluso mejorarlas con 36.914 electores y el 29,01% del total de electores. Pero aun así queda muy lejos de los 54.319 votos del año 2008. El partido socialista logra convencer en Elche y la fragmentación del voto en la derecha le otorga una victoria que se le resistía en unas elecciones generales desde hace 26 años.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/PSOE-periferia-de-rojo/</link>
-        <guid isPermaLink="true">http://localhost:4000/PSOE-periferia-de-rojo/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>Las zonas nuevas y las pedanías empujan a Ciudadanos</title>
-        <description>&lt;p&gt;Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares como las pedanías de Torrellano y la Hoya, Nuevo Altabix desde el Estadio Martínez Valero hasta el Polideportivo de Altabix (antiguo Kelme), y al sur de la ciudad en la zona colindante a la carretera de Dolores. En la pedanía de la Hoya consigue imponerse y ser la fuerza más votada. Y en el casco urbano su mejor resultado lo obtiene en el distrito 2 sección 22, anejo al Estadio Martínez Valero, donde casi dobla al PP en votos y supera al PSOE.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Ciudadanos recupera el fuelle perdido en las anteriores elecciones en lugares como las pedanías de Torrellano y la Hoya, Nuevo Altabix desde el Estadio Martínez Valero hasta el Polideportivo de Altabix (antiguo Kelme), y al sur de la ciudad en la zona colindante a la carretera de Dolores. En la pedanía de la Hoya consigue imponerse y ser la fuerza más votada. Y en el casco urbano su mejor resultado lo obtiene en el distrito 2 sección 22, anejo al Estadio Martínez Valero, donde casi dobla al PP en votos y supera al PSOE.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesCS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;El mejor dato para Ciudadanos en relación a la recuperación del voto lo obtiene en el distrito 3 sección 4, en el inicio del Camino de los Magros. En 2015 entró en la liza a nivel nacional y en este lugar consiguió el 8,16% del voto, en las elecciones de 2016 superó ese dato con el 11,37% y en estas últimas elecciones casi consigue doblar a su primer dato con el 15,61% de las papeletas.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337342&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;la-permanencia-se-juega-en-altabix&quot;&gt;La permanencia se juega en Altabix&lt;/h3&gt;
-
-&lt;p&gt;Su mayor caída en el histórico se produce en el distrito 1 sección 21 en Nuevo Altabix, alrededor de la Jefatura de la Policía Local de Elche, ya que en 2015 obtuvo el 34,39% y en estas últimas elecciones solo el 29,34% de los votantes le otorgó su confianza, aunque cabe destacar que los datos son prácticamente iguales a los de 2016 en los que obtuvo el 29,44%. Por lo tanto el denominado voto útil de las pasadas elecciones no ha regresado a Ciudadanos.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337832&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;voto-joven-de-clase-media&quot;&gt;Voto joven de clase media&lt;/h3&gt;
-
-&lt;p&gt;En este mismo distrito y sección (1-21), los censados entre 0 y 39 años suponen el 52,61% de la población y de los 60 años en adelante el 31,45%, de lo que se podría deducir que el voto a Ciudadanos en un voto joven de clase media.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337829&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Su mayor remontada la encontramos en el Distrito 1 sección 5, frente al colegio Ferrández Cruz donde en 2015 obtuvo el 31,68% de los votos, cayendo en 2016 al 25,00% y recuperando algo más de cinco puntos y medio (30,63%) en las últimas elecciones.
-El lugar donde hubo mayor participación y Ciudadanos obtuvo su mejor resultado fue en el distrito 2 sección 25, al sur de la ciudad y bordeando Puertas Encarnadas, donde la participación fue del 85,71% y el partido alcanzó el 30,63% de los votos.&lt;/p&gt;
-
-&lt;p&gt;El gran beneficiado del centro derecha y ganador moral de estas elecciones sin duda ha sido Ciudadanos. No solo a nivel nacional, porque si extrapolamos los datos a nivel local, Ciudadanos se convierte en segunda fuerza en Elche con el 20,09% del voto otorgado por 25.569 ilicitanos. Estos datos mejoran en 4.647 votantes a los de 2016 y por primera vez relega a la tercera posición al Partido Popular. El partido de Pablo Casado con el 19,50%  y siendo la elección de 24.814 votantes obtiene su peor resultado en la ciudad desde 1989 donde solo consiguió 22.423 votos.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/ciudadanos-zonas-nuevas/</link>
-        <guid isPermaLink="true">http://localhost:4000/ciudadanos-zonas-nuevas/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>Al PP sólo le queda el centro</title>
-        <description>&lt;p&gt;Las elecciones generales del 28 de abril dibujaron un mapa en el que el dominio del PP quedó reducido a sus bastiones tradicionales del centro del casco urbano ilicitano. Los populares perdieron votos por el centro en las zonas más nuevas de la ciudad y en el extrarradio sur, y por la derecha en algunas de las pedanías.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/336895&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La partida de Algoda, en el distrito 7, sección 23 es la que experimenta una mayor caída en el porcentaje de votos obtenidos. Mas de un 56% de sufragios perdido en una década, en una zona tradicionalmente con mayoría del PP. El el lado opuesto, donde menos disminuyen es el el distrito 4, sección 11 con “solo” un 18% de pérdida de voto. Tiene su explicación ya que está situada en Carrús, cerca del centro de salud del Toscar y al ser una zona generalmente de mayoría socialista, la bajada afecta menos ya que se parte de un menor número de votos. Esto también sucede en el barrio de Los Palmerales y el de San Antón, ambos en el distrito 2, secciones 9, 10, 11 y 22.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337839&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;anclados-en-el-pasado&quot;&gt;Anclados en el pasado&lt;/h3&gt;
-
-&lt;p&gt;El Partido Popular, una vez más, no consigue ilusionar a los jóvenes. Aunque no es un factor determinante, sí que es obvio que según avanzamos en la franja de edad, el voto es más conservador. Hasta los 59 años, la tendencia es descendente: a mayor número de votantes de esa edad, menos votos al PP. Por contra, de 60 hacia arriba el porcentaje sube a favor de los populares.&lt;/p&gt;
-
-&lt;p&gt;En cuanto al sexo, y al igual que en pasadas elecciones, a más mujeres, mayor voto conservador. En general el porcentaje de hombres y mujeres en bastante similar en todas las secciones, pero en la 2-03, en los alrededores de la Glorieta, ellas son un 55,80% y es una de las 22 secciones donde el PP ha ganado en estas elecciones. Donde menos mujeres hay, en Torrellano, sección 7-04 y con un 46.33% el resultado final ha sido de un empate entre PP y PSOE.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337840&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La influencia que la existencia de inmigrantes tiene en el porcentaje de voto obtenido por los populares apenas tiene efecto pero si quisiéramos marcar una tendencia, en zonas con más vecinos procedentes de África,  menos votos obtiene el PP, mientras que en zonas con predominio de residentes americanos, los conservadores obtienen un mejor resultado.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337841&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Una vez más, Elche rompe la tendencia nacional de que a mayor participación, mayor voto progresista. La zona centro, feudo conservador, registra las mayores cotas de participación de toda la ciudad, muy por encima de la media.  La sección 2-23, Portalada y zona nueva del Filet de Fora, registra la mayor participación de la ciudad, con un 86% y el PP gana aunque no de manera tan contundente como en elecciones anteriores. En el lado opuesto, la sección 2-11, en el barrio de Los Palmerales y con sólo un 47,69% de votantes, los populares  consiguen un 9.18%, uno de los resultados más bajos de la ciudad&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPP.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;El 28 de abril de 2019 quedará en la memoria del Partido Popular ilicitano como el día en que el PSOE consiguió ganarles tras más de 25 años de hegemonía en elecciones generales. Tomando como referencia la última década, desde 2008, los populares han tenido su resultado más exiguo. La irrupción de dos partidos más en la derecha, Ciudadanos y VOX, ha hecho mella en sus números finales aunque es cierto que la suma de los tres, apenas ha provocado un desequilibrio entre conservadores y progresistas.&lt;/p&gt;
-
-&lt;p&gt;Los resultados plasmados en un mapa nos hablan de dos zonas claramente diferenciadas: conservadoras y progresistas. También nos cuentan que, cuando se produce un trasvase de votos entre bloques, se suele realizar por barrios y calles y que las zonas fuertes de cada partido resisten los embates del ciudadano disgustado e indignado que deja muchas veces su ideología en casa.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Mon, 06 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/PP-solo-queda-centro-elche/</link>
-        <guid isPermaLink="true">http://localhost:4000/PP-solo-queda-centro-elche/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>El morado se destiñe hasta el extrarradio</title>
-        <description>&lt;p&gt;El apoyo de Unidas Podemos en el centro nunca ha sido importante, pero el 28 de abril los resultados de la formación morada empeoraron incluso en sus zonas fuertes. El partido no ha tenido en ninguna de las anteriores elecciones la confianza mayoritaria de los ilicitanos. En 2016 solo ganó en 4 de las 171 secciones de las que se compone la ciudad. Este 2019 los resultados no han mejorado.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHPODEMOS.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337325&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;En el distrito 8 sección 6 su caída ha sido en picado, concretamente de un 14’32%. No debemos olvidar que fue justamente aquí, en la parte adyacente a la rotonda del Aljub, donde en 2016 obtuvo su mejor resultado (28’61%), sin embargo este 2019 los ciudadanos abandonaron al partido dejando su porcentaje de votos en el 14’29 %.&lt;/p&gt;
-
-&lt;p&gt;Si extrapolamos los porcentajes a cifras, Unidas Podemos ha pasado de tener 24.661 votos en la ciudad a 16.775 en este 28A. La pérdida ha sido de 7.886 votos. La explicación de esto puede tener dos motivos: por un lado, la desilusión de los ciudadanos con el partido morado por las diferencias internas que ha sufrido y que han generado incertidumbre en sus votantes o, por el otro, en que los ilicitanos hayan optado por el voto útil.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/VariacionesPodemos.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;Dentro del declive, hay zonas en las que el voto no ha variado de manera significativa. Este es el caso de las manzanas más cercanas a La Glorieta, en la que en 2016 el porcentaje de votos fue el 9’20% y en estas elecciones ha bajado a un 4’98%, esta zona podría considerarse como la más fiel al partido en estas elecciones.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337383&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;el-sexo-no-influye-en-el-partido-morado&quot;&gt;El sexo no influye en el partido morado&lt;/h3&gt;
-
-&lt;p&gt;En el caso de Unidas Podemos la variable ‘hombre/mujer’ es indiferente en cuanto al voto, ya que en secciones con porcentajes de mujeres en censo similares ha obtenido resultados muy dispares, por ejemplo: en el distrito 5-23 el censo de mujeres representa el 50’34% y el porcentaje de votos al partido morado ha sido el 19’67%; mientras que, por otro lado en el distrito 2-02 el censo de mujeres es un 54’05 y el resultado fue un 4’98%. Aunque la tendencia en voto de las mujeres en cuanto a este partido ha descendido en comparación a años anteriores.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337755&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;favorecidos-por-la-inmigración&quot;&gt;Favorecidos por la inmigración&lt;/h3&gt;
-
-&lt;p&gt;El voto a Unidas Podemos varía según el porcentaje de población española que vive en esa zona. En los lugares donde más ciudadanos de nacionalidad española hay el voto tiende a descender, sin embargo en las zonas donde es mayor la población extranjera el apoyo al partido aumenta. Es el caso del distrito 5-23 donde el porcentaje de población española es el 75’74% y el de votos al partido de 19’67%, mientras que en el distrito 2-02 hay un 91’01% de la población que es española y los votos al partido fueron el 4’98%&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/podemos-se-va-al-extrarradio/</link>
-        <guid isPermaLink="true">http://localhost:4000/podemos-se-va-al-extrarradio/</guid>
-        
-        
-        <category>resultados</category>
-        
-      </item>
-    
-      <item>
-        <title>Vox germina en el campo de Elche</title>
-        <description>&lt;p&gt;Vox no consiguió el 28A alzarse con la victoria en ninguna de las secciones del casco urbano de Elche. Ni siquiera en la zona centro, con un voto más girado a la derecha, obtuvo mejores resultados.&lt;/p&gt;
-
-&lt;iframe src=&quot;/assets/images/elxHVox.html&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; width=&quot;100%&quot; height=&quot;850&quot; scrolling=&quot;no&quot; seamless=&quot;seamless&quot; frameborder=&quot;0&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;En todas las secciones censales del centro de Elche el Partido Popular sigue siendo la fuerza más votada seguida de Ciudadanos. Por otra parte, en los barrios que desde siempre se han considerado obreros Vox no consigue germinar del todo y aunque en muchas de sus secciones censales consigue superar al PP, queda lejos de otras formaciones como PSOE, Ciudadanos o Unidas Podemos.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337844&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La tendencia del voto joven entre 20 a 39 años marca una ligera descendencia por debajo de la media respecto a otros partidos, pero el voto entre 40 a 59 años sí que marca un ligero ascenso lo que nos hace suponer que el mayor caladero de votos de Vox está comprendido entre los 35 a 50 años. En cuanto al voto de las mujeres a esta formación también podemos apreciar un descenso conforme a la media.&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337846&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;las-pedanías-se-convierten-en-abono-fértil&quot;&gt;Las pedanías se convierten en abono fértil&lt;/h3&gt;
-
-&lt;p&gt;Si analizamos el voto por edad el lugar donde Vox obtiene su mejor resultado entre el censo comprendido de 0 a 39 años es en la pedanías de Jubalcoi (distrito 7 sección 19), que comprende el norte del casco urbano desde la Ronda Este hasta el pantano, con una participación del 75% y  en el que la población de dicha edad es del 46,47%  Vox alcanza el 22,09% del voto. En este distrito la población extranjera es prácticamente nula. La población entre 40 a 59 supone el 28,71% del censo y a partir de los 60 años son el 26,82%.&lt;/p&gt;
-
-&lt;p&gt;En el distrito 7 sección 23, partida de la pedanía de Algoda, Vox se impone con un empate técnico con el PSOE y una mínima ventaja, siendo la fuerza más votada (161 votos frente a 160).&lt;/p&gt;
-
-&lt;div class=&quot;flourish-embed&quot; data-src=&quot;visualisation/337845&quot;&gt;&lt;/div&gt;
-&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;el-apoyo-a-vox-no-florece-en-la-clase-trabajadora&quot;&gt;El apoyo a Vox no florece en la clase trabajadora&lt;/h3&gt;
-
-&lt;p&gt;La formación verde obtiene su peor resultado en el distrito 3 sección 3, en el barrio de Porfirio Pascual con el 6,97% de los votos y donde depositaron su papeleta el 69,8% de los electores. En esta zona la población comprendida entre 0 a 39 años es del 41,02%, los vecinos entre 40 a 59 años son el 28,47% y a partir de los 60 suponen el 30,51%.&lt;/p&gt;
-
-&lt;p&gt;El partido de Santiago Abascal, que ha estado en boca de todos en los últimos meses, entra con fuerza en el Congreso de los Diputados. El partido de la derecha radical consigue 24 diputados con un total de 2.677.173 papeletas y el 10,26% del voto. Aunque siendo unos datos muy favorables la formación no consigue alcanzar sus expectativas que iban mucho más allá de lo obtenido. En Elche Vox alcanza los 16.576 votos y se convierte en quinta fuerza con el 13,03%. Hasta el momento España era la rara avis europea al no tener representación en su parlamento de un partido de la derecha radical, pero esa excepción en este caso no ha confirmado la regla.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-secondary&quot; role=&quot;alert&quot;&gt;
-  &lt;h4 class=&quot;alert-heading&quot;&gt;Nota metodológica&lt;/h4&gt;
-  &lt;p&gt;Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de &lt;a href=&quot;http://www.argos.gva.es/ahe/val/buscaEleccionesV.html&quot;&gt;Argos&lt;/a&gt;, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el &lt;a href=&quot;http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;amp;cid=1254736177012&amp;amp;menu=resultados&amp;amp;idp=1254734710990&quot;&gt;Padrón Continuo&lt;/a&gt; del Instituto Nacional de Estadística (INE).&lt;/p&gt;
-  &lt;p&gt;El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.&lt;/p&gt;
-  &lt;p&gt;Las visualizaciones de gráficos interactivos se materializaron con &lt;a href=&quot;https://flourish.studio/&quot;&gt;Flourish&lt;/a&gt;, mientras que las de mapas se desarrollaron a partir de la librería de Python &lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;.&lt;/p&gt; 
-  &lt;p&gt;Todos los datos empleados se pueden descargar en &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Tde3VYKVakCl2x8WzAm3xa9zMZvSS9LPbvzO9r6_Oco/edit?usp=sharing&quot;&gt;esta hoja de cálculo&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 04 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/vox-germina-campo-elche/</link>
-        <guid isPermaLink="true">http://localhost:4000/vox-germina-campo-elche/</guid>
         
         
         <category>resultados</category>

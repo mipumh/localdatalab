@@ -20,7 +20,6 @@ El bipartidismo se resintió considerablemente en todos los rincones de Elche, p
 
 La edad parece ejercer una influencia considerable en el apoyo a PP y PSOE. Los mejores resultados de los dos partidos más tradicionales se registran en las zonas con mayor presencia de ilicianos con más de 60 años. Estos apoyos también tienden a mejorar en las zonas con mayor presencia de inmigrantes. La curva más clara se obtiene al tener en cuenta la participación: las secciones censales en las que más ilicitanos fueron a las urnas prestaron menor apoyo a PP y PSOE.
 
-
 <div class="alert alert-secondary" role="alert">
   <h4 class="alert-heading">Nota metodológica</h4>
   <p>Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de <a href="http://www.argos.gva.es/ahe/val/buscaEleccionesV.html">Argos</a>, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el <a href="http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990">Padrón Continuo</a> del Instituto Nacional de Estadística (INE).</p>

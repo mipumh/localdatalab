@@ -45,6 +45,26 @@ License: https://www.wowthemes.net/freebies-license/
      transition: all 0.4s;
 }
 
+.note~p { /*next paragraph after <div class="note"></div>*/
+    color: #383d41;
+    background-color: #e2e3e5;
+    border-color: #d6d8db;
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    font-size: medium;
+}
+
+.note+p:before { /*aditionally prepend `⚠ Note:` to message: */ 
+    content: "Nota metodológica";
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    display: block;
+    font-size: 1.5rem;
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
@@ -70,7 +90,7 @@ License: https://www.wowthemes.net/freebies-license/
   margin-bottom: 57px;
   color: white,80%;
   font-size: 20px;
-  background-image: linear-gradient(to left, rgba(0, 32, 122, 0.6) 26.48%, #00CC6B 73.52%),url("../images/cool-background.gif");
+  background-image: linear-gradient(to left, rgba(0, 32, 122, 0.6) 26.48%, #00CC6B 73.52%),url("../images/elx-background.gif");
   background-size:cover;
 }
 
@@ -709,7 +729,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .jumbotron { 
-         background-image: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,0.5) 47%, rgba(237,237,237,0.78) 100%),url(../images/elx-background.gif);
+         background-image: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,0.5) 47%, rgba(237,237,237,0.78) 100%),url(../images/cool-background.gif);
          background-size:cover;
          margin-bottom: 1rem;
 }

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "La inmigración se desplaza a la izquierda"
 subtitle: "Los resultados electorales de PP y Ciudadanos mejoran cuanto mayor es el porcentaje de nacidos en España. Las zonas con mayor inmigración tienden a decantarse por Podemos y, sobre todo, por el PSOE"
 author: felix 

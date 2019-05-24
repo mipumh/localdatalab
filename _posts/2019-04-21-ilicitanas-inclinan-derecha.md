@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "Las ilicitanas se inclinan hacia la derecha"
 subtitle: "El PP obtiene mejores resultados cuando crece el predominio de mujeres en las secciones censales. Sucede lo contrario en PSOE y Podemos, que registran un mayor porcentaje de votos en las zonas con mayor presencia de hombres"
 author: felix 

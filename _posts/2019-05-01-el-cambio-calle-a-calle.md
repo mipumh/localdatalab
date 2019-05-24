@@ -8,25 +8,11 @@ image: assets/images/image1.png
 ---
 El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de las secciones censales de Elche. 
 
-<iframe src="/assets/images/Ganador.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1700"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/Ganador.html %}
 
 El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últimas citas con las urnas, especialmente en el centro y los barrios del oeste, se transformó en un despegue generalizado del bloque de izquierdas (Unidas Podemos, Compromís y PSOE). Pero los datos que se desprenden de los resultados las distintas formaciones reflejan importantes matices. En esta nueva entrega del Local Data Lab, analizamos y visualizamos la evolución de los votos y el cruce con las variables demográficas.
 
-<iframe src="/assets/images/VariacionesBqsComparada.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesBqsComparada.html %}
 
 ### La izquierda gana terreno, pero se queda en el extrarradio
 
@@ -44,79 +30,37 @@ El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últi
 
 El Congreso de los Diputados, [solo con los votos de Elche volvería a ser conservador](https://localdatalab.umh.es/parlamento-ilicitano-28A/). Albert Rivera, líder de Ciudadanos, podría ser investido con por una coalición de derechas con una amplia mayoría en las bancadas del hemiciclo.
 
-<iframe src="/assets/images/VariacionesPSOE.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPSOE.html %}
 
 ### El cinturón rojo se abrocha en Elche
 
 El centro y gran parte de [las pedanías se le siguen resistiendo al PSOE](https://localdatalab.umh.es/PSOE-periferia-de-rojo/), pero el fuerte apoyo de la mayor parte de los barrios periféricos otorgan una victoria holgada al partido socialista.
 
-<iframe src="/assets/images/VariacionesCS.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesCS.html %}
 
 ### Ciudadanos por todas partes, pero sobre todo en las zonas jóvenes
 
 El [partido de Albert Rivera recupera su fuerza](https://localdatalab.umh.es/ciudadanos-zonas-nuevas/) en secciones como Nuevo Altabix y cobra fuerza en las pedanías de Torrellano y la Hoya, donde consigue ser la fuerza más votada.
 
-<iframe src="/assets/images/VariacionesPP.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPP.html %}
 
 ### El PP se aferra al centro
 
 La [caída generalizada de los votos al Partido Popular en Elche](https://localdatalab.umh.es/PP-solo-queda-centro-elche/) implican que el partido liderado por Pablo Casado sólo mantenga parte de su antiguo vigor en las manzanas más próximas a la Basílica de Santa María.
 
-<iframe src="/assets/images/VariacionesPodemos.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPodemos.html %}
 
 ### Podemos se queda en las afueras
 
 El [caso de Unidas Podemos](https://localdatalab.umh.es/podemos-se-va-al-extrarradio/) es el opuesto al del PP. El descenso no es tan importante, pero sí notable. El partido morado sólo conserva parte de su fuerza en algunas de las zonas más alejadas del centro.
 
-<iframe src="/assets/images/VariacionesVox.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesVox.html %}
 
 ### Vox asoma por el campo
 
 La [irrupción de Vox](https://localdatalab.umh.es/vox-germina-campo-elche/), cuyos resultados fueron muy modestos en las pasadas elecciones, se notó en todas las zonas de la ciudad. Pero fue en algunas de las pedanías donde mayor apoyo registró la formación verde.
 
-<iframe src="/assets/images/VariacionesCompromis.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesCompromis.html %}
 
 ### Los votos de Compromís sólo cambian de lugar
 

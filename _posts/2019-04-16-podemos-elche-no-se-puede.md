@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "En Elche no se puede"
 subtitle: "Únicamente en 4 de las 171 secciones de la ciudad obtuvieron la confianza mayoritaria de los ciudadanos en 2015 y sólo una lo conservó tras la repetición de las generales"
 author: gara 
@@ -8,14 +8,7 @@ image: assets/images/podemos.jpg
 ---
 Fue en 2015 cuando Podemos hizo su primera aparición en las urnas españolas, pero su entrada no cambió de manera significativa el voto en Elche. De las 171 secciones que tiene la ciudad, solo en 4 obtuvieron la confianza mayoritaria de los ciudadanos. Estos datos empeoraron en 2016, presumiblemente como consecuencia del voto útil, lo que redujo su victoria en una única zona de Elche: las manzanas de El Raval más próximas al Puente de la Generalitat.
 
-<iframe src="/assets/images/elxPODEMOS.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxPODEMOS.html %}
 
 El voto a este partido se concentra sobre todo en las regiones periféricas de la ciudad y en los barrios donde viven las personas de clases sociales más humildes. Por otra parte, el centro le sigue siendo fiel a la derecha, así que el porcentaje de votos a Podemos en estas secciones es casi inexistente.
 

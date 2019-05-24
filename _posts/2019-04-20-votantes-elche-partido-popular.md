@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "Los votantes de Elche prefieren un gobierno nacional del Partido Popular"
 subtitle: "Si el Congreso de los Diputados se constituyera con los votos de la ciudad, el panorama político sería de centroderecha en todas las elecciones"
 author: veronica 

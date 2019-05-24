@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "El partido de lo nuevo"
 subtitle: "Ciudadanos se estrenó en Elche arrebatando más de 20.000 votos a los partidos hegemónicos en las elecciones de 2015, sobre todo gracias a los apoyos de los vecinos del Martínez Valero y la Ciudad Deportiva"
 author: enrique 
@@ -8,14 +8,7 @@ image: assets/images/ciudadanos.jpg
 ---
 En 2015 se produjo la irrupción de Ciudadanos a nivel nacional, con Albert Rivera a la cabeza. Los mejores resultados de este partido en la ciudad de Elche se dieron en la sección 21 del distrito 1 y en las 24 y 25 del distrito 2, todas ellas en la zona nueva del barrio de Altabix, con un 34,39%, un 29,46% y un 31,68% de los votos respectivamente. 
 
- <iframe src="/assets/images/elxCS.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxCS.html %}
 
 ### Castigados por el voto útil 
 

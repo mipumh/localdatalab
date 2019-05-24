@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "Urnas llenas, votos para la derecha"
 subtitle: "La participación favorece especialmente al PP, pero también a Ciudadanos. El voto a Podemos y PSOE, en cambio, crece en las zonas en las que menos ilicitanos acuden a las urnas"
 author: felix 

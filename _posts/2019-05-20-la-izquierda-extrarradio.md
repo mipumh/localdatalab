@@ -8,20 +8,13 @@ image: assets/images/izquierda.jpg
 ---
 El voto a la izquierda se fragmentó en las Elecciones Municipales de 2015 en Elche, pero apenas cambió de bando. Los apoyos conjuntos a PSOE, Compromís y el resto de formaciones de izquierdas volvieron a superar a los de la derecha en prácticamente todas las secciones censales de Carrús y en una parte importante de El Pla, Altabix y Los Palmerales. El voto a los socialistas en las manzanas tradicionalmente obreras y a la formación liderada por Mireia Mollà en algunas de las zonas nuevas equilibró la balanza.
 
-{% include bloquesMpales.html %}
+{% include /maps/bloquesMpales.html %}
 
 <div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
 
 Carrús sigue siendo, con diferencia, el feudo de la izquierda en las Elecciones Municipales. El barrio obrero por excelencia en Elche ha mantenido su apoyo a este bloque en la última década sin apenas variaciones y con la única excepción de la zona de las Chimeneas y el colegio Francesc Cantó. En 2015, a este dominio se sumó la partida rural de Carrús, situada entre el barrio con el que comparte nombre y el Pantano.
 
-<iframe src="/assets/images/VariacionesBloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesBloquesMpales.html %}
 
 El apoyo a las izquierdas también se mantuvo en gran parte del sur de la ciudad. El bloque perdió su dominio en secciones como la que conforma el cruce de Pedro Juan Perpiñán con Espronceda, pero recuperó otras como la que rodea el CEIP Luis Vives. Algo más de movimiento se registró en la zona este de la ciudad. El peso de la izquierda se acentuó en Los Palmerales, pero se suavizó en San Antón. Las nuevas urbanizaciones de Altabix, sobre todo tras el auge de Ciudadanos en 2015, se pasaron al lado del centro derecha.
 
@@ -53,14 +46,7 @@ La curva también es descendente cuando se tiene en cuenta la relación entre lo
 
 ### El PSOE echa raíces en Los Palmerales
 
-<iframe src="/assets/images/elxHMPSOE.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHMPSOE.html %}
 
 El mapa del voto del PSOE en las Elecciones Municipales de 2015 en Elche deja claro la zona en la que más apoyo recibe: las tres secciones que se corresponden con el barrio de Los Palmerales. Muy cerca de ahí, los socialistas también obtienen buenos resultados en San Antón. El resto de graneros de votos se localiza principalmente en Carrús, concretamente en los aledaños de la Plaza 1 de Mayo. La zona centro y las pedanías siguen siendo su asignatura pendiente, pero sus peores resultados aparecen en la partida rural de Atzavares Bajo.
 
@@ -68,14 +54,7 @@ El mapa del voto del PSOE en las Elecciones Municipales de 2015 en Elche deja cl
 
 La evolución más favorable del voto al PSOE se produce el barrio de Los Palmerales. Ahí sube del 45,67% en 2007 al 55,49% en 2011 y ya en 2015 consigue 10 puntos más (65,72%), lo que supone una variación del 20,05% en total. Por el contrario, el mayor descalabro lo sufrió en el distrito 4 sección 12, en la Plaza Jardín de Aspe de la zona del Toscar. En esta sección, en 2007, los socialistas obtuvieron el 51,66% del voto, en 2011 perdieron algo más de tres puntos y medio (48,08%) y en 2015 se desplomaron de manera estrepitosa hasta el 24,78% del total de votos.
 
-<iframe src="/assets/images/VariacionesPSOEMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPSOEMpales.html %}
 
 El mapa de variaciones refleja además cómo las elecciones de 2015 supusieron un castigo generalizado en todas las zonas de la ciudad, salvo en el citado oasis de Los Palmerales. Este descenso también se produjo en 2011 en una parte importante del municipio, especialmente en bastiones tradicionales de los socialistas como Carrús o Altabix. En el centro y en zonas nuevas como la de la Ciudad Deportiva, en cambio, sí mejoraron sus resultados.
 
@@ -83,14 +62,7 @@ El mapa de variaciones refleja además cómo las elecciones de 2015 supusieron u
 
 La coalición de Compromís se presentó por primera vez, con estas siglas, a unas elecciones municipales en Elche en 2011, aunque no logró superar la barrera del 5% para obtener representación en el consistorio, ya que obtuvo 3.155 votos y el 2,78% del total. En ese año se puede destacar el 6%, que fue el máximo obtenido en todas las secciones del casco urbano, y que logró en la zona alrededor de la Iglesia de San Juan (2-15), o el 8% en la pedanía de Torrellano (7-16). Pero en las elecciones de 2015 entró con fuerza y logró 15.293 votos y el 13,78% del total, lo que le supuso colocar a cuatro concejales en el Ayuntamiento. En ese 2105, dentro del casco urbano, cabe destacar el 24% del voto obtenido en la zona de Doctor Sapena (6-5) y el apoyo generalizado que cosechó en las zonas nuevas de Altabix y El Corte Inglés. En el Campo de Elche, sobresale el 20% logrado en una de las secciones de Torrellano (7-5).
 
-<iframe src="/assets/images/elxHCompro.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHCompro.html %}
 
 La formación de Mireia Mollá obtuvo en 2015 buenos resultados (por encima del 20% del total) en 5 secciones del casco urbano, dos de ellas en las nuevas urbanizaciones de Altabix (1-20 y 2-22), una frente al Instituto Sixto Marco (2-7), otra en Doctor Sapena (6-5) y la última en el barrio del Raval (2-16). En la periferia sólo consigue superar ese 20% en dos secciones de la pedanía de Torrellano (7-5 y 7-16).
 

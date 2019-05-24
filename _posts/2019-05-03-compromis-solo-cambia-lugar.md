@@ -8,14 +8,7 @@ image: assets/images/compromis.png
 ---
 Los pobres resultados de Compromís en su regreso en solitario a las Elecciones generales se explican, sobre todo, por el escaso apoyo generalizado que obtuvieron en amplias zonas del centro, de barrios como Carrús o de las partidas rurales del norte. La coalición mejoró sus resultados en secciones censales del sur, especialmente en calles clave de El Pla y El Raval, pero incluso ahí sus apoyos nunca llegaron al 5%.
 
-<iframe src="/assets/images/elxHCompromis.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHCompromis.html %}
 
 El mapa que Compromís dibujó el 28 de abril en Elche fue sin duda el más modesto y plano de los seis partidos más votados. La lista encabezada por Aitana Joana Mas en la provincia de Alicante sólo despuntó ligeramente en las manzanas que hay frente al Centro de Salud de El Raval (2_18) y en el cruce de las calles Pedro Juan Perpiñán con Hilarión Eslava (6_18). En muchas zonas de Carrús, en cambio, la coalición apenas superó el 1% del total de apoyos.
 

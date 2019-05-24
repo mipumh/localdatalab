@@ -10,14 +10,7 @@ Entre 2007 y 2011, los dos partidos hegemónicos eran los organizadores de la fi
 
 Algo similar ocurrió en el distrito 1 sección 19, adyacente a la plaza de Castilla en Nuevo Altabix. En esta ocasión, en 2007, ambos partidos sumaban el 81,4% del total, que suponía un 37,58% para el PP y el 43,82% para el PSOE. En 2011 y en este caso a la inversa que en el anterior caso, los populares mejoraron levemente sus resultados con un 37,84% y los socialistas se desplomaron hasta el 36,24%, lo que aún les permitía ser las fuerzas hegemónicas aun habiendo caído hasta el 74,08% del total del voto. Pero en 2015 volvió a suceder y en esta ocasión ambas formaciones se desplomaron de manera estrepitosa bajando el PP al 19,94% y el PSOE al 21,10% lo que ni siquiera les otorgaba una mayoría en dicha sección.
 
-<iframe src="/assets/images/elxBipartidismo.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxBipartidismo.html %}
 
 En 2007 y 2011, sólo dos pequeños reductos se resistían a dar todos sus votos a PP y PSOE. En 2007, en el distrito 2 sección 17, en el barrio del Raval, “solo” el 71% del voto fue para ellos. En 2011, en el distrito 6 sección 9, frente al Corte Inglés, también les votó “solo” el 71% del electorado. Pero en 2015, ya se observa un cambio muy significativo en varias zonas de Elche. En ese año y en el distrito 1 secciones 17 y 18, en la Plaza de Castilla, el bipartidismo solo obtiene un 41% y 42% respectivamente. 
 
@@ -31,14 +24,7 @@ Y los lugares más fieles a los partidos hegemónicos se encuentran entre otros 
 
 ### El Partido de Elche se forja en Carrús y El Pla
 
-<iframe src="/assets/images/elxHPdElx.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHPdElx.html %}
 
 El Partido de Elche, con Jesús Pareja a la cabeza, surgió en 2007 como “alternativa a los partidos tradicionales”. En 2007, obtuvo 4.186 votos, lo que le supuso el 4,03 % del total. En 2011 mejoró sus resultados con 5.977 votos y el 5,27%. Y en 2015 sus resultados también mejoraron siendo 6.487 ilicitanos quienes confiaron en este partido obteniendo el 5,85%. 
 
@@ -48,27 +34,13 @@ Aunque el Partido de Elche no es una formación que obtenga grandes resultados e
 
 En cambio, a los votantes de las secciones del centro de la ciudad, la formación de Jesus Pareja no consigue ilusionar ya que en ninguna de ellas alcanza más allá de un 3%, al igual que en pedanías como Torrellano, Perleta, Maitino o el Altet donde su porcentaje de voto es idéntico al del centro del casco urbano. Las pedanías no son el fuerte de esta formación, su mejor resultado lo obtuvo en 2011 en el LLano de San José con un 8% del voto que bajó al 5% en 2015 y en ese mismo 2015 no logró superar el 5% en ninguna de las pedanías donde más fue votado, exceptuando la Hoya donde alcanzó el 7%.
 
-<iframe src="/assets/images/VariacionesPdeElxMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPdeElxMpales.html %}
 
 La evolución del voto a esta formación ha sido desigual, pero se posible destacar sus mejores resultados en el distrito 3 sección 23, frente al Parque 1 de mayo. En esta sección, en el año 2007 solo obtuvo el 3,45% del voto, pero ya en 2011 casi dobla resultado con el 5,73% y en 2015 se aupó hasta el 9,77% del total del voto. En cambio su voto se desploma en el distrito 2 sección 8, en el barrio de San Antón, donde entró con cierta fuerza en 2007 con el 6,82% del voto, pero en 2011 cayó hasta el 3,79%, y ya en 2015 volvió a caer levemente hasta el 3,71%.
 
 ### Ilicitanos por Elche triunfó en su debut en los Palmerales
 
-<iframe src="/assets/images/elxHIlicitanos.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHIlicitanos.html %}
 
 El partido creado antes de las elecciones de 2015 por Cristina Martínez surgió como una “escisión” del PP a causa de problemas a nivel interno entre el partido y la propia Martínez. La exconcejal por el Partido Popular arrastró un buen número de votos cuando abandonó a su partido para crear uno propio. La formación obtuvo en sus primeras elecciones 7.267 votos y el 6,55%, consiguiendo dos concejales y superando al Partido de Elche, que ya se había presentado en dos elecciones anteriores.
 

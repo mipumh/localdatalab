@@ -8,20 +8,11 @@ image: assets/images/derecha.jpg
 ---
 El voto a la derecha cambió de color en Elche en las Elecciones Municipales de 2015, pero apenas de lugar. El PP conservó gran parte de sus feudos tradicionales, especialmente en el centro y las Pedanías. Una parte importante de los votos que perdió en el extrarradio, especialmente en el sur del casco urbano o en Torrellano fue a costa del auge de Ciudadanos. 
 
-<iframe src="/assets/images/VariacionesBloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesBloquesMpales.html %}
 
 En 2011, aún sin Ciudadanos ni Podemos, los partidos de corte local frenaron el ascenso de los tradicionales PP y PSOE. A pesar de ello, los populares subieron en 48 de las 173 secciones en liza y  también se hicieron con seis de las siete de nueva creación: la 1-21, en los alrededores de la sede de la Policía Local, la 2-24 cerca del campo de fútbol, la 2-25 en La Torreta, y en las pedanías la 7-24, 7-25 y 7-26.
 
-{% include bloquesMpales.html %}
-
-<div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
+{% include /maps/bloquesMpales.html %}
 
 En 2015, la derecha, ya con C´s, ganó en 84 de las 173 secciones y siguió dominando el centro de la ciudad y las pedanías. Ciudadanos contribuyó a que las secciones 1-9, 1-17 y 1-18, en la parte nueva del barrio de Altabix, la 2-6, junto al barrio de San Antón, la 5-18 en El Plá, la 6-1 al lado de la iglesia de San José y la 6-10 y la 6-17 cerca de El Corte Inglés, pasaran a manos del centro derecha. Las pedanías continuaron con mayoría conservadora a excepción de la sección 7-2, lindante con el barrio de Carrús, que cambió a mayoría de la izquierda.
 
@@ -59,14 +50,7 @@ En el lado opuesto, en 2007, la 3-18, tramo final de la Avenida de Novelda, es l
 
 ### El PP sigue sin ceder sus feudos en el centro 
 
-<iframe src="/assets/images/elxMPP.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxMPP.html %}
 
 En todas las elecciones municipales analizadas, al igual que en las generales, el Partido Popular es dueño del centro y las pedanías. En 2007, el PP gana en 68 de las 166 secciones electorales en que se dividía la ciudad en ese año. Donde más votos obtiene es en las secciones 7-14, partida de Algorós, con un 70% de los votos emitidos, la 7-21, partida de La Hoya, y 2-2, alrededores de la Glorieta, con un 66% y la 1-4, colegio Ferrández Cruz con un 65%. 
 
@@ -85,14 +69,7 @@ En la cola el barrio de San Antón, 2-8, con apenas el 8% de los votos y  los Pa
 
 En la comparación entre las elecciones de 2011 y 2007, los populares subieron su porcentaje de votos prácticamente en toda la ciudad, aunque la que mayor aumento experimentó, curiosamente fue la 2-6 en el barrio de San Antón que tradicionalmente había sido votante socialista.
 
-<iframe src="/assets/images/VariacionesPPMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPPMpales.html %}
 
 2015 fue muy diferente por la irrupción de Ciudadanos y por el mal momento que atravesaba el PP a nivel nacional y sus votantes descendieron en toda la ciudad, siendo la 7-15, Matola, donde los populares sufrieron su mayor caída. Nada menos que un 32%. El distrito 1, en el centro se mantuvo fiel y los descensos fueron mucho más suaves
 
@@ -101,14 +78,7 @@ El próximo domingo 26 de mayo, con un panorama electoral incierto y la irrupci�
 
 ### Ciudadanos de nueva construcción
 
-<iframe src="/assets/images/elxHCiudadanos.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHCiudadanos.html %}
 
 Pocos mapas son tan claros como el del voto de Ciudadanos. El partido de Rivera, que en 2015 todavía era una novedad fuera de Cataluña, se hizo un hueco más que importante en las zonas más jóvenes de la ciudad. En las manzanas que rodean la Ciudad Deportiva del Kelme (1-18 y 1-19) y en las urbanizaciones más recientes de las Puertas Coloradas (2-25), Ciudadanos superó el 15% de los apoyos. Lo mismo sucedió en la sección situada junto al CEIP Mediterrani. 
 

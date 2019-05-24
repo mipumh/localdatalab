@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "El PSOE se queda en la periferia"
 subtitle: "Pese a gobernar en el Ayuntamiento durante 36 años, el Partido Socialista sólo conserva parte de su fuerza en Carrús y Los Palmerales"
 author: enrique 
@@ -8,14 +8,7 @@ image: assets/images/psoe.jpg
 ---
 Existen dos grandes bastiones para el PSOE en Elche que, según los datos analizados a partir de las elecciones generales de 2008, poco se han modificado: el barrio de los Palmerales y una gran área del barrio de Carrús y más concretamente en la zona de Casablanca. Aunque es cierto que en 2008 una amplia mayoría de la población ilicitana eligió al Partido Popular como su opción de gobierno con 67.584 votos y el 51.71 %. 
 
-<iframe src="/assets/images/elxPSOE.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxPSOE.html %}
 
 En 2011, el PP vuelve a imponerse con el apoyo de 67.268 personas y el 54,58% del voto casi doblando al PSOE que acaba con 35.676 y un 28,95%. Como es habitual, en las secciones centrales de la ciudad, los socialistas obtienen sus peores resultados, desplomándose hasta un 9,42% en la sección 2 del distrito 1 alrededor de la Plaza de la Merced. 
 

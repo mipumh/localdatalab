@@ -8,14 +8,7 @@ image: assets/images/PSOE.png
 ---
 El Partido Socialista consiguió el 28 de abril recuperar terreno perdido en casi todas las secciones ilicitanas, aunque el caso más significativo lo podemos encontrar en una de las dos secciones del barrio de los Palmerales, la más cercana al Hospital General de Elche (distrito 2 sección 11), donde los socialistas vuelven a ser partido hegemónico y no solo revalidan victoria con el 62,50% de los votos sino que además mejoran sus datos respecto a 2016, año en el que obtuvieron el 55,68% de los votos.
 
-<iframe src="/assets/images/elxHPSOE.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHPSOE.html %}
 
 <div class="flourish-embed" data-src="visualisation/337314"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -47,14 +40,7 @@ El mayor grupo de población africana se encuentra en el Distrito 3 sección 1, 
 
 A modo de curiosidad el lugar donde el PSOE obtiene un buen resultado con el 43,98% de los votos, pero más votos nulos son contabilizados es en el Distrito 4 sección 17 adyacente a la Avenida de Novelda con Obispo Barrachina donde el 2,21% de los votos fueron anulados. Por otro lado el Partido Socialista consigue su peor resultado en la sección donde más participación hubo, hablamos del distrito 1 sección 2, zona que se encuentra alrededor de la Basílica de Santa María, donde votaron el 82,63% del censo y los socialistas sólo alcanzaron el 10,04% de los votos. En cambio en una de las secciones del barrio de los Palmerales la participación no alcanzó siquiera el 50% (47,69%), pero el PSOE se alzó con la mayoría de las papeletas obteniendo el 62,5%.
 
-<iframe src="/assets/images/VariacionesPSOE.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPSOE.html %}
 
 El pasado 28 de abril se convirtió en una fecha histórica para el Partido Socialista ilicitano ya que desde 1993 no conseguía superar en votos y posicionarse como primera fuerza política en  unas elecciones generales. Desde 2008 había ido perdiendo votantes en una caída constante que le llevó de los  54.319 en ese año a los 27.384 en 2016. Pero en estas últimas elecciones, el PSOE recuperó parte del terreno perdido y consiguió volver a cifras de 2011 (35.706) e incluso mejorarlas con 36.914 electores y el 29,01% del total de electores. Pero aun así queda muy lejos de los 54.319 votos del año 2008. El partido socialista logra convencer en Elche y la fragmentación del voto en la derecha le otorga una victoria que se le resistía en unas elecciones generales desde hace 26 años.
 

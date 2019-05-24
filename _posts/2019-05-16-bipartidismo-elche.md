@@ -12,7 +12,7 @@ Hasta que esa (larga) noche no responda a estas preguntas, qué plan mejor que e
 
 ### Adiós al monocolor
 
-{% include elxBipartidismo.html %}
+{% include /maps/elxBipartidismo.html %}
 
 Las Elecciones Municipales de 2015 marcaron un antes y un después en el mapa del voto ilicitano. Hasta 2011, el voto a PP y PSOE superaba el 80% en la inmensa mayoría de las manzanas de la ciudad y sus pedanías. La irrupción de Compromís y Ciudadanos inauguró en Elche una nueva era, la de los bloques. Desde ese momento, los resultados se interpretan en clave ideológica, agrupando a partidos de la misma corriente, y sobre todo de pactos postelectorales. PP y Ciudadanos se instalan en zonas tradicionalmente “populares”, mientras que PSOE y Compromis se afianzan en los barrios obreros, socialistas hasta entonces.
 
@@ -22,9 +22,7 @@ Durante los años noventa y la primera década del nuevo siglo, el bipartidismo 
 
 ### La derecha conserva el centro, las pedanías, los mayores y las mujeres
 
-{% include bloquesMpales.html %}
-
-<div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
+{% include /maps/bloquesMpales.html %}
 
 La Avenida de la Libertad y el río Vinalopó dibujan las dos líneas que, salvo por excepciones, dibujan el sentido del voto de los ilicitanos en las Elecciones Municipales. Al sur de la principal arteria de la ciudad y en las zonas más céntrica de la ladera, la derecha es casi intocable. Pero el dominio de este bloque es aún más claro en el Camp d’Elx. Sólo la partida de Carrús, al sur del Pantano, y una parte de El Altet se escapan del dominio conservador. La coincidencia del crecimiento de Ciudadanos en las zonas donde más cayó el PP en 2015 explican el escaso movimiento del bloque de derechas.
 
@@ -44,15 +42,7 @@ El cruce de datos de los resultados electorales con el padrón trasluce el apoyo
 
 ### La tercera vía pasa por lo local 
 
-
-<iframe src="/assets/images/VariacionesBloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesBloquesMpales.html %}
 
 La irrupción de los partidos locales se convirtió en una de las claves de la pasada legislatura en Elche. No extraña ver cómo estas agrupaciones fueron las que más crecieron en casi todas las secciones censales de la ciudad. Sólo las zonas de Correos, Santa María y el colegio Ferrández Cruz viraron más a la derecha, mientras que la parte más céntrica de El Raval se inclinó hacia la izquierda.
 

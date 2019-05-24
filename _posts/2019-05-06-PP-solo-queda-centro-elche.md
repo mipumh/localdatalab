@@ -8,14 +8,7 @@ image: assets/images/pp.png
 ---
 Las elecciones generales del 28 de abril dibujaron un mapa en el que el dominio del PP quedó reducido a sus bastiones tradicionales del centro del casco urbano ilicitano. Los populares perdieron votos por el centro en las zonas más nuevas de la ciudad y en el extrarradio sur, y por la derecha en algunas de las pedanías.
 
-<iframe src="/assets/images/elxHPP.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHPP.html %}
 
 <div class="flourish-embed" data-src="visualisation/336895"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -37,14 +30,7 @@ La influencia que la existencia de inmigrantes tiene en el porcentaje de voto ob
 
 Una vez más, Elche rompe la tendencia nacional de que a mayor participación, mayor voto progresista. La zona centro, feudo conservador, registra las mayores cotas de participación de toda la ciudad, muy por encima de la media.  La sección 2-23, Portalada y zona nueva del Filet de Fora, registra la mayor participación de la ciudad, con un 86% y el PP gana aunque no de manera tan contundente como en elecciones anteriores. En el lado opuesto, la sección 2-11, en el barrio de Los Palmerales y con sólo un 47,69% de votantes, los populares  consiguen un 9.18%, uno de los resultados más bajos de la ciudad
 
-<iframe src="/assets/images/VariacionesPP.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPP.html %}
 
 El 28 de abril de 2019 quedará en la memoria del Partido Popular ilicitano como el día en que el PSOE consiguió ganarles tras más de 25 años de hegemonía en elecciones generales. Tomando como referencia la última década, desde 2008, los populares han tenido su resultado más exiguo. La irrupción de dos partidos más en la derecha, Ciudadanos y VOX, ha hecho mella en sus números finales aunque es cierto que la suma de los tres, apenas ha provocado un desequilibrio entre conservadores y progresistas.
 

@@ -8,14 +8,7 @@ image: assets/images/vox.png
 ---
 Vox no consiguió el 28A alzarse con la victoria en ninguna de las secciones del casco urbano de Elche. Ni siquiera en la zona centro, con un voto más girado a la derecha, obtuvo mejores resultados. 
 
-<iframe src="/assets/images/elxHVox.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHVox.html %}
 
 En todas las secciones censales del centro de Elche el Partido Popular sigue siendo la fuerza más votada seguida de Ciudadanos. Por otra parte, en los barrios que desde siempre se han considerado obreros Vox no consigue germinar del todo y aunque en muchas de sus secciones censales consigue superar al PP, queda lejos de otras formaciones como PSOE, Ciudadanos o Unidas Podemos.
 

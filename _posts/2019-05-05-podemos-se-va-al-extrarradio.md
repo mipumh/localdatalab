@@ -8,14 +8,7 @@ image: assets/images/podemos.png
 ---
 El apoyo de Unidas Podemos en el centro nunca ha sido importante, pero el 28 de abril los resultados de la formación morada empeoraron incluso en sus zonas fuertes. El partido no ha tenido en ninguna de las anteriores elecciones la confianza mayoritaria de los ilicitanos. En 2016 solo ganó en 4 de las 171 secciones de las que se compone la ciudad. Este 2019 los resultados no han mejorado.
 
-<iframe src="/assets/images/elxHPODEMOS.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/elxHPODEMOS.html %}
 
 <div class="flourish-embed" data-src="visualisation/337325"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -23,14 +16,7 @@ En el distrito 8 sección 6 su caída ha sido en picado, concretamente de un 14�
  
 Si extrapolamos los porcentajes a cifras, Unidas Podemos ha pasado de tener 24.661 votos en la ciudad a 16.775 en este 28A. La pérdida ha sido de 7.886 votos. La explicación de esto puede tener dos motivos: por un lado, la desilusión de los ciudadanos con el partido morado por las diferencias internas que ha sufrido y que han generado incertidumbre en sus votantes o, por el otro, en que los ilicitanos hayan optado por el voto útil.
 
-<iframe src="/assets/images/VariacionesPodemos.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include /maps/VariacionesPodemos.html %}
  
 Dentro del declive, hay zonas en las que el voto no ha variado de manera significativa. Este es el caso de las manzanas más cercanas a La Glorieta, en la que en 2016 el porcentaje de votos fue el 9’20% y en estas elecciones ha bajado a un 4’98%, esta zona podría considerarse como la más fiel al partido en estas elecciones.
 

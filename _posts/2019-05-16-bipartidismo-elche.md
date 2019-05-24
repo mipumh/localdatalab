@@ -12,37 +12,25 @@ Hasta que esa (larga) noche no responda a estas preguntas, qué plan mejor que e
 
 ### Adiós al monocolor
 
-<iframe src="/assets/images/elxBipartidismo.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="850"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include elxBipartidismo.html %}
 
 Las Elecciones Municipales de 2015 marcaron un antes y un después en el mapa del voto ilicitano. Hasta 2011, el voto a PP y PSOE superaba el 80% en la inmensa mayoría de las manzanas de la ciudad y sus pedanías. La irrupción de Compromís y Ciudadanos inauguró en Elche una nueva era, la de los bloques. Desde ese momento, los resultados se interpretan en clave ideológica, agrupando a partidos de la misma corriente, y sobre todo de pactos postelectorales. PP y Ciudadanos se instalan en zonas tradicionalmente “populares”, mientras que PSOE y Compromis se afianzan en los barrios obreros, socialistas hasta entonces.
 
 <div class="flourish-embed" data-src="visualisation/369466"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-Durante los años noventa y la primera década del nuevo siglo, el bipartidismo imperaba en las urnas ilicitanas. Por supuesto, había algo de margen, como el que consiguió EUPV en 2007 para lograr un concejal que le dio la Alcaldía al PSOE. Ese año marcó el inicio de una tendencia que se contuvo cuatro años, incluso con el surgimiento del Partido de Elche, pero que estalló en 2015 con el auge de Compromís, Ciudadanos e Ilicitanos por Elche. Entre las múltiples incertidumbres del 26M, si hay algo claro es que el resultado no será monocolor. Y como se analiza en este recorrido por todos los [resultados electorales de la actual democracia en Elche](https://localdatalab.umh.es/el-cambio-calle-a-calle/), una de las claves estaré en la participación. 
+Durante los años noventa y la primera década del nuevo siglo, el bipartidismo imperaba en las urnas ilicitanas. Por supuesto, había algo de margen, como el que consiguió EUPV en 2007 para lograr un concejal que le dio la Alcaldía al PSOE. Ese año marcó el inicio de una tendencia que se contuvo cuatro años, incluso con el surgimiento del Partido de Elche, pero que estalló en 2015 con el auge de Compromís, Ciudadanos e Ilicitanos por Elche. Entre las múltiples incertidumbres del 26M, si hay algo claro es que el resultado no será monocolor. Y como se analiza en este recorrido por todos los [resultados electorales de la actual democracia en Elche](https://localdatalab.umh.es/entre-fragmentacion-participacion/), una de las claves estaré en la participación. 
 
 ### La derecha conserva el centro, las pedanías, los mayores y las mujeres
 
-<iframe src="/assets/images/bloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1700"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include bloquesMpales.html %}
+
+<div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
 
 La Avenida de la Libertad y el río Vinalopó dibujan las dos líneas que, salvo por excepciones, dibujan el sentido del voto de los ilicitanos en las Elecciones Municipales. Al sur de la principal arteria de la ciudad y en las zonas más céntrica de la ladera, la derecha es casi intocable. Pero el dominio de este bloque es aún más claro en el Camp d’Elx. Sólo la partida de Carrús, al sur del Pantano, y una parte de El Altet se escapan del dominio conservador. La coincidencia del crecimiento de Ciudadanos en las zonas donde más cayó el PP en 2015 explican el escaso movimiento del bloque de derechas.
 
 <div class="flourish-embed" data-src="visualisation/360168"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-La relación entre las variables demográficas de las distintas zonas de Elche y el voto al bloque de derechas son evidentes. En las secciones con mayor porcentaje de mujeres y de mayores de 60 años. La tendencia, en el caso del sexo, incluso se acentúa en las Municipales de 2015. Todo esto se estudia con detalle en el análisis del voto al [bloque de la derecha](https://localdatalab.umh.es/la-derecha-define-territorio/).
+La relación entre las variables demográficas de las distintas zonas de Elche y el voto al bloque de derechas son evidentes. En las secciones con mayor porcentaje de mujeres y de mayores de 60 años, PP y Ciudadanos cosechan sus mejores resultados. La tendencia, en el caso del sexo, incluso se acentúa en las Municipales de 2015. Todo esto se estudia con detalle en el análisis del voto al [bloque de la derecha](https://localdatalab.umh.es/la-derecha-define-territorio/).
 
 ### La izquierda se renueva, pero no traspasa las afueras
 
@@ -52,7 +40,7 @@ En el mapa de la ciudad, el bloque de la izquierda domina claramente al norte de
 
 <div class="flourish-embed" data-src="visualisation/360201"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-El cruce de datos de los resultados electorales con el padrón trasluce el apoyo a la izquierda en las zonas con mayor inmigración. En los lugares donde existe mayor población extranjera, especialmente de África (aunque no puedan votar), la curva es ascendente. La tendencia se mantiene en todos los comicios locales, pero se suaviza en 2015, como estudiamos en análisis de [la izquierda ilicitana](https://localdatalab.umh.es/la-izquierda-extrarradio/).
+El cruce de datos de los resultados electorales con el padrón trasluce el apoyo a la izquierda en las zonas con mayor inmigración. En los lugares donde residen menos nacidos en España, la curva es ascendente. La tendencia se mantiene en todos los comicios locales, pero se suaviza en 2015, como estudiamos en el análisis de [la izquierda ilicitana](https://localdatalab.umh.es/la-izquierda-extrarradio/).
 
 ### La tercera vía pasa por lo local 
 
@@ -70,7 +58,7 @@ La irrupción de los partidos locales se convirtió en una de las claves de la p
 
 <div class="flourish-embed" data-src="visualisation/360066"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-El descalabro del bipartidismo fue significativo en zonas del casco urbano, como la Plaza de Castilla, y en partidas rurales como Peña de Las Águilas. El auge del Partido de Elche en manzanas de El Pla y de Ilicitanos por Elche en Carrús o Los Palmerales dibujó un nuevo panorama en la ciudad que [en el Local Data Lab estudiamos a fondo](https://localdatalab.umh.es/bipartidismo-en-el-extrarradio/).
+El descalabro del bipartidismo fue significativo en zonas del casco urbano, como la Plaza de Castilla, y en partidas rurales como Peña de Las Águilas. El auge del Partido de Elche en manzanas de El Pla y de Ilicitanos por Elche en Carrús o Los Palmerales dibujó un nuevo panorama en la ciudad que [en el Local Data Lab estudiamos a fondo](https://localdatalab.umh.es/los-nuevos-partidos-periferia/).
 
 ### Bonustrack: conoce los programas y pon a prueba tu voto
 

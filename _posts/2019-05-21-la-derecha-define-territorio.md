@@ -19,14 +19,9 @@ El voto a la derecha cambió de color en Elche en las Elecciones Municipales de 
 
 En 2011, aún sin Ciudadanos ni Podemos, los partidos de corte local frenaron el ascenso de los tradicionales PP y PSOE. A pesar de ello, los populares subieron en 48 de las 173 secciones en liza y  también se hicieron con seis de las siete de nueva creación: la 1-21, en los alrededores de la sede de la Policía Local, la 2-24 cerca del campo de fútbol, la 2-25 en La Torreta, y en las pedanías la 7-24, 7-25 y 7-26.
 
-<iframe src="/assets/images/bloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1700"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include bloquesMpales.html %}
+
+<div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
 
 En 2015, la derecha, ya con C´s, ganó en 84 de las 173 secciones y siguió dominando el centro de la ciudad y las pedanías. Ciudadanos contribuyó a que las secciones 1-9, 1-17 y 1-18, en la parte nueva del barrio de Altabix, la 2-6, junto al barrio de San Antón, la 5-18 en El Plá, la 6-1 al lado de la iglesia de San José y la 6-10 y la 6-17 cerca de El Corte Inglés, pasaran a manos del centro derecha. Las pedanías continuaron con mayoría conservadora a excepción de la sección 7-2, lindante con el barrio de Carrús, que cambió a mayoría de la izquierda.
 

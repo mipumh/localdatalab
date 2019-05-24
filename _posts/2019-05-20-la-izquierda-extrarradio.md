@@ -8,14 +8,9 @@ image: assets/images/izquierda.jpg
 ---
 El voto a la izquierda se fragmentó en las Elecciones Municipales de 2015 en Elche, pero apenas cambió de bando. Los apoyos conjuntos a PSOE, Compromís y el resto de formaciones de izquierdas volvieron a superar a los de la derecha en prácticamente todas las secciones censales de Carrús y en una parte importante de El Pla, Altabix y Los Palmerales. El voto a los socialistas en las manzanas tradicionalmente obreras y a la formación liderada por Mireia Mollà en algunas de las zonas nuevas equilibró la balanza.
 
-<iframe src="/assets/images/bloquesMpales.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="1600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include bloquesMpales.html %}
+
+<div class="bk-root" id="dfdb461f-3929-41fa-a7b3-54870f804c65"></div>
 
 Carrús sigue siendo, con diferencia, el feudo de la izquierda en las Elecciones Municipales. El barrio obrero por excelencia en Elche ha mantenido su apoyo a este bloque en la última década sin apenas variaciones y con la única excepción de la zona de las Chimeneas y el colegio Francesc Cantó. En 2015, a este dominio se sumó la partida rural de Carrús, situada entre el barrio con el que comparte nombre y el Pantano.
 

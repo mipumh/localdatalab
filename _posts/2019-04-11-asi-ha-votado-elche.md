@@ -13,7 +13,7 @@ El 28 de abril, los ilicitanos participarán, por quinta vez en poco más de una
 
 ### Los ganadores y el apoyo a los partidos, casi calle a calle 
 
-{% include /maps/elche2.html %}
+{% include /maps/Elche2.html %}
 
 En 2016, el mapa de Elche fue azul en casi todas las manzanas menos en Carrús, Los Palmerales y alguna calle suelta de El Pla, El Raval o Altabix. ¿Pero sabías que en 2015 Ciudadanos dominó en las zonas más cercanas a la Ciudad Deportiva y el Martínez Valero y que hubo sorpasso de Podemos en los aledaños de El Aljub y El Corte Inglés? Hay secciones censales, como las que limitan al norte y al sur con la Avenida de la Libertad junto al río Vinalopó, que apenas han cambiado en la última década. Pero otras, como la que conforman los bloques frente al Rectorado de la UMH, han cambiado de bando en cada comicio. Estas conclusiones, además de consultar el voto de tus vecinos, son las que puedes extraer tú mismo con el mapa del ganador en cada zona.
 

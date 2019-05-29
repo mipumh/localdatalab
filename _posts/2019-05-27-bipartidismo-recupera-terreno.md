@@ -2,8 +2,8 @@
 layout: widepost
 title: "El bipartidismo recupera terreno"
 subtitle: "El auge del PSOE en la periferia, especialmente en Carrús, y el aguante del PP en el centro y las pedanías vuelve a teñir Elche de rojo y azul tras el 26M"
-author: felix 
-categories: [ histórico ]
+author: red 
+categories: [ resultados ]
 image: assets/images/municipales.jpg
 ---
 Los resultados electorales de las Elecciones Municipales del 26 de mayo han puesto de manifiesto el poder que aún conservan los partidos tradicionales en Elche. EL PSOE ha recuperado gran parte de la fuerza perdida en los últimos años en barrios como Carrús. Pero además aumenta sus apoyos en zonas como El Pla, a costa del Partido de Elche, Altabix o las pedanías de Torrellano y El Altet, principalmente a expensas de Ciudadanos. El PP consolida su hegemonía en el casco histórico y en gran parte de las partidas rurales, donde recoge una parte importante de los apoyos que Vox cosechó en las recientes Generales del 28 de abril.

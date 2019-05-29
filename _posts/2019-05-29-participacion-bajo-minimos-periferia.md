@@ -10,15 +10,17 @@ Las Elecciones Municipales movilizaron menos que nunca a los ilicitanos. Si se d
 
 <div class="flourish-embed" data-src="visualisation/383741"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-Como casi siempre, la explicación estará en un cúmulo de factores: cansancio tras cuatro votaciones (cinco si se separa el Senado) en apenas un mes, separación por primera vez de las Autonómicas, coincidencia con las Europeas (las menos “estimulantes”), desencanto con los “nuevos” partidos, aumento del censo por inclusión de extranjeros y personas con enfermedades como Síndrome de Down… Pero lo cierto es que así sucedió y que la bajada de la participación fue uno de los factores clave en el resultado. 
+Como casi siempre, la explicación estará en un cúmulo de factores: cansancio tras cuatro votaciones (cinco si se cuenta el Senado) en apenas un mes, separación por primera vez de las Autonómicas, coincidencia con las Europeas (las menos “estimulantes”), desencanto con los “nuevos” partidos, aumento del censo por inclusión de extranjeros y personas con enfermedades como Síndrome de Down… Pero lo cierto es que así sucedió y que la bajada de la participación fue uno de los factores clave en el resultado. 
 
 ### La desmovilización va por barrios
 
-<div class="flourish-embed" data-src="story/45683"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+{% include /maps/Participacion.html %}
 
 La bajada de la participación el 26 de mayo fue unánime en comparación con las Generales del 28 de abril y, salvo por dos excepciones, con las Municipales de 2015. Sin embargo, la diferencia es considerable entre las distintas secciones censales de Elche.
 
 Las zonas con mayor participación volvieron a situarse casi siempre en el centro. Las manzanas que rodean el Parque Municipal (1_3) y el Centro de Congresos (2_23) registraron, en este orden, la mayor afluencia a las urnas. Todas ellas, zonas con un apoyo mayoritario al PP. Las peores cifras se obtuvieron en el barrio de Los Palmerales (2_11 y 2_10) y en la zona más cercana al río del barrio de Carrús (3_27, 3_25 y 3_23), dos de los grandes bastiones del PSOE.
+
+<div class="flourish-embed" data-src="story/45683"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 La variación entre la participación de las Municipales y las Generales de 2019 presenta tendencias similares. La movilización bajó poco en feudos populares, como las manzanas que hay entre los Pisos Azules y Reina Victoria (5_6) y, de nuevo, el centro. El descenso de la afluencia a las urnas, en cambio, fue muy acusado en pedanías como Torrellano (7_5), donde obtenían mejores resultados formaciones como Compromís.
 

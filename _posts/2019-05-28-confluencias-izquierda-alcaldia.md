@@ -4,11 +4,11 @@ title: "Confluencias para la izquierda, pero sin cambios en la Alcaldía"
 subtitle: "Así se aplica el Sistema d’Hondt al Pleno Municipal ilicitano tras el 26M. El juego con escenarios hipotéticos siempre otorga la mayoría al bloque de izquierdas. Vox es el partido más beneficiado por este sistema y Podemos, el perjudicado por el umbral electoral del 5%"
 author: felix 
 categories: [ resultados ]
-image: assets/images/parlamento28A.png
+image: assets/images/plenos.jpg
 ---
 Ya están claros los nombres de los 27 concejales que debatirán en los Plenos Municipales de Elche en los próximos 4 años. ¿Pero cómo afecta a esta composición la aplicación de la denominada Sistema d’Hondt? ¿Qué hubiese sucedido si no se hubiesen producido las últimas escisiones entre los partidos o si se hubiesen concentrado los bloques de izquierda y derecha? ¿Y qué partidos se han beneficiado más de este mecanismo electoral? La política ficción sólo es eso, pura ficción, y las sumas no siempre son tales en política. Pero no cuesta nada conjeturar un poco.
 
-El Sistema d’Hondt es un método sencillo: los votos de los partidos que sobrepasan el umbral (5% en las Municipales) se dividen tantas veces como sillas se reparten y se escogen los resultados más altos de estas divisiones. Hay decenas de vídeos iguales en la red que lo explican, pero algunos mejor que otros (https://www.youtube.com/watch?v=olG8PeVB2E8).
+El Sistema d’Hondt es un método sencillo: los votos de los partidos que sobrepasan el umbral (5% en las Municipales) se dividen tantas veces como sillas se reparten y se escogen los resultados más altos de estas divisiones. Hay decenas de vídeos iguales en la red que lo explican, pero [algunos mejor que otros](https://www.youtube.com/watch?v=olG8PeVB2E8).
 
 <div class="flourish-embed" data-src="story/45632"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
@@ -28,13 +28,13 @@ La única conjetura que abriría las puertas de la Alcaldía a Pablo Ruz sería 
 
 Quizás se entiendan mejor estas hipótesis con esta barra horizontal en la que sólo aparece el número de concejales:
 
-<div class="flourish-embed" data-src="visualisation/387738"></div><script src="https://public.flourish.studio/resources/embed.js"></script> 
+<div class="flourish-embed" data-src="visualisation/387738"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 ### Todos pierden menos Vox
 
-<div class="flourish-embed" data-src="visualisation/385205"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
-
 Este sistema electoral implica que no todos los concejales se consigan con el mismo número de votos y que algunas papeletas se queden sin representación. En las Elecciones Municipales del 26M en Elche, el partido más beneficiado fue Vox, aunque seguido de cerca por Compromís.
+
+<div class="flourish-embed" data-src="visualisation/385205"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 Ciudadanos fue quien más votos necesitó para materializar cada uno de sus dos concejales (4475). A Vox, en cambio, sus dos ediles le salieron bastante más baratos (3012). En el resto, las diferencias fueron menores. Casi 3300 en Compromís y poco más de 3100 en PP y PSOE.
 

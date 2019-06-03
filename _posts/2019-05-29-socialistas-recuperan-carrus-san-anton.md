@@ -20,7 +20,7 @@ En el caso de las pedanías y sus secciones solo en dos de ellas logra mayoría 
 
 En la evolución del voto por secciones el caso más curioso se da en el distrito 4 sección 5, junto al parque de la Aparadora, ya que del 2007 al 2015 sufrio una caida en barrena del 49,16% al 23,05%, pero en estas últimas elecciones vuelve a unos resultados parecidos en  2007 y se posiciona en el 45,88%.
 
-{% include /maps/variacionesPSOEMpales19.html %}
+{% include /maps/VariacionesPSOEMpales19.html %}
 
 En 2015 una gran mayoría de las secciones censales de Elche habían ido perdiendo el característico color rojo que es el distintivo del partido socialista. La irrupción de nuevos partidos con marcas nacionales y otros partidos localistas habían roto la rueda del bipartidismo y los socialistas se vieron afectados en su mapa de calor. Pero en estas elecciones y quizás arrastrados por el conocido como efecto Bandwagon, (que es una teoría que sugiere que existe gente que vota por el bando ganador), y dados los buenos resultados del PSOE a nivel nacional, se concretaría en todos aquellos que ven la causa ganadora y triunfalista como la suya propia. Por lo tanto en el mapa de calor de 2019 se aprecia un claro retorno al color rojo en muchas secciones censales perdidas en anteriores elecciones.
 

@@ -24,7 +24,7 @@ En la sección en la que más han aumentado es en la 7-23, Algoda, con casi un 2
 
 Son pocas las zonas en que no han recuperado respecto al mes pasado, pero destaca la 3-18 en el Toscar, donde pasan del 12,02% al 9,42%. Incluso en Los Palmerales, las secciones 2-11 y 2-10 pasan de 9% y 8% al 14% y el 9% respectivamente.
 
-{% include /maps/variacionesPPMpales19.html %}
+{% include /maps/VariacionesPPMpales19.html %}
 
 A pesar de haberse dejado 4.000 votos entre las Municipales de 2015 y 2019, pasando de 32.878 votos a poco más de 28.000, no hay que olvidar que el PP tocó suelo el pasado abril con 24.814 votos, viéndose superado por Ciudadanos y quedando relegado a tercera fuerza de la ciudad. Con una participación mucho menor, han logrado recuperar parte del terreno cedido en favor de VOX y C’s.
 

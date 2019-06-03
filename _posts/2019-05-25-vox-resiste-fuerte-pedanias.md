@@ -1,0 +1,28 @@
+---
+layout: widepost
+title: "Vox resiste ante la baja participación y se hace fuerte en las pedanías"
+subtitle: "La formación verde entra en el consistorio con dos concejales, gracias a los votos del Campo de Elche. Los más de diez mil votos que ha perdido de las elecciones generales a las municipales les impide ser clave en la formación del gobierno municipal"
+author: enrique 
+categories: [ resultados ]
+image: assets/images/voxmuni.jpg
+---
+Vox no consiguió el 26M ganar en ninguna de las 172 secciones censales ilicitanas, pero sus mejores resultados al igual que en las generales los obtiene en el Campo de Elche. Así se puede observar como en Algoros, Jubalcoi y Torrellano(7-14, 7-18 y 7-25), consigue el 11% de los votos en las tres, o el 10% obtenido en Los Arenales del Sol y Matola (7-20 y 7-15). En el resto de pedanías su resultados abarcan del 5 al )%. En cuanto al casco urbano no consigue superar la barrera de los dos dígitos en ninguna de sus secciones, aunque se pueden resaltar casos como el distrito 3 sección 28, en el Camino de los Magros, donde obtiene el 9% del total del voto, así como en la 3-13, en la Diagonal, con idéntico resultado, o en las secciones 5-25 y 6-12, la primera frente al colegio Ramon Llull y la segunda en el puente de Barrachina, donde esta formación también obtiene el 9% del total de las papeletas.
+
+{% include /maps/elcHVox.html %}
+
+Por otra parte, Vox obtiene sus peores resultados en una de las secciones censales del barrio de Porfirio Pascual (3-3) con solo el 1% del voto, o en la 4-11, alrededor del colegio de El Toscar, donde únicamente el 2% de sus votantes les dieron la confianza. En la zona centro de la ciudad, donde la mayoría de sus electores son votantes de derechas, la formación verde solo alcanza el 3% por lo que esta zona sigue siendo feudo del PP y Vox apenas consigue arrancarle un puñado de votos.
+
+El partido de Amparo Cerdá, candidata prácticamente desconocida, pero que arrastra votos gracias a la marca nacional, consigue entrar en el consistorio en sus primeras elecciones con dos concejales. Pero los resultados de las generales, 16.576 papeletas, les auguraban un voto más fiel en las municipales, pero de unas a otras se han dejado por el camino más de 10.000 papeletas. En concreto, 6.024 ilicitanos optaron por votar a este partido en las municipales,  lo que les supuso alcanzar el 5,93% del total de los votos.
+
+<div class="flourish-embed" data-src="visualisation/386249"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+Al comparar con los datos de las generales, se observa que el voto a esta formación cae en todas y cada una de las secciones censales de la ciudad. A destacar en estos hechos el distrito 5 sección 1, en la margen derecha del río entre el puente de la Virgen y el de Canalejas, ya que su variación de unas elecciones a otras es del 12,85%, cayendo del 14,94% en las generales al 2,09% en las municipales.
+<div class="alert alert-secondary" role="alert">
+  <h4 class="alert-heading">Nota metodológica</h4>
+  <p>Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de <a href="http://www.argos.gva.es/ahe/val/buscaEleccionesV.html">Argos</a>, el portal de información de la Direcció d'Anàlisi i Polítiques Públiques de la Presidència de la Generalitat, y del Ayuntamiento de Elche. Los datos sobre la composición demográfica, también separados por secciones censales, se encuentran disponibles en el <a href="http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990">Padrón Continuo</a> del Instituto Nacional de Estadística (INE).</p>
+  <p>En ambos casos, la información se descargó por separado, de manera automatizada, y se agrupó en un dataset conjunto en el que se cruzaron los datos a partir del año de referencia (proceso electoral y padrón). Se creó un modelo de regresión sencillo con controles por sección entre la edad, el sexo, el país de nacimiento y el voto para comprobar que la relación entre estas variables es estadísticamente significativa. Es importante mencionar que los datos del padrón de 2008 no hacen referencia al país de nacimiento, sino a la nacionalidad, porque los primeros no estaban disponibles en el INE. Se comprobó que los datos variaban ligeramente, pero que la diferencia no era relevante para las comparaciones establecidas aquí.
+</p>
+  <p>El análisis de los datos se realizó con Excel, Google Spreadsheet, SPSS y Tableau. Para simplificar el tratamiento de los datos de la edad, se agruparon en horquillas de 20 años en lugar de los 5 que proporcionaba el INE. Además, se seleccionaron aquellas variables, tanto de población (nacionalidad…) y resultados electorales (partidos más votados…) en los que había más datos disponibles y se podían obtener conclusiones más consistentes.</p>
+  <p>Las visualizaciones de gráficos interactivos se materializaron con <a href="https://flourish.studio/">Flourish</a>, mientras que las de mapas se desarrollaron a partir de la librería de Python <a href="https://bokeh.pydata.org/en/latest/">Bokeh</a>. Conviene señalar aquí que el eje X no siempre comienza en el 0, sino que se adapta a los datos sobre población, para que la visualización se entienda mejor.</p> 
+  <p>Un posible error detectado en los resultados electorales de las elecciones municipales de 2015 en la sección 14 del distrito 7 supuso que no se tuvieran en cuenta estos datos en los análisis. Todos los datos empleados se pueden descargar en <a href="https://docs.google.com/spreadsheets/d/1KQXKOpb7Vh9nDM5oFVVR9pdp17jLWdkJoz7ND52hhcU/edit?usp=sharing">esta hoja de cálculo</a>.</p>
+</div>

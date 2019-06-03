@@ -46,5 +46,5 @@ Compromís apenas “desperdició” 500. Vox, de nuevo, aprovechó cada papelet
   <p>Los datos sobre resultados electorales distribuidos por secciones censales, empleados en este análisis, proceden del archivo histórico electoral de <a href="http://www.argos.gva.es/ahe/val/buscaEleccionesV.html">Argos</a>.</p>
   <p>El análisis de los datos se realizó con Google Spreadsheet. Las visualizaciones de gráficos se materializaron con <a href="https://flourish.studio/">Flourish</a>.</p>
   <p>Los datos generales con todo el histórico de elecciones en Elche están en <a href="https://docs.google.com/spreadsheets/d/1AyRBdCBjdV_C54y3GooL_nlmASRciUALSRh3qUo-KTg/edit?usp=sharing">esta hoja de cálculo</a>.</p>
-  <p>Para más información sobre el Sistema d’Hondt, se puede consultar <a href="https://www.recercat.cat/bitstream/handle/2072/1419/ICPS63.pdf?sequence=1">este paper ya clásico</a>. Para analizarlo con un formato más audiovisual, se puede ver <a href="https://www.youtube.com/watch?v=6vjFfFskVaM&t">este completo vídeo</a>.
+  <p>Para más información sobre el Sistema d’Hondt, se puede consultar <a href="https://www.recercat.cat/bitstream/handle/2072/1419/ICPS63.pdf?sequence=1">este paper ya clásico</a>. Para analizarlo con un formato más audiovisual, se puede ver <a href="https://www.youtube.com/watch?v=6vjFfFskVaM&t">este completo vídeo</a></p>.
 </div>

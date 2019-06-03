@@ -4,7 +4,7 @@ title: "Entre la fragmentación y la participación"
 subtitle: "32 años después de las primeras votaciones en Elche, la tendencia alcista de la movilización electoral es casi tan clara como la caída del bipartidismo"
 author: felix 
 categories: [ histórico ]
-image: assets/images/municipales.jpg
+image: assets/images/sumariomuni.jpg
 ---
 Los resultados de las diez Elecciones Municipales celebradas en Elche reflejan la caída de los partidos con mayor tradición democrática (PP y PSOE) y el auge de diversas opciones hasta hace poco inexistentes o muy minoritarias. Los datos de las últimas Generales y Autonómicas acentúan aún más esta tendencia. El 26 de mayo se sabrá si esta curva se mantiene o si los ilicitanos dan otra oportunidad al bipartidismo. Una de las claves estará en la participación, que ha crecido en los últimos años, pero que presenta unos resultados muy desiguales en función de la sección censal de la ciudad. La otra, en el comportamiento de los bloques de izquierda y derecha.
 

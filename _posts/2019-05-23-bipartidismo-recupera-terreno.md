@@ -16,6 +16,12 @@ El voto al bloque de derechas, especialmente al Partido Popular, cada vez se agr
 
 El PSOE, por su parte, consolidó sus caladeros lejos del Vinalopó. Además de consolidar su apoyo en Carrús y Los Palmerales, el partido de Carlos González se acercó a los resultados de 2007 en zonas como El Pla o las manzanas tradicionales de Altabix.
 
+{% include /maps/bloquesMpales19.html %}
+
+Esta tendencia se traslada al tener en cuenta los votos conjuntos de los bloques. La derecha (PP, Vox y Ciudadanos) se impone en las secciones censales más próximas al centro y en todas las pedanías y partidas rurales salvo la de Carrús y El Altet. En este último punto, es necesario resaltar los resultados obtenidos por Decide-T Elige-T, la formación de corte segregacionista, que se convirtió en la fuerza más votada en la pedanía, especialmente en la zona más pegada a la costa (7-17). El bloque de izquierdas (PSOE, Compromís y Podemos) se hace fuerte en todo el extrarradio: Carrús, El Pla, El Raval, Altabix, San Antón y Los Palmerales.
+
+Analizamos aquí los votos obtenidos, casi calle, por todos los partidos que tenían representación en el Ayuntamiento ilicitano y los que la han conseguido. [El PP se parapeta en el centro](https://localdatalab.umh.es/pp-afianza-vinalopo/), [el PSOE recupera su fuerza en las zonas obreras](https://localdatalab.umh.es/socialistas-recuperan-carrus-san-anton/), [Ciudadanos sólo conserva algunas de las zonas más nuevas de la ciudad](https://localdatalab.umh.es/ciudadanos-cede-terreno/), [Compromís se refugia en Torrellano](https://localdatalab.umh.es/compromis-refugia-oeste/), [Vox resiste en el campo](https://localdatalab.umh.es/vox-resiste-fuerte-pedanias/), a [Ilicitanos por Elche solo le quedan Los Palmerales](https://localdatalab.umh.es/ilicitanos-palmerales-marina/) y [el Partido de Elche](https://localdatalab.umh.es/partido-elche-se-diluye/) se diluye en toda la ciudad.
+
 ### Los años del bicolor todavía quedan lejos
 
 <div class="flourish-embed" data-src="visualisation/385184"></div><script src="https://public.flourish.studio/resources/embed.js"></script>

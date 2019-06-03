@@ -8,7 +8,7 @@ image: assets/images/ilicimuni.jpg
 ---
 El descenso del partido de Cristina Martínez es generalizado en todas las secciones censales del casco urbano y el Campo de Elche. El partido, creado en 2015 como una “escisión” del Partido Popular, y que en aquella ocasión obtuvo magníficos resultados con 7.267 papeletas y el 6,55% del total de votos, lo que le condujo a entrar en el consistorio con dos concejales, en 2019 se hunde sin remedio, acompañando en su caída al Partido de Elche. Los resultados de esta formación en las últimas elecciones municipales suponen un descalabro para la formación que solo obtiene la confianza de 3.039 ilicitanos y el 2,99% del total de votos.
 
-{% include /maps/ElcHIlicitanos.html %}
+{% include /maps/elcHIlicitanos.html %}
 
 En el anecdotario de esta formación en 2019 cabe destacar el distrito 2 sección 10, en el barrio de los Palmerales junto al Palacio de Justicia, que es el único lugar donde consigue superar la barrera de los dos dígitos en cuanto a intención de voto y obtiene el 19,35% del mismo, perdiendo tres puntos respecto a 2015, un sector donde la participación fue extremadamente baja y solo votaron el 36% del censo electoral. En esta sección censal es el único lugar donde los dos partidos localistas (Partido de Elche e Ilicitanos por Elche) consiguen arrebatar la mayoría absoluta al PSOE en un feudo históricamente socialista.
 

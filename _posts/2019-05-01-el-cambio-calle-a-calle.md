@@ -10,6 +10,8 @@ El 28 de abril se produjo un vuelco en la tendencia del voto en gran parte de la
 
 {% include /maps/Ganador.html %}
 
+{% include /maps/Ganador_2.html %}
+
 El crecimiento de las formaciones de derecha (Ciudadanos, PP y Vox) en las últimas citas con las urnas, especialmente en el centro y los barrios del oeste, se transformó en un despegue generalizado del bloque de izquierdas (Unidas Podemos, Compromís y PSOE). Pero los datos que se desprenden de los resultados las distintas formaciones reflejan importantes matices. En esta nueva entrega del Local Data Lab, analizamos y visualizamos la evolución de los votos y el cruce con las variables demográficas.
 
 {% include /maps/VariacionesBqsComparada.html %}

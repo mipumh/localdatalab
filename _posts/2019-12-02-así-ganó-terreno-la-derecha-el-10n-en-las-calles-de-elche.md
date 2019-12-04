@@ -7,6 +7,7 @@ subtitle: >-
   centro de la ciudad en las últimas Elecciones Generales
 author: red 
 categories: [ resultados ]
+image: assets/images/municipales.jpg
 ---
 {% include /maps/Ganador_2.html %}
 

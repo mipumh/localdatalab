@@ -14,15 +14,15 @@ image: assets/images/municipales.jpg
 
 El análisis del comportamiento del voto de los ilicitanos en las Elecciones Generales del 10 de noviembre refleja el avance del bloque de centroderecha (Ciudadanos, PP y Vox). Además del aumento de la distancia con los partidos de centroizquierda (PSOE, Compromís y Podemos) en términos globales, los datos por sección censal muestran cómo Vox ha consolidado su voto rural y ha recogido gran parte del voto perdido por Ciudadanos en las zonas más jóvenes del municipio, y cómo el PP ha incrementado su dominio en el centro de la ciudad.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="561" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=215a5048-14e6-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="761" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=215a5048-14e6-11ea-b9b8-0edaf8f81e27"></iframe>
 
 El antes y después del mapa del voto en Elche el 28 de abril y el 10 de noviembre muestra claramente cómo el verde y el azul han ido ganando terreno al naranja y al rojo. Vox cede ante el PP en La Algoda, pero emerge en las partidas rurales del norte y tres de las principales pedanías ilicitanas (Arenales, las Bayas y Torrellano) y desembarca en el casco urbano, sobre todo en las zonas cercanas al estadio Martínez Valero, antes lideradas por Ciudadanos.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="472" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d3e29cd4-1491-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="672" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d3e29cd4-1491-11ea-b9b8-0edaf8f81e27"></iframe>
 
 Algunos de los principales cambios se registran en el este del término municipal de Elche. Tres de las secciones censales de Torrellano, uno de los tradicionales graneros de votos de Ciudadanos, pasaron a manos de Vox. La cuarta, donde el partido más votado el 28A fue el PSOE, registró el 10N un mayor número de votos del PP. El cambio todavía fue más radical en Arenales, donde el PSOE pasó de ser la fuerza más votada a quedar por detrás de PP y Vox.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=77024982-1492-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=77024982-1492-11ea-b9b8-0edaf8f81e27"></iframe>
 
 En el casco urbano ilicitano, el giro a la derecha del 10N también fue evidente. En el centro, el PP conservó sus principales bastiones en torno a la Basílica de Santa María y la ladera del río. Pero los populares además se expandieron por el oeste, en zonas como la que rodea la Plaza de España (Iglesia del Corazón de Jesús) o los pisos azules, donde el PSOE había obtenido mayores apoyos en abril. 
 

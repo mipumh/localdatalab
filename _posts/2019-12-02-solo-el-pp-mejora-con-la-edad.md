@@ -6,6 +6,7 @@ subtitle: >-
   partidos mayoritarios, aunque el PP consigue mejores resultados que el PSOE en
   las zonas censales con una población más envejecida
 author: enrique
+excerpt: "Si bien es cierto que la irrupción de nuevos partidos hizo saltar por los aires la concentración del voto en los dos partidos mayoritarios, también es verdad que esa explosión no afectó a un sector de la población que se encuentra en un rango de edad más avanzado y que sigue apostando por los partidos de “toda la vida."
 categories: [ resultados ]
 image: assets/images/l2.png
 ---

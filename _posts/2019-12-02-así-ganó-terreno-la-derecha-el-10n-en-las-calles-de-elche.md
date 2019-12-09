@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: Así ganó terreno la derecha el 10N en las calles de Elche
 subtitle: >-
   Vox se adueñó de la mayor parte de las secciones censales dominadas por
@@ -7,6 +7,7 @@ subtitle: >-
   centro de la ciudad en las últimas Elecciones Generales
 author: red 
 categories: [ resultados ]
+excerpt: "El análisis del comportamiento del voto de los ilicitanos en las Elecciones Generales del 10 de noviembre refleja el avance del bloque de centroderecha (Ciudadanos, PP y Vox)."
 image: assets/images/municipales.jpg
 ---
 {% include /maps/Ganador_2.html %}

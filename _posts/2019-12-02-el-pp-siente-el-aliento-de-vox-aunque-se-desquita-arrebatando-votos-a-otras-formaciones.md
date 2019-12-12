@@ -7,7 +7,7 @@ subtitle: >-
   La formación de Santiago Abascal mejora sus resultados en la gran mayoría de
   las secciones censales de Elche al subir de los 16.576 votos del 28 de abril a
   los 24.954 del 10 de noviembre
-author: enrique
+author: red
 categories: [ resultados ]
 image: assets/images/l3.png
 ---
@@ -38,6 +38,8 @@ Desde esa fecha se han realizado tres citas electorales más. El 26 de mayo los 
 El 10 de noviembre y tras la imposibilidad de Sánchez de formar gobierno, los comicios se repiten por segunda vez en los cuarenta años de elecciones democráticas tras la dictadura de Franco. PSOE y PP vuelven a caer hasta el 28,68% y el 24.43%. Ciudadanos confirma su declive con el 8,3% de los votos al igual que Compromís que apenas rebasa el 3%. Podemos recupera fuelle con un 11.8% de los sufragios y la sorpresa absoluta es el resultado de VOX que se convierte en la tercera fuerza con el 20.74%.
 
 Estas últimas elecciones plantean un escenario tan incierto como el de las del 28A pero la tendencia general es un cierto retorno al bipartidismo, si no con dos partidos sí con dos bloques ideológicos claramente diferenciados. El bloque de izquierdas con PSOE, Podemos y Compromís y el de derechas con PP, Ciudadanos y VOX. Entre las dos citas electorales el trasvase de votos ha sido principalmente entre los diferentes partidos de cada uno de los bloques. 
+
+Por **Enrique Fernández** y **Verónica Maciá**
 
 <div class="note"></div>
 ## Nota metodológica

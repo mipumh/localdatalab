@@ -729,7 +729,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .jumbotron { 
-         background-image: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,0.5) 47%, rgba(237,237,237,0.78) 100%),url(../images/sumario.png);
+         background-image: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,0.5) 47%, rgba(237,237,237,0.78) 100%),url(../images/apertura.png);
          background-size:cover;
          margin-bottom: 1rem;
 }

@@ -5,6 +5,7 @@ subtitle: >-
   El análisis, plato a plato, de los menús de los 38 colegios ilicitanos refleja
   excesos en el consumo de carne y carencias en frutas y legumbres 
 author: red
+image: assets/images/apertura.png
 ---
 Martín tiene cinco años y se levanta temprano cada mañana para ir al colegio. Allí se encuentra con sus amigos para entrar a clase. La mayoría, incluido él, se quedan al comedor. Hoy tendrán como plato principal macarrones con tomate. Sin embargo, él hubiese preferido cocido y su amiga Lucía, arroz a la cubana. Para disgusto de Martín, el consumo de legumbres ejerce un papel secundario en los menús escolares.
 

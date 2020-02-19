@@ -2,6 +2,7 @@
 layout: post
 title: La proteína de origen animal está más presente de lo que debería
 author: red
+image: assets/images/carne.png
 ---
 Las raciones de carne en el menú de octubre de todos los colegios públicos de Elche sobrepasan las recomendaciones de la [Guía para los Menús Escolares 2018 de la Generalitat Valenciana](http://www.san.gva.es/documents/151311/7497836/Guia+Menu+Comedores+Escolares+GVA+2018.pdf). Esta aconseja limitar los derivados cárnicos a una vez a la semana. Sin embargo, incluso el que menos consume se excede. Los colegios con mayor número de carne consumida durante el mes de octubre son Clara Campoamor (empresa Scolarest) y La Alcudia (empresa Serunion) con 19 raciones al mes, duplicando la recomendación oficial de 8. Estas cantidades incluyen la carne procesada, siendo 11 las que se consumen en Alcudia y 9 en Clara Campoamor. Lucía Martínez, nutricionista y coautora del libro [¿Qué le doy de comer?](https://www.casadellibro.com/libro-que-le-doy-de-comer/9788449336157/9660622), comenta que “mucha gente cree que solo hay proteína de calidad en los alimentos de origen animal, piensan que una comida sin carne o pescado no es una comida”. Además, aclara que “los garbanzos son una proteína completa y las legumbres que no lo son se completan con otros alimentos”.
 

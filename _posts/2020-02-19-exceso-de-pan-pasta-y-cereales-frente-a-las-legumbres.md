@@ -2,6 +2,7 @@
 layout: post
 title: 'Exceso de pan, pasta y cereales frente a las legumbres'
 author: red
+image: assets/images/legumbres.png
 ---
 Las recomendaciones oficiales para las legumbres son de ocho o más raciones al mes. Alejandro Oncina, miembro investigador de la Unidad de Epidemiología de Nutrición de la Universidad Miguel Hernández, recomienda que como proteínas se prioricen las que están “mínimamente procesadas, como pueden ser las legumbres”. Además, añade que “si el papel protagonista lo tuviese la carne en un menú, habría que buscar que las legumbres tuvieran el mismo protagonismo”. En los comedores de Hispanidad, Jorge Guillén, Miguel de Cervantes, Miguel de Unamuno y Vicente Blasco Ibáñez (Colevisa) optan por darle más importancia a este alimento y lo incluyen en once ocasiones en octubre. En cambio, otros colegios se mantienen en el mínimo establecido.
 

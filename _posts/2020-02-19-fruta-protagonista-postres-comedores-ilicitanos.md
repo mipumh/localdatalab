@@ -2,6 +2,7 @@
 layout: post
 title: La fruta es la protagonista de los postres
 author: red
+image: assets/images/fruta.png
 ---
 La recomendación de Conselleria respecto a la verdura es que se consuman, al menos, 18 veces al mes. Todos los colegios llegan a estas cantidades, por lo que es un aspecto positivo. Los comedores que más verdura ofrecen son Francesc Cantó (Servalia) con 40 raciones, y León Felipe (COES) con 39. El nutricionista Alejandro Oncina dice que “los alimentos de origen vegetal cuantos más, mejor”. Sonia Martínez añade que en los colegios se podrían trabajar algunas técnicas de cocción o ciertos platos para que les sean más atractivos a los niños, “como las cremas o los salteados”.
 

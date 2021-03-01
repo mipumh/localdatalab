@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: La gastronomía de Elche, bajo lupa
 subtitle: El análisis de más de 17.500 platos de los menús y las cartas de 214
   restaurantes evidencian la mala calidad nutritiva de la oferta culinaria
@@ -99,9 +99,9 @@ Tanto Daniel Giménez como Sonia Martínez coinciden: ya no es cuestión de qué
 
 “Si la salida fuera de casa es un día en el que ha surgido la oportunidad, es algo distendido, no es un premio ni una rutina”, dice Daniel Gimenez, “no va a pasar nada si el resto de la semana se ha comido bien; son 14 comidas semanales contra 1 o 2 ”. Este especialista invita a los restaurantes a que busquen asesoramiento de “nutricionistas de calle”, aquellos que conocen de primera mano los hábitos de los consumidores, para elaborar menús y cartas algo más saludables e incluso más baratos. Pero insiste: el cambio debe venir de la demanda y pone el ejemplo del auge del vegetarianismo y el veganismo y cómo estas dietas están consiguiendo hacerse un hueco dentro de la oferta que no tenían hace años.
 
-###### Por Borja Quiles Morán y Agustí Castell Prades
+**Por Borja Quiles Morán y Agustí Castell Prades**
 
-## METODOLOGÍA
+**METODOLOGÍA**
 
 > ¿Quieres conocer cómo hemos elaborado estas bases de datos? Quién mejor que nosotros para explicártelo. En este breve [podcast](https://soundcloud.com/agusti-castell-prades-536502666/reportaje-podcast/s-HdsHBrc7buj) contamos cómo hemos conseguido y ordenado las cartas y menús de más de 200 restaurantes. Si quieres saber más, te invitamos a seguir leyendo la metodología.
 >

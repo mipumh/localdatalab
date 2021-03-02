@@ -1,6 +1,6 @@
 ---
 layout: widepost
-title: La gastronomía de Elche, bajo lupa
+title: ¿Qué comen los ilicitanos fuera de casa?
 subtitle: El análisis de más de 17.500 platos de los menús y las cartas de 214
   restaurantes evidencian la mala calidad nutritiva de la oferta culinaria
   ilicitana
@@ -10,6 +10,8 @@ image: assets/images/foto-1.jpg
 Marta es una estudiante de Psicología en la Universidad Miguel Hernández. Es deportista y lleva una dieta saludable. Hoy sale con cinco compañeros para celebrar que han terminado un trabajo. Deciden ir a un nuevo local de moda en el centro de Elche. Tras echarle un ojo a hamburguesas colosales, montaditos de embutido, fritos y otros platos de aspecto grasiento, pide una ensalada. No ha encontrado nada que sea más sano.
 
 ![ Salir a comer fuera de casa en Elche no es todo lo saludable que podría desearse (FOTO: Agustí Castell)]({{ site.baseurl }}/assets/images/foto-1.jpg " Salir a comer fuera de casa en Elche no es todo lo saludable que podría desearse (FOTO: Agustí Castell)")
+
+<sup>Salir a comer fuera de casa en Elche no es todo lo saludable que podría desearse. Foto: Agustí Castell
 
 El análisis de [17.500 platos extraídos de las cartas y los menús de 214 bares y restaurantes de Elche](https://docs.google.com/spreadsheets/d/11sdyimV7Ek1KRw6GiERb9y2MLBrW7A4h9-76Zj-AJjk/edit#gid=1536004844) muestra que salir a comer fuera de casa no es todo lo saludable que podría esperarse. Una oferta dominada por la carne y los cereales, presentes en el 40% y el 38% platos respectivamente, donde las legumbres son anecdóticas, y las alternativas a los refrescos azucarados y a las bebidas alcohólicas son mínimas. Unos datos que revelan mucho sobre la forma de alimentarse de los ilicitanos, y que podrían cambiar a mejor, según los nutricionistas, con restaurantes bien asesorados, divulgación científica y una clientela con voluntad de comer mejor.
 
@@ -38,6 +40,8 @@ La pizza, aunque suela concebirse como un plato poco sano, comenta Daniel Gimén
 Pese a la creencia común, los cereales no están tan recomendados en una dieta equilibrada. “En la pirámide alimenticia que todos conocemos ha habido un fallo: su base, cereales a punta pala”, sentencia Giménez, aunque admite que es un tema muy controvertido. Ante lo incorrecto del célebre gráfico piramidal, el nutricionista menciona el [plato de Harvard](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/translations/spanish/) como la mejor representación posible de lo que se tiene que comer. “Es uno de los grandes avances que tenemos en divulgación”, reconoce. “A muchos pacientes que, por motivos laborales, tienen que comer fuera de casa, siempre les recomiendo que sigan esta distribución”. En esta infografía, elaborada por expertos en Salud Pública de la prestigiosa universidad estadounidense de Harvard y traducida a varios idiomas, los cereales solo ocupan un 25% frente al 40% de la pirámide. La base de nuestra alimentación, según estos especialistas, son las frutas, las verduras y las hortalizas.
 
 ![El plato de Harvard, representación gráfica de lo que debe comerse para mantener una dieta saludable, se ha traducido en más de 20 idiomas. (Fuente de la infografía:<https://www.hsph.harvard.edu/>)]({{ site.baseurl }}/assets/images/foto-2.jpg "El plato de Harvard, representación gráfica de lo que debe comerse para mantener una dieta saludable, se ha traducido en más de 20 idiomas. (Fuente de la infografía:<https://www.hsph.harvard.edu/>)")
+
+<sup>El plato de Harvard, representación gráfica de lo que debe comerse para mantener una dieta saludable, se ha traducido en más de 20 idiomas. Fuente: https://www.hsph.harvard.edu/
 
 ### Un cuarto de los platos contiene verdura, pero muchos de ellos son fritos pocos recomendados
 
@@ -83,6 +87,8 @@ Marí, profesora de la Universidad de Alicante y docente en el grado de Gastrono
 
 ![Francisco Mora es vicepresidente de la nueva Plataforma Hostelería Ilicitana creada en noviembre de 2020 (FOTO: Agustí Castell)]({{ site.baseurl }}/assets/images/foto-3.jpg "Francisco Mora es vicepresidente de la nueva Plataforma Hostelería Ilicitana creada en noviembre de 2020 (FOTO: Agustí Castell)")
 
+<sup>Francisco Mora es vicepresidente de la nueva Plataforma Hostelería Ilicitana creada en noviembre de 2020. Foto: Agustí Castell
+
 “La carta es algo que depende del público al que va dirigida. Tú tienes que especializarte en una cosa, salirte un poco de lo común. Hay un público para todo”. Francisco Mora es el vicepresidente de la plataforma Hostelería Ilicitana, una asociación creada este mes de noviembre tras desvincularse del Colectivo Hostelería Elche, que Mora presidía desde mayo. Regenta el restaurante Matola, un negocio familiar con más de treinta años de historia ubicado en la pedanía del mismo nombre.
 
 > Francisco Mora, vicepresidente de la Plataforma Hostelería Ilicitana: “Existe una dinámica entre cliente y restaurante que marca el producto que se ofrece”
@@ -95,13 +101,15 @@ Tanto Daniel Giménez como Sonia Martínez coinciden: ya no es cuestión de qué
 
 ![La cocina del restaurante Matola con sus típicas paellas (FOTO: Agustí Castell)]({{ site.baseurl }}/assets/images/foto-4.jpg "La cocina del restaurante Matola con sus típicas paellas (FOTO: Agustí Castell)")
 
+<sup>La cocina del restaurante Matola con sus típicas paellas. Foto: Agustí Castell
+
 “Mucha gente que viene a la consulta dice saber la ‘teoría’ de lo que debe comer, pero en determinados ambientes, como comer fuera de casa o con amigos, cuesta ponerlo en práctica”, comenta Sonia Martinez. “La verdad es que tampoco se conoce esa ‘teoría’, pues hay muchos mitos y creencias entorno a la alimentación”, continúa la nutricionista de Alinua, “y en otras ocasiones, la divulgación que se hace hoy día en redes sociales no siempre resulta eficaz al no basarse en evidencia científica”. Martínez lamenta que no exista una asignatura de Educación Alimentaria en los colegios y que no se contemple al dietista-nutricionista en el Sistema Público Sanitario.
 
 “Si la salida fuera de casa es un día en el que ha surgido la oportunidad, es algo distendido, no es un premio ni una rutina”, dice Daniel Gimenez, “no va a pasar nada si el resto de la semana se ha comido bien; son 14 comidas semanales contra 1 o 2 ”. Este especialista invita a los restaurantes a que busquen asesoramiento de “nutricionistas de calle”, aquellos que conocen de primera mano los hábitos de los consumidores, para elaborar menús y cartas algo más saludables e incluso más baratos. Pero insiste: el cambio debe venir de la demanda y pone el ejemplo del auge del vegetarianismo y el veganismo y cómo estas dietas están consiguiendo hacerse un hueco dentro de la oferta que no tenían hace años.
 
 **Por Borja Quiles Morán y Agustí Castell Prades**
 
-**METODOLOGÍA**
+## METODOLOGÍA
 
 > ¿Quieres conocer cómo hemos elaborado estas bases de datos? Quién mejor que nosotros para explicártelo. En este breve [podcast](https://soundcloud.com/agusti-castell-prades-536502666/reportaje-podcast/s-HdsHBrc7buj) contamos cómo hemos conseguido y ordenado las cartas y menús de más de 200 restaurantes. Si quieres saber más, te invitamos a seguir leyendo la metodología.
 >

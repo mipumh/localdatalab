@@ -2,7 +2,7 @@
 layout: post
 title: La restauración en Elche, plato a plato
 new_author: Local Data Lab
-image: assets/images/optimized-dsc_0405-1-min.jpg
+image: assets/images/foto-4.jpg
 ---
 El análisis de 214 restaurantes y más de 17.500 platos revela cómo comen los ilicitanos fuera de casa, los precios de la oferta gastronómica, el crecimiento del servicio a domicilio y la expansión de las dietas vegetarianas. Cuatro reportajes para analizar a fondo la situación de uno de los sectores clave de la economía local y, sin duda, de los más afectados por la crisis sanitaria de la Covid 19.
 

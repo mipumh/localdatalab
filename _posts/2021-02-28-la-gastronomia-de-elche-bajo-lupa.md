@@ -49,7 +49,7 @@ El 25,62% de los ingredientes encontrados en los más de 17.500 platos del anál
 
 Una de las etiquetas del plato de Harvard dice: “Cuantos más vegetales y más variedad, mejor. Las patatas fritas no cuentan”. Este popular tubérculo supone un enorme tanto por ciento de los platos con verdura analizados. Y la forma de ofrecerlos es, por lo común, fritos. Ya sea como guarnición, acompañamiento o como tapa, las patatas fritas son un clásico poco recomendado dentro de nuestra alimentación. El 35% de patatas fritas que se consumen en España es en bares y restaurantes, como concluyó un estudio patrocinado por el [Ministerio de Agricultura, Pesca y Alimentación de 2018.](https://www.caea.es/wp-content/uploads/2018/07/Informeanualdeconsumoalimentario2017_tcm30-456186.pdf)
 
-<div class="flourish-embed" data-src="visualisation/4675614"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="story/781815"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Oferta variada de pescados y mariscos donde conviven platos locales con otros más exóticos
 
@@ -109,7 +109,7 @@ Tanto Daniel Giménez como Sonia Martínez coinciden: ya no es cuestión de qué
 
 **Por Borja Quiles Morán y Agustí Castell Prades**
 
-## METODOLOGÍA
+### METODOLOGÍA
 
 > ¿Quieres conocer cómo hemos elaborado estas bases de datos? Quién mejor que nosotros para explicártelo. En este breve [podcast](https://soundcloud.com/agusti-castell-prades-536502666/reportaje-podcast/s-HdsHBrc7buj) contamos cómo hemos conseguido y ordenado las cartas y menús de más de 200 restaurantes. Si quieres saber más, te invitamos a seguir leyendo la metodología.
 >

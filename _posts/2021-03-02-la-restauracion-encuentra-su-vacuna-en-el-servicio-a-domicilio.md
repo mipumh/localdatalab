@@ -4,7 +4,7 @@ title: La restauración encuentra su ‘vacuna’ en el servicio a domicilio
 subtitle: De los más de 200 restaurantes analizados plato por plato en la ciudad
   de Elche, casi un 30% cuentan con servicio de delivery
 new_author: Local Data Lab
-image: assets/images/infografia1.jpeg
+image: optimized-dsc_0405-1-min.jpg
 ---
 Son las nueve de la mañana. José está revisando el asesoramiento de un restaurante que recientemente ha contratado sus servicios para que gestione su servicio a domicilio. Hoy será un día duro, pues sabe que por la tarde tendrá que atender a los clientes de su restaurante y, por la noche, ponerse el casco para cumplir con los pedidos de su empresa de delivery.
 

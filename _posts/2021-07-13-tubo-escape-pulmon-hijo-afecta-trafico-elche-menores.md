@@ -10,7 +10,7 @@ image: assets/images/portada_mapa_humos.jpg
 ---
 Por Ana Cortijo Sempere y Begoña Amat Cervera
 
-[Ver mapa](https://sites.google.com/goumh.umh.es/asi-afecta-el-trafico/inicio)
+{% include /maps/mapacolegiostrafico.html %}
 
 <sup> Los niños que asisten al colegio en Elche están más expuestos a la contaminación que sus compañeros de las pedanías, lo que les confiere una cierta desventaja académica. </sup>
 
@@ -26,15 +26,13 @@ El monóxido de carbono (CO), el dióxido de nitrógeno (NO2), los compuestos or
 
 En lo relativo a los más pequeños, el [Grupo de Trabajo de Salud Medioambiental de la Sociedad Valenciana](http://pehsu.org/az/pdf/bus_diesel.pdf) advierte de que el gas más perjudicial para ellos es el dióxido de nitrógeno (NO2). También se apunta a que los niños que residen en zonas urbanas altamente contaminadas, por las emisiones del transporte privado, tienen más probabilidades de no alcanzar la capacidad pulmonar prevista, así como tener un envejecimiento pulmonar prematuro, bronquitis y asma, entre otras de las patologías.
 
-![]({{ site.baseurl }}/assets/images/imagen-2_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![]({{ site.baseurl }}/assets/images/2º-colegio-san-josé-calasanz-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> El colegio San José de Calasanz de Elche, que se sitúa en los alrededores del barrio del Corazón de Jesús, presenta una media de movilidad de 366 vehículos en las mañanas de febrero de 2021 | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijo/) </sup>
 
 El pediatra experto en salud medioambiental, Ferrán Campillo i López, argumenta que «hay un cuerpo creciente de evidencias de que una exposición continuada a gases como el dióxido de nitrógeno (NO2), produce un cierto tipo de cáncer infantil, además de un peor neurodesarrollo». En consecuencia, los niños expuestos a este gas tóxico tienen una desventaja frente a sus pares que no están en contacto con estos químicos. Además, esto también se ha relacionado con problemas reproductivos, como puede ser un aumento del riesgo de partos prematuros, abortos espontáneos o un bajo peso de los niños al nacer.
 
-Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante: «Las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria»
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044130930&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div>
+> Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante: «Las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria»
 
 ## Los niños de la ciudad: indefensos frente a las emisiones del tráfico rodado
 
@@ -56,7 +54,7 @@ La inocencia de los más pequeños y su curiosidad les hace más vulnerables al 
 
 Generalmente, al tener más años de vida por delante que los adultos, el riesgo a desarrollar enfermedades a medio y largo plazo por la exposición a contaminantes, en bajas dosis, es mayor.
 
-![]({{ site.baseurl }}/assets/images/imagen-3_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![]({{ site.baseurl }}/assets/images/3º-colegio-baix-vinalopó-río-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> Pese a que el C.E.I.P. Baix Vinalopó se encuentra en las inmediaciones del Río Vinalopó, es uno de los puntos escolares con más tráfico y más emisiones de la ciudad | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup> 
 
@@ -70,7 +68,7 @@ De cara a controlar la calidad del aire de Elche, la ciudad ilicitana cuenta con
 
 En Elche, y en el caso concreto del efecto del dióxido de nitrógeno (NO2) en los niños, la media que se obtiene de los datos de abril de 2021 es de 9'5 µg/m3, un valor que pese a ser positivo s[egún la normativa legal de 200 µg/m3 marcada por la Organización Mundial de la Salud (OMS),](https://apps.who.int/iris/bitstream/handle/10665/69478/WHO_SDE_PHE_OEH_06.02_spa.pdf;jsessionid=2D9935C7DF74B1763E0CF88653741286?sequence=1) se considera nocivo para la salud pública. [Estudios como el de la revista científica Environmental Pollution](https://www.sciencedirect.com/science/article/abs/pii/S0269749116325611?via%3Dihub) determinan que con tan solo 10 µg/m3 ya se incrementa el riesgo de padecer cáncer de pulmón en un 10,28%.
 
-![]({{ site.baseurl }}/assets/images/imagen-4_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![]({{ site.baseurl }}/assets/images/4º-colegio-hispanidad-del-tubo-de-escape-al-pulmón.jpg)
 
 <sup> El C.E.I.P. La Hispanidad tiene un total de 430 alumnos y una media de 538 vehículos motorizados a las 17:00 horas cerca del centro urbano | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
@@ -92,7 +90,7 @@ En contra, el pediatra medioambiental Ferrán Campillo i López, opina que es ne
 
 La brisa marina humedece la piel de Daniel y él, por primera vez en toda la semana, respira hondo. Dejar atrás el aire pesado de la ciudad surte un efecto balsámico e instantáneo sobre sus pulmones castigados. El pediatra le ha aconsejado a Virtudes que Dani pase más tiempo lejos de la ciudad, para que se revitalizase así su organismo. Aunque el asma probablemente se vaya en la edad adulta, Daniel tiene claro que cuando crezca, nunca más dejará que la contaminación vuelva a apoderarse de su cuerpo.
 
-![]({{ site.baseurl }}/assets/images/imagen-5_begoña-amat-cervera_ana-cortijo-sempere.jpg)
+![]({{ site.baseurl }}/assets/images/5º-¡¡infografía-del-tubo-de-escape-al-pulmón.jpg)
 
 > ## METODOLOGÍA
 >

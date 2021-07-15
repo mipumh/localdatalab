@@ -1,63 +1,45 @@
-<!DOCTYPE html>
 <head>    
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+
+
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
-    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
-    <style>body {
-        padding: 0;
-        margin: 0;
-    }
-    html, body, #map {
-        height: 100%;
-        width: 100vw;
-    }</style>
-    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
-    
-    
-    <meta name="viewport" content="width=device-width,
-        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_5358bdede2f74ed992dfb3e41be438b5 {
-        position: absolute;
-        width: 50.0%;
-        height: 100.0%;
-        left: 0.0%;
-        top: 0.0%;
-        }
-    </style>
-    
-    <meta name="viewport" content="width=device-width,
-        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_d832bb06789c49e99fc57581071b0554 {
-        position: absolute;
-        width: 50.0%;
-        height: 100.0%;
-        left: 50.0%;
-        top: 0.0%;
-        }
-    </style>
     <script src="https://rawcdn.githack.com/jieter/Leaflet.Sync/master/L.Map.Sync.js"></script>
     <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+
+   
 </head>
-<body>    
+<body> 
+
+    <style>#map_5358bdede2f74ed992dfb3e41be438b5 {
+        width: 45.0%;
+        height: 500px;
+        left: 5.0%;
+        top: 5px;
+        position: relative;
+        }
+    </style>
     
+
+    <style>#map_d832bb06789c49e99fc57581071b0554 {
+        width: 45.0%;
+        height: 500px;
+        left: 50.0%;
+        top: -495px;
+        position: relative;
+        }
+    </style>
+
+<div class="container" style="margin-bottom: -400px;">
     <div class="folium-map" id="map_5358bdede2f74ed992dfb3e41be438b5" ></div>
-    
     <div class="folium-map" id="map_d832bb06789c49e99fc57581071b0554" ></div>
-    <h1 class='text-ceter'>Tráfico a las 9:00</h1>
-</body>
-<script>    
+</div>
+
+<script>
+
+  
     
-    
-        var bounds = null;
+var bounds = null;
     
 
     var map_5358bdede2f74ed992dfb3e41be438b5 = L.map(
@@ -8429,6 +8411,8 @@
                  collapsed: false,
                  autoZIndex: true
                 }).addTo(map_d832bb06789c49e99fc57581071b0554);
-            
-        
+
 </script>
+
+
+</body>

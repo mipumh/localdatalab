@@ -10,7 +10,7 @@ image: assets/images/portada_huertos.jpg
 ---
 Por Begoña Amat Cervera y Ana Cortijo Sempere
 
-![]({{ site.baseurl }}/assets/images/319-kb-1º-imagen-1_begoña-amat-cervera_ana-cortijo-sempere-.jpg)
+![]({{ site.baseurl }}/assets/images/1º-desde-infantil-hasta-sexto-así-fomentan-el-cuidado.jpg)
 
 <sup>Desde infantil hasta sexto de primaria, los alumnos del C.E.I.P. Ramón Llull participan activamente en las tareas del huerto. Todo el proceso, desde que se planta hasta que se recolecta, lo llevan a cabo los niños | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
@@ -30,7 +30,7 @@ Cuando le preguntas a Fernando Sáez que cuándo se enamoró de la naturaleza, t
 
 Para ilustrar esta emergencia ambiental, el equipo directivo del [C.E.I.P. Hispanidad](https://portal.edu.gva.es/ceiphispanidadelx/es/portada/) junto con Fernando, que es coordinador del comedor del centro, impulsaron en febrero de 2020 el proyecto medioambiental [«En mi cole compostamos»](https://portal.edu.gva.es/ceiphispanidadelx/es/proyecto-de-compostaje-comunitario/). Las razones por las que se escogió un centro educativo como el C.E.I.P. Hispanidad como sede del compostaje son simples. La primera, porque los niños son el futuro y de su educación medioambiental dependerá el devenir del planeta. Y la segunda, «porque en los colegios se produce una cantidad ingente de residuos orgánicos derivados del comedor escolar», según comenta Fernando. El coordinador, que recoge datos en lo relativo al compostaje del centro, determina que «solo el 4% de la basura reciclable se puede aprovechar y que en cinco meses, los colegios ilicitanos generan 400 toneladas de restos de comida». Además, Fernando apunta que desgraciadamente, «estos restos van a parar al contenedor gris y posteriormente, al mismo espacio natural».
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/6248625"><script src="<https://public.flourish.studio/resources/embed.js>"></script></div> \\[EL GRÁFICO CON FLOURISH NO SE VISUALIZA]
+<div class="flourish-embed" data-src="visualisation/6248625"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <sup>La temperatura dentro de las composteras aumenta desde la segunda semana y hasta la cuarta, debido a la actividad descomponedora de los microorganismos que trabajan la materia orgánica | Fuente de los datos: [Fernando Sáez](https://drive.google.com/file/d/1C5uHdqYa7ulAzK4xE2-oTjbmfZlc5Fo_/view?usp=sharing)</sup>
 
@@ -46,11 +46,12 @@ José María Juan es jubilado y propietario de una de las parcelas de L’Hort d
 
 ![]({{ site.baseurl }}/assets/images/299-kb-4º-imagen-4_begoña-amat-cervera_ana-cortijo-sempere-copia.jpg)
 
-<sup>La Asociación Margalló estima que los colegios ilicitanos generan 400 toneladas de residuos orgánicos en los comedores en cinco meses. Por ello proponen al Ayuntamiento de Elche transformarlos en compost para abonar parques y huertos municipales | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
+<sup> La Asociación Margalló estima que los colegios ilicitanos generan 400 toneladas de residuos orgánicos en los comedores en cinco meses. Por ello proponen al Ayuntamiento de Elche transformarlos en compost para abonar parques y huertos municipales | [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 El ciclo del compostaje del C.E.I.P. Hispanidad se cierra aquí, en L’Hort del Felip. Pero no muere, sino que mezclado con agua, sol, semillas y el esfuerzo de los vecinos del Raval, vivirá a partir de ahora en forma de tomates rizados y berenjenas carnosas para el consumo propio. A la espera, eso sí, de que el Ayuntamiento de Elche tome, verdaderamente, cartas sobre el asunto.
 
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="6096aa15e950410d98f47b20" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")0; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="6096aa15e950410d98f47b20" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
 > Beatriz Vera, directora del C.E.I.P. Ramon Llull : «Los alumnos del Ramon Llull completan el proceso de reciclaje sacando la basura hasta los contenedores. Así conseguimos que repitan estas acciones en casa».
 

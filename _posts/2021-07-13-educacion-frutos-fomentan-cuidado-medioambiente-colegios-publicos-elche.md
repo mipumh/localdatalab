@@ -24,7 +24,7 @@ La implantación de huertos ecológicos en los patios, la retirada de componente
 
 <sup> El voluntario del Raval Jose María Juan y Fernando Sáez rectifican una compostera mal aireada con un fondo podrido que no ha llegado a completar el proceso de descomposición | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) </sup>
 
-## C.E.I.P Hispanidad: Lentejas, si quieres las tomas y si no… ¡A la compostera!
+### C.E.I.P Hispanidad: Lentejas, si quieres las tomas y si no… ¡A la compostera!
 
 Cuando le preguntas a Fernando Sáez que cuándo se enamoró de la naturaleza, te sonríe y te dice que “desde siempre”. Al recordar las acampadas que hacía con sus padres, no puede esconder el brillo de sus ojos; la preocupación por el medioambiente es exactamente proporcional al amor que tiene por el campo. Aunque solo lleva cuatro años como socio oficial de la [Asociación Margalló Ecologistes en Acció d’Elx](https://margallo.org/), ha pasado casi toda su vida apadrinando causas medioambientales. Desde este grupo ecologista, Fernando se dio cuenta de que los residuos orgánicos de Elche no solo se vierten en las montañas de alrededor, sino que también disminuyen la rentabilidad del reciclaje. Esto hace que los plásticos, cartones o vidrios manchados de restos orgánicos no sean reciclables.
 
@@ -53,9 +53,7 @@ El ciclo del compostaje del C.E.I.P. Hispanidad se cierra aquí, en L’Hort del
 
 <div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="6096aa15e950410d98f47b20" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
-> Beatriz Vera, directora del C.E.I.P. Ramon Llull : «Los alumnos del Ramon Llull completan el proceso de reciclaje sacando la basura hasta los contenedores. Así conseguimos que repitan estas acciones en casa».
-
-## C.E.I.P. Ramon Llull: Siembra educación y cosecha conciencia medioambiental
+### C.E.I.P. Ramon Llull: Siembra educación y cosecha conciencia medioambiental
 
 El despacho de Beatriz Vera está tan ordenado como el colegio que dirige. Exalumna del centro, Bea es ahora la directora del [C.E.I.P. Ramón Llull](https://mestreacasa.gva.es/web/ramonllull), colegio referente en educación medioambiental con uno de los programas más ambiciosos de todo Elche. De entre las iniciativas que existen para hacer de este un lugar sostenible destacan dos: el [huerto escolar](https://mestreacasa.gva.es/c/document_library/get_file?&folderId=500020860739&name=DLFE-2282515.pdf) y el [reciclaje en las aulas](https://mestreacasa.gva.es/c/document_library/get_file?&folderId=500020860739&name=DLFE-2282051.pdf), iniciativas que hacen partícipe al alumnado desde infantil hasta sexto de primaria.
 
@@ -64,6 +62,8 @@ El despacho de Beatriz Vera está tan ordenado como el colegio que dirige. Exalu
 <sup>El conocimiento del ciclo vital de la calabaza es la actividad preferida de los niños de infantil del Ramón Llull. Ver cómo una pequeña flor naranja se transforma en el «monstruo de Halloween» impresiona a los más pequeños | [Begoña Amat Cervera](https://www.instagram.com/begonia_____/) y [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) </sup>
 
 El huerto escolar del Ramón Llull fue montado en 2018 con la ayuda de la [Asociación Tamarit](https://asociaciontamarit.org/asociaciontamarit/Quienes_somos.html) y ahora está gestionado por todos los alumnos del centro escolar. Carmen Mira, profesora del colegio, es una de las principales coordinadoras que ayuda a gestionar cada uno de los proyectos, quien además tiene una fuerte tradición agrícola. Sobre los alumnos, Beatriz comenta que «adoran ir al huerto por la novedad de salir del aula, además de los descubrimientos que siempre hacen, como los bichos de colores o los gusanos en una fresa». La cosecha que obtienen del huerto se reparte entre los alumnos de manera que al menos, una vez al año, cada alumno se haya llevado mínimo una fruta o una verdura a casa.
+
+> Beatriz Vera, directora del C.E.I.P. Ramon Llull : «Los alumnos del Ramon Llull completan el proceso de reciclaje sacando la basura hasta los contenedores. Así conseguimos que repitan estas acciones en casa».
 
 Por desgracia, no siempre son buenas las cosas que se encuentran en el huerto. Beatriz denuncia que el huerto escolar ha sido [víctima del vandalismo nocturno](https://www.informacion.es/elche/2019/04/11/destroza-semana-huerto-colegio-ramon-5444473.html). No hace mucho, se han encontrado casetas destruidas, mesas de picnic rotas, plantas arrancadas y hasta botellas de cristal en el patio. Sus ojos se apagan un poco porque a Bea, lo que le duele, es la decepción de los niños al ver que las plantas que han cuidado con tanto tesón, acaban pisoteadas en el suelo. Para hacer frente a la problemática, la directora comenta que se ha denunciado este hecho ante la policía en numerosas ocasiones. No obstante, apunta a que «aunque por la noche se patrulla la zona, para los asaltantes resulta fácil colarse en el colegio y refugiarse en la nocturnidad y los recovecos del huerto, para después destrozarlo». Pese a todo, la directora recalca que el huerto no se puede detener por estos destrozos ya que para muchos de los alumnos es el único o casi el único contacto que tienen con la naturaleza.
 
@@ -81,7 +81,7 @@ En el despacho de Beatriz no hay silencio. Está pegado al patio y se escuchan g
 
 > José Ángel Rubio, director del C.E.I.P. Sanchis Guarner: «Hablar de que hay centros sin iniciativas medioambientales es imperfecto. No es porque no quieran sino porque a lo mejor no disponen de los recursos necesarios»
 
-## C.E.I.P. Sanchis Guarner: Bandera verde contra la contaminación
+### C.E.I.P. Sanchis Guarner: Bandera verde contra la contaminación
 
 A José Ángel Rubio, director del C.E.I.P. Sanchis Guarner, y a su hijo Jorge de 12 años, les une un viaje a Costa Rica. Hace 2 años José Ángel se hartó de la falta de aventuras que tenía su hijo. Pero sobre todo, le preocupaba la falta de ganas de este por experimentarla. En un coche azul muy viejo y demasiado pequeño para el calor del país, se adentraron en selvas tropicales y playas salvajes. Jorge, al principio escéptico, se enamoró de la naturaleza y los viajes. José Ángel, observando el entusiasmo que había surgido en su hijo unos días libre de paredes, regresó a España con la convicción de convertir al Sanchis Guarner en el colegio de referencia en medioambiente de Elche. Por su hijo y sus alumnos.
 

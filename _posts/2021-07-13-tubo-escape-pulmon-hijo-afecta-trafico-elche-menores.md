@@ -20,7 +20,7 @@ Los niños son más vulnerables que los adultos a los efectos de la contaminaci�
 
 >Ferrán Campillo i López, pediatra experto en salud medioambiental: «Hay un cuerpo creciente de evidencias de que una exposición continuada a gases como el dióxido de nitrógeno (NO2), produce un cierto tipo de cáncer infantil, además de un peor neurodesarrollo»
 
-## El dióxido de nitrógeno (NO2): el enemigo químico de niños y adolescentes
+### El dióxido de nitrógeno (NO2): el enemigo químico de niños y adolescentes
 
 El monóxido de carbono (CO), el dióxido de nitrógeno (NO2), los compuestos orgánicos volátiles (COV) y el material particulado (PM) son algunos de los gases contaminantes que, producidos en gran medida por los vehículos privados, son especialmente perjudiciales para la salud del ciudadano, según comenta Esther Pastor Esplá, neumóloga del Hospital Universitario de San Juan de Alicante. En relación a ello, la [Sociedad Española de Neumología y Cirugía Torácica (SEPAR) señala en un estudio](https://www.archbronconeumol.org/es-estadisticas-S030028961930568X) que la mortalidad atribuible a la contaminación atmosférica está en torno a 38.600 muertes al año, valor que se establece en un mismo grado de magnitud con respecto a las muertes provocadas por los efectos del tabaco.
 
@@ -34,23 +34,23 @@ El pediatra experto en salud medioambiental, Ferrán Campillo i López, argument
 
 > Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante: «Las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria»
 
-## Los niños de la ciudad: indefensos frente a las emisiones del tráfico rodado
+### Los niños de la ciudad: indefensos frente a las emisiones del tráfico rodado
 
 El número de personas expuestas, la duración del contacto y la concentración de la contaminación en el lugar donde ocurre una relación social, determinan la magnitud de la exposición y el alcance del efecto sobre la salud de la población. Luis Manuel Hernández Blasco, neumólogo del Hospital General Universitario de Alicante, detalla que «las enfermedades respiratorias son las terceras más prevalentes como causa de ingreso en hospitales, pero las primeras como causa de atención primaria». [El artículo médico Pediatría ambiental: la salud de los niños y el medio ambiente](https://www.pediatriaintegral.es/wp-content/uploads/2018/xxii03/05/n3-155e1-6_RB_F-Campillo.pdf) especifica qué factores físicos y sociales influyen en que los niños sean, a diferencia de los adultos, más propensos a sufrir una enfermedad derivada por la contaminación.
 
-#### El mayor consumo energético y metabólico
+### El mayor consumo energético y metabólico
 
 Debido a su desarrollo y su crecimiento y cada una de las necesidades fisiológicas que esto acarrea, los niños consumen más aire por kilogramo que los adultos, especialmente en los primeros 10 años de vida. Esto explica que inhalen más sustancias tóxicas que los mayores.
 
-#### La estatura
+### La estatura
 
 Durante los dos primeros años de vida, los niños respiran los compuestos orgánicos volátiles que son más densos y pesados que el aire. Sin embargo, los adultos no respiran estos componentes porque se encuentran a mayor altura y en efecto, en suma ventaja frente a los niños.
 
-#### El comportamiento social
+### El comportamiento social
 
 La inocencia de los más pequeños y su curiosidad les hace más vulnerables al medio que les rodea. En las primeras etapas del desarrollo cognitivo, su necesidad de arrastrarse, gatear y llevarse objetos a la boca hace que estén más expuestos a ingerir sustancias tóxicas.
 
-#### Una mayor expectativa de vida
+### Una mayor expectativa de vida
 
 Generalmente, al tener más años de vida por delante que los adultos, el riesgo a desarrollar enfermedades a medio y largo plazo por la exposición a contaminantes, en bajas dosis, es mayor.
 
@@ -62,7 +62,7 @@ Para abordar cada una de estas problemáticas relacionadas con la contaminación
 
 > Esther Díez Valero, Concejala de Medio Ambiente del Ayuntamiento de Elche: «Las emisiones contaminantes de Elche están vinculadas en más de un 80% a las emisiones que producen los vehículos particulares»
 
-## El tráfico como principal agente contaminante en Elche
+### El tráfico como principal agente contaminante en Elche
 
 De cara a controlar la calidad del aire de Elche, la ciudad ilicitana cuenta con medidores atmosféricos que permiten determinar el nivel de contaminación, además del contaminante al que se expone la ciudadanía. Los datos proporcionados por la [Xarxa Valenciana de Vigilància i Control de la Contaminació Atmosférica](http://agroambient.gva.es/va/web/calidad-ambiental/datos-historicos) apuntan a que la calidad del aire en Elche muestra, en un 98% de los casos, un valor positivo, [de acuerdo esto a los estándares legales que fija la Unión Europea](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:335:0086:0106:ES:PDF).
 
@@ -76,7 +76,7 @@ Como principal fuente contaminante, Esther Díez Valero, Concejala de Medio Ambi
 
 > \#RevueltaEscolar es una campaña social que pide a los Ayuntamientos de las ciudades de España que se tomen medidas para mejorar la calidad del aire en las calles que rodean a los centros educativos
 
-## La actuación de los centros educativos contra la contaminación
+### La actuación de los centros educativos contra la contaminación
 
 Los expertos lo tienen claro. Es urgente imponer medidas en la regulación del tráfico cerca de los centros escolares. Ferrán Campillo i López destaca que la reforma medioambiental del flujo del tráfico rodado es vital para la salud de los niños y pide que se ponga en primera línea de los planes electorales, en lugar de al final de las legislaturas.
 

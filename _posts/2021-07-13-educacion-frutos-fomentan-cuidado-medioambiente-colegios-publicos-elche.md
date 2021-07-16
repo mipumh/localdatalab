@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: widepost
 title: "La educación da sus frutos: así fomentan el cuidado del medioambiente
   tres colegios públicos de Elche"
 subtitle: Los centros educativos ilicitanos autogestionan sus fondos para crear

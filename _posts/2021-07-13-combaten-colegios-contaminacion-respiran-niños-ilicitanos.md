@@ -6,9 +6,10 @@ subtitle: Tres centros educativos desarrollan programas medioambientales
   climático y la contaminación que generan los vehículos que circulan en sus
   inmediaciones
 new_author: Local Data Lab
+categories: [ sumario ]
 image: assets/images/portada_espanta.jpg
 ---
-### [Del tubo de escape al pulmón de tu hijo: así afecta el tráfico de Elche a los menores](https://localdatalab.umh.es/2021-07-13-tubo-escape-pulmon-hijo-afecta-trafico-elche-menores)
+### [Del tubo de escape al pulmón de tu hijo: así afecta el tráfico de Elche a los menores](https://localdatalab.umh.es/tubo-escape-pulmon-hijo-afecta-trafico-elche-menores/)
 
 Por Ana Cortijo y Begoña Amat
 
@@ -20,7 +21,7 @@ La salud de los niños se ve comprometida por los gases tóxicos que expulsan lo
 
 {% include /maps/mapacolegiostrafico.html %}
 
-### [La educación da sus frutos: así fomentan el cuidado del medioambiente tres colegios públicos de Elche](https://localdatalab.umh.es/2021-07-13-educacion-frutos-fomentan-cuidado-medioambiente-colegios-publicos-elche)
+### [La educación da sus frutos: así fomentan el cuidado del medioambiente tres colegios públicos de Elche](https://localdatalab.umh.es/educacion-frutos-fomentan-cuidado-medioambiente-colegios-publicos-elche/)
 
 Por Begoña Amat y Ana Cortijo
 

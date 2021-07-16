@@ -19,8 +19,12 @@ title: Inicio
 
         {% for post in paginator.posts %}
 
+          {% unless post.categories and post.categories contains "sumario" %}
+
                {% include postbox.html %}          
 
+            {% endunless %}
+    
         {% endfor %}
         
     </div>

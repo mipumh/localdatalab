@@ -82,7 +82,7 @@ Los expertos lo tienen claro. Es urgente imponer medidas en la regulación del t
 
 Desde Elche, la concejala Esther Díez Valero detalla que el Ayuntamiento está a la espera de financiación para retomar el proyecto BiciBus que ya se inició en 2019 con el I.E.S. Cayetano Sempere. Esta iniciativa escolar se centra en la aplicación de unas rutas en bicicleta que, con paradas cercanas a las casas de los alumnos y dirigidos por monitores, se invita a que el estudiantado de los institutos vaya en bici hasta su centro educativo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0J0P9IfF1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="margin-left: 250px;" src="https://www.youtube.com/embed/C0J0P9IfF1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <sup>BICIBUS es un proyecto con el que padres y madres pueden sentirse más seguros a la hora de que sus hijos vayan al instituto sin su supervisión | Fuente: Policía Local de Elche</sup>
 

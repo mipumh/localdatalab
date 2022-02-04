@@ -74,8 +74,8 @@ Manuel Mestre declara que tiene la esperanza de que la vacuna pueda hacernos vol
 
 Las nuevas generaciones también consideran al sector como una buena salida profesional. Antonio Moreno expone: “Es un trabajo muy tranquilo y que cuando van las cosas bien, lo ves todo hecho porque es salir a la calle y empezar a trabajar”.
 
-> # METODOLOGÍA
+> ## METODOLOGÍA
 >
->  Para la confección de este reportaje recurrimos a Juan Antonio López, directivo de Radio Teletaxi, que nos proporcionó los datos correspondientes a los diferentes meses de los últimos cinco años. Aquí están [todos los datos empleados](https://drive.google.com/file/d/1edUsriIN6-SxnMtaXf3kSY646tu29Ztx/view?usp=sharing). 
+> Para la confección de este reportaje recurrimos a Juan Antonio López, directivo de Radio Teletaxi, que nos proporcionó los datos correspondientes a los diferentes meses de los últimos cinco años. Aquí están [todos los datos empleados](https://drive.google.com/file/d/1edUsriIN6-SxnMtaXf3kSY646tu29Ztx/view?usp=sharing). 
 >
 > Además, realizamos un total de cuatro entrevistas. Una al propio Juan Antonio López, que se realizó telefónicamente; las correspondientes a Manuel Mestre y a Francisco Ramón Giner, en las que acudimos a la parada de San Juan; y la última a Antonio Moreno, para la que nos desplazamos hasta su domicilio.

@@ -163,7 +163,7 @@ Las pedanías y partidas, que fueron el primer distrito en ser edificado, hoy so
 
 <div class="flourish-embed flourish-quiz" data-src="visualisation/5115454"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
-> # METODOLOGÍA
+> ## METODOLOGÍA
 >
 > Para realizar este reportaje hemos analizado los datos del Catastro de Elche organizados en una hoja de Excel. En esta hoja aparecían todas las viviendas del municipio ilicitano con su distrito, sector y calle correspondientes. También nos hemos ayudado del Instituto Nacional de Estadística (INE) y de la página oficial del Ayuntamiento de Elche. Para la elaboración de este mapa, se ha utilizado el ‘plugin’ de Qgis Spanish Inspire Catastral Downloader, que permite descargar en formato .gml los datos catastrales según Inspire de España directamente de la base de datos de la Dirección General de Catastro. Esta base cubre, a nivel municipal, la Península y las islas.
 >

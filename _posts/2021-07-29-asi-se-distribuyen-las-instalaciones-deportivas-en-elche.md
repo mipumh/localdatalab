@@ -62,7 +62,7 @@ En la piscina se encuentra Aitor Pomares, encargado de mantener el agua intacta 
 
 Elche es una ciudad que está preparada para fomentar la actividad deportiva y cuenta con las instalaciones para ello. Tanto que en las últimas fechas ha acogido eventos deportivos como finales de [waterpolo](https://teleelx.es/2021/07/20/elche-acoge-el-campeonato-cadete-masculino-de-espana-en-waterpolo/) o fútbol sala y autonómicos de natación. Ni siquiera la crisis de la Covid-19 puede con el ambiente deportivo de la ciudad. A pesar de las restricciones y el acceso a algunas de ellas, el abanico de instalaciones con el que cuenta la ciudad es muy amplio. Como dice José Francisco Aldeguer, “Elche es una ciudad deportiva y el deporte, aunque no sea más importante que la salud o el alimento, es lo que más une a la gente”.
 
-> # METODOLOGÍA
+> ## METODOLOGÍA
 >
 > Para abordar el tema, decidimos centrarnos en las instalaciones deportivas de la ciudad de Elche, creando una [base de datos](https://docs.google.com/spreadsheets/d/1mUmd9c9B_iMuZplQ5JZwdGcsI0dADGX1NksUF1gU7os/edit?usp=sharing) donde incluimos las instalaciones del Ayuntamiento y las de la Universidad, los gimnasios y centros deportivos, los clubes ilicitanos federados y, por último, los parques. El proceso de obtención de los datos fue el más complicado. Las instalaciones de la [Universidad](https://deportes.umh.es/instalaciones-y-tarifas/como-hacer-una-reserva/campus-de-elche/) y las del [Ayuntamiento](https://www.elche.es/deportes/instalaciones-deportivas-municipales-2/) fueron las más sencillas, ya que aparecían claramente en las webs respectivamente. También las de los clubes, los cuales conseguimos mediante las Federaciones de los deportes más comunes.
 >

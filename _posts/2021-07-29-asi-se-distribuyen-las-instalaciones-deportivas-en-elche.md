@@ -19,9 +19,8 @@ En Elche no todos tienen el mismo acceso a las instalaciones deportivas. En algu
 
 El distrito de Altabix Norte destaca como la zona con la renta media más elevada y al mismo tiempo es donde más instalaciones deportivas hay (79). Además, mantiene una diferencia considerable sobre el segundo distrito con mayor renta, que es Altabix Sur (37 más).
 
-<https://sites.google.com/view/mapadeporteelche/inicio>
-
-<sup> Altabix Norte, renta media más alta (10.428€), mantiene la mayor concentración de espacios deportivos con un total de 79 </sup>
+![]({{ site.baseurl }}/assets/images/mapadeporteelche.jpg)
+<sup> [Altabix Norte, renta media más alta (10.428€), mantiene la mayor concentración de espacios deportivos con un total de 79](https://sites.google.com/view/mapadeporteelche/inicio) </sup>
 
 En cuanto a la distribución de las instalaciones, hay que destacar la concentración de gimnasios en la parte oeste de la ciudad, mientras que en la zona de Altabix Sur la cantidad es menor. Además, las instalaciones del Ayuntamiento suelen encontrarse en la parte de la Universidad, lo cual es lógico debido a que los estudiantes, target de este tipo de recintos suelen vivir por esa zona. Aunque también es cierto que hay un cierto desequilibrio, ya que en esa parte de Elche está la UMH, que cuenta con 15 instalaciones disponibles. Por tanto, en la parte oeste de la ciudad, se depende de la iniciativa privada a la hora de crear clubes deportivas y montar gimnasios, y en la zona de Altabix Norte hay más lugares públicos para hacer deporte, aunque no escasean los gimnasios. Por otro lado, los parques están mucho más repartidos y no se aprecia ningún desequilibrio en su distribución.
 

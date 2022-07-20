@@ -26,9 +26,7 @@
 <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.0.2.min.js"></script>
 <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-tables-1.0.2.min.js"></script>
 {% endif %}
-    
-</head>
-    
+
 {% if jekyll.environment == 'production' %}    
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38906933-4"></script>
@@ -40,7 +38,9 @@
   gtag('config', 'UA-38906933-4');
 </script>
 {% endif %}
-    
+
+</head>
+
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->

@@ -4,7 +4,7 @@ title: Así se distribuyen las instalaciones deportivas en Elche
 subtitle: La ciudad apuesta por el deporte y cuenta con alrededor de 250
   establecimientos, de los cuales 87 son gimnasios privados y 119 instalaciones
   del Ayuntamiento
-new_author: Local Data Lab
+author: red
 image: assets/images/imagen-1-el-uso-de-los-parques.jpg
 ---
 Por [Ismael Ruiz Catalán](https://twitter.com/isma_ruizcata) y [Adrián Gil Martínez](https://twitter.com/adriangilp?lang=es) 

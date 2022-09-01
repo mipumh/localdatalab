@@ -4,7 +4,7 @@ title: La construcción de Elche, calle a calle
 subtitle: Los datos del Catastro reflejan la expansión urbana actual hacia el
   este del nuevo barrio de Altabix y la decadencia gradual de las construcciones
   en los últimos años
-new_author: Local Data Lab
+author: red
 image: assets/images/imagen-1.jpeg
 ---
 Por [Manuel García](http://twitter.com/manugm07) y [Pablo Martínez](http://twitter.com/@pablomces5)

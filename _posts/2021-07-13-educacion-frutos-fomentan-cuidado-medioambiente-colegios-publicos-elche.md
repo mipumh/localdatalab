@@ -5,7 +5,7 @@ title: "La educación da sus frutos: así fomentan el cuidado del medioambiente
 subtitle: Los centros educativos ilicitanos autogestionan sus fondos para crear
   iniciativas ambientales. La creación de huertos ecológicos y la gestión propia
   de los residuos promueven hábitos sostenibles entre los niños y sus familias
-new_author: Local Data Lab
+author: red
 image: assets/images/portada_huertos.jpg
 ---
 Por Begoña Amat Cervera y Ana Cortijo Sempere

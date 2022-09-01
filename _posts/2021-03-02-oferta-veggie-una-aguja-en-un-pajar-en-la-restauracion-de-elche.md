@@ -3,7 +3,7 @@ layout: widepost
 title: Oferta veggie, una aguja en un pajar en la restauración de Elche
 subtitle: El estudio de 214 restaurantes de Elche muestra que menos de un 20%
   incluye opciones vegetarianas entre su oferta
-new_author: Local Data Lab
+author: red
 image: https://lh5.googleusercontent.com/qrsRf-Wz4cP4ojguCnNji5aqr0H6TVIHTCJo--dEdYik3UPTWljhrV0zegdlMLuodI-8Cj-Mps4lEl9WwIM6cfZQvJvPQTMmdwzeOXff6l_1-MpUqAOsTKBK8OnjpNbWzQp0pxlO
 ---
 Una visita al mercado, una compra de ingredientes, y Ángela acude a su restaurante a las 10 de la mañana para comenzar a preparar sus conocidos “Buddha Bowls”. Poco después, entran los primeros clientes del día, a los que saluda llamándoles por su nombre. La cercanía, la comida saludable y la diversidad alimenticia son algunas de las ideas que priman en Qi Food Healthy Restaurant y que, solo un año después de su fundación, les han llevado a ganar el tercer premio en la primera edición del concurso De Tapes a Elx, con su tapa vegana. Se trata de uno de los pocos oasis en los que la población vegetariana de Elche puede encontrar una oferta rica y variada de comida vegetariana y vegana.

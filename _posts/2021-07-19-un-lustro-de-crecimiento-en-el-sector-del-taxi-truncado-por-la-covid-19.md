@@ -3,7 +3,7 @@ layout: post
 title: Un lustro de crecimiento en el sector del taxi truncado por la COVID-19
 subtitle: Los servicios de este medio de transporte han disminuido en un 44% con
   respecto al año anterior
-new_author: Local Data Lab
+author: red
 image: assets/images/imagen-1-parada-de-taxi-en-la-avenida.jpg
 ---
 Por [Andrés Puentes Navarro](http://twitter.com/andrespuentesna) y María del Carmen Ponce Cortés

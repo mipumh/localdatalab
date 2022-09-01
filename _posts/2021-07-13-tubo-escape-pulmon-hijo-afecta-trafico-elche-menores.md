@@ -5,7 +5,7 @@ title: "Del tubo de escape al pulmón de tu hijo: así afecta el tráfico de Elc
 subtitle: El análisis de 31 detectores de circulación automovilística determina
   que el colegio ilicitano con mayor movilidad es el Baix Vinalopó, con una
   media de 827 vehículos a las 09:00 horas
-new_author: Local Data Lab
+author: red
 image: assets/images/portada_mapa_humos.jpg
 ---
 Por [Ana Cortijo Sempere](https://www.instagram.com/_anacortijosempere/) y [Begoña Amat Cervera](https://www.instagram.com/begonia_____)

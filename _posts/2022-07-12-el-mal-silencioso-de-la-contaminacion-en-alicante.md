@@ -4,7 +4,7 @@ title: El mal silencioso de la contaminación en Alicante
 subtitle: La ciudad mediterránea está entre las grandes urbes menos contaminadas
   de España. A pesar de ello, sus datos siguen muy por encima de los niveles que
   recomienda la OMS
-new_author: Local Data Lab
+author: red
 image: assets/images/imagen-1-dr1.jpeg
 ---
 Por [David Gozálvez](https://twitter.com/dav_gzm) y [Andrea Romero](https://twitter.com/andrearomero7_)

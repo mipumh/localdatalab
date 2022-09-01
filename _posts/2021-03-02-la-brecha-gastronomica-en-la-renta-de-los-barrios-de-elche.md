@@ -4,7 +4,7 @@ title: La brecha gastronómica en la renta de los barrios de Elche
 subtitle: El 82% de la restauración apuesta por una gastronomía económica en
   barrios obreros, frente a un 18% de alto nivel en zonas turísticas y
   localizadas
-new_author: Local Data Lab
+author: red
 image: assets/images/foto-1-1-min.jpg
 ---
 “No puedes pretender que en un barrio obrero la gente vaya a un restaurante caro todas las semanas”, comenta Francisco Javier Mora, vicepresidente de la Plataforma Hostelería Ilicitana y propietario del restaurante Matola. Como él, son varios los restaurantes de alta gama que prefieren establecerse a las afueras de la ciudad, alejados de los barrios más obreros que disponen de rentas bajas y donde se encuentran pequeños bares y cafeterías de menús asequibles.

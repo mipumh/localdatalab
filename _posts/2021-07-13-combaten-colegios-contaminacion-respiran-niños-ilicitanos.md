@@ -5,7 +5,7 @@ subtitle: Tres centros educativos desarrollan programas medioambientales
   destinados a los alumnos y sus familias para combatir los efectos del cambio
   climático y la contaminación que generan los vehículos que circulan en sus
   inmediaciones
-new_author: Local Data Lab
+author: red
 categories: [ sumario ]
 image: assets/images/portada_espanta.jpg
 ---

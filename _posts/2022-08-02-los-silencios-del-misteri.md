@@ -11,7 +11,7 @@ image: assets/images/smquemada.jpeg
 
 En los más de seis siglos de historia del Misteri d’Elx, la representación de La Festa se ha visto amenazada en varias ocasiones e incluso cancelada. Los motivos de ello han sido diversos, entre los que encontramos la muerte del señor feudal de Elche Bernardino de Cárdenas en 1530, el fallecimiento del príncipe Carlos (hijo de Felipe II) en 1568, o las renovaciones de la Basílica tras el terremoto de 1829. Ya en fechas más próximas, recordamos la suspensión de la celebración durante los años de la Guerra Civil española o la pandemia por el Covid-19. Esta última obligó a cancelar La Festa en 2020 y la primera de las representaciones (la de agosto) en 2021. Así, este octubre ha vuelto, pese a ser con acceso restringido, la celebración del Misteri d’Elx.
 
-<https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eyzphdFY6A1YO3YPjbSCXAIAsDBvcpfCRBqzrpkO3k4&font=Default&lang=es&initial_zoom=2&height=650> 
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eyzphdFY6A1YO3YPjbSCXAIAsDBvcpfCRBqzrpkO3k4&font=Default&lang=es&initial_zoom=2&height=650" width="100%" frameborder="0"></iframe>
 
 A pesar de que el origen del Misteri d’Elx sea desconocido, se acepta el siglo XV como el inicio de la representación por la comparación con las obras de teatro medieval europeo y el auge de los misterios asuncionistas en esa época. Además, se sabe que la iglesia de Santa María ya contaba con tramoya alta y aparatos aéreos después de su derribo en 1492 para pasar de una construcción gótica a una renacentista.
 

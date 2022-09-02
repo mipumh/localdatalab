@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Misteri que no tiene fin
+title: Una drama que no tiene fin
 subtitle: La Festa d’Elx se ha mantenido y se mantendrá durante muchos años
   gracias a familias como los Fernández, Montenegro, Antón, Ródenas y López que
   trabajan en la conservación de la tradición del drama asuncionista
@@ -53,7 +53,7 @@ Luis Antón padre es uno de los miembros más longevos que siguen participando e
 
 “Aparte de mis hijos, también participan mi yerno, mi sobrino Pepe, mi cuñado Juan Ángel y mi consuegro”, cuenta Luis Antón. Sin embargo, los miembros de la familia Antón no han sido solo cantores, sino que también han estado en otros ámbitos como el patronato, la junta restauradora, maestro de ceremonias o el adorno de las palmas.
 
-![]({{ site.baseurl }}/assets/images/imagen-12.png)
+![]({{ site.baseurl }}/assets/images/misteri-2006-_028_0.jpeg)
 
 <sup>Luis Antón en una representación | Cátedra Pedro Ibarra </sup>
 

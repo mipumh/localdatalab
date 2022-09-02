@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El acento femenino del Misteri
+title: El acento femenino de la representación
 subtitle: Antes de la Edad Media, la Iglesia Católica impidió a las mujeres
   participar en actos religiosos. Con el paso del tiempo, en La Festa d’Elx, las
   ilicitanas han conseguido estar presentes no solo en su preparación como
@@ -36,7 +36,7 @@ Otro grupo de cantores que no participa en la representación es el Coro Juvenil
 
 Es curioso cÓmo, pese a ser esencial en la preparación del Misteri, la mujer siempre ha participado desde las sombras. Es decir, hasta hace pocos años, nunca había formado parte de la cara visible del evento, y pese a ello siempre han estado presentes las sastresas, camareras, azafatas y peluqueras; todas mujeres, demostrando que sin ellas “el Misteri no se podría representar” tal y cómo concuerdan Joan Castaño y Ángel Bonavía. Las sastresas, tres mujeres que se encargan de que todo el vestuario esté preparado para el evento, trabajan codo con codo con algunas costureras profesionales de Santa Pola, quienes cosen el oripell en los aparatos aéreos y en la palma del Misteri.
 
-![]({{ site.baseurl }}/assets/images/3.png)
+![]({{ site.baseurl }}/assets/images/322.png)
 
 <sup> Adela Piñol, ayudante de Sastrería cosiendo el oripell de la Magrana | ÓSCAR CASTRO | MARÍA NAVARRO</sup>
 

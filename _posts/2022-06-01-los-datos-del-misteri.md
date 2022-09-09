@@ -22,7 +22,7 @@ La Festa d’Elx se ha mantenido y se mantendrá durante muchos años gracias a 
 
 Por [Javier Richart](https://twitter.com/javiiii_11) y [Maisa Mas](https://twitter.com/Maisamas_)
 
-![](/images/shots/imagen-11.gif)
+![]({{ site.baseurl }}/assets/images/imagen-11.gif)
 
 ## [El acento femenino de la representación](https://localdatalab.umh.es/el-acento-femenino-del-misteri/)
 
@@ -32,7 +32,7 @@ Por [Júlia Santacreu](https://www.instagram.com/juls_sm/) y [Alba Seguí](ht
 
 <iframe src='https://flo.uri.sh/visualisation/7834018/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7834018/?utm_source=embed&utm_campaign=visualisation/7834018' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-[Los silencios de La Festa](https://localdatalab.umh.es/los-silencios-del-misteri/)
+## [Los silencios de La Festa](https://localdatalab.umh.es/los-silencios-del-misteri/)
 
 La muerte de reyes, el traslado de la representación a la iglesia del Salvador, las reconstrucciones de la basílica y la actual pandemia, han puesto en peligro la representación de La Festa d’Elx en los últimos 600 años
 

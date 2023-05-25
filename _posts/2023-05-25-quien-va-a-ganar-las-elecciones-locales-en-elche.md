@@ -51,26 +51,32 @@ Y es que Podemos y Ciudadanos tienen dificultades para obtener un concejal. El p
 > Los datos que se utilizan en el modelo son el porcentaje de voto de los partidos políticos, el tamaño de la muestra y la fecha del trabajo de campo de la encuesta. Cada una de estas encuestas tiene un peso específico según una fórmula de ponderación, que valora cada encuesta dependiendo del tamaño de la muestra, la fecha y la variación de los porcentajes de voto con la media de todas las encuestas.
 >
 > La fórmula que calcula la media ponderada para cada partido j es la siguiente:
+> 
+>$$\frac{1}{3}\left( a_{1}x_{1} + \ldots + a_{n}x_{nj} \right) + \frac{1}{3}\left( b_{1}x_{1} + \ldots + b_{n}x_{nj} \right) + \frac{1}{3}(c_{1}x_{1} + \ldots + c_{n}x_{nj})$$
 >
-> IMAGEN 1
+>Donde:
 >
-> donde:
+>$$a_{i} \equiv coeficientes\ relacionados\ con\ el\ tamaño\ de\ la\ encuesta\ i$$
 >
-> IMAGEN 2
+>$$b_{i} \equiv coeficientes\ relacionados\ con\ la\ fecha\ de\ la\ encuesta\ i$$
+>
+>$$c_{i} \equiv coeficientes\ relacionados\ con\ la\ desviación\ de\ la\ encuesta\ i$$
+>
+>$$x_{ij} \equiv porcentaje\ del\ partido\ j\ de\ la\ encuesta\ i$$
 >
 > Los coeficientes relacionados con el tamaño de la encuesta i se calcula de la siguiente forma:
 >
-> IMAGEN 3
+>$$a_{i} \equiv \frac{tamaño\ encuesta\ i}{total\ tamaños\ encuestas}$$
 >
 > Para los coeficientes relacionados con la fecha de la encuesta i se considera que 0 es la primera encuesta publicada y 365 sería la encuesta cuya publicación fuera el 28 de mayo. Para cada encuesta se le da el valor entre esos dos límites según su fecha de publicación contando los días. Si el trabajo de campo se ha hecho durante un periodo de tiempo, se toma el valor medio. Entonces los coeficientes se calculan de la siguiente manera:
 >
-> IMAGEN 4
+>$$b_{i} \equiv b_{i - 1} + ({fecha}_{i} - {fecha}_{i - 1})/365$$
 >
 > Como la primera encuesta está en la posición 0, si procediéramos como en el caso de los tamaños el coeficiente de la primera encuesta sería 0 y por tanto no estaríamos utilizando la información de esta encuesta. Por tanto, como también es la más alejada de las elecciones, le otorgamos al primer coeficiente el valor de 0.1. A partir de ahí se calculan los demás coeficientes de manera proporcional a la distancia a la que se encuentren las fechas del trabajo de campo. Después dividimos cada coeficiente por la suma de todos ellos.
 >
 > Los coeficientes relacionados con la desviación se calculan obteniendo primero las medias de cada partido. La desviación de una encuesta será la suma de las distancias que hay de cada partido a la media de cada partido. En este caso a mayor desviación nos interesa dar menos valor. Por tanto, obtenemos las diferencias en valor absoluto de las desviaciones con la suma total de estas. Entonces esas pasarán a ser ahora las desviaciones (es un abuso de notación para realizar el proceso inverso que se ha hecho en el caso de los tamaños). Por consiguiente, los coeficientes se calculan de la siguiente forma:
 >
-> IMAGEN 5
+>$$a_{i} \equiv \frac{desviacion\ encuesta\ i}{total\ desviaciones\ encuestas}$$
 >
 > Para la ponderación, se ha contado con el asesoramiento de [José Luis Sanz](https://www.umh.es/contenido/Estudios/:persona_4485/datos_es.html), profesor de la Universidad Miguel Hernández de Elche en el departamento de Estadística e Investigación Operativa. Una vez hecha la ponderación ([programada](https://drive.google.com/file/d/1Ak9jZU5m-OWjETAp0MFgX5VSQd0Q-lHr/view?usp=share_link) en lenguaje Python), se introducen los datos en RStudio, donde está [programado](https://drive.google.com/file/d/1QRyC12E-NtEdZLRZjvFc0KkkwXs-5UL6/view?usp=share_link) el modelo matemático. Para perfeccionar el código a la hora de acotar los resultados hemos contado con la colaboración de Borja Andrino, periodista de datos de El País.
 >

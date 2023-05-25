@@ -79,6 +79,7 @@ paginate_path: /page:num/
 markdown: kramdown
 
 kramdown:
+  math_engine: mathjax
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:

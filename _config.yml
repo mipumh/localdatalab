@@ -19,6 +19,13 @@ authors:
     pic: /assets/images/logo.png
     twitter: https://twitter.com/mipumh
     description: "Redacción del LocalDataLab."
+  pedro:
+    name: pedro
+    display_name: Pedro Miguel González
+    web: https://localdatalab.umh.es/
+    pic: /assets/images/pedro.jpg
+    twitter: https://petertecnologia.medium.com/
+    description: "Redacción del LocalDataLab."
   irene:
     name: irene
     display_name: Irene C. Reig

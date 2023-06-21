@@ -3,7 +3,7 @@ layout: post
 title: Veinte años de acierto electoral
 subtitle: La sección 1 del distrito 4 es la zona de Elche que más se ha acercado
   a los resultados de los últimos seis comicios municipales
-author: red
+author: pedro
 image: assets/images/ohio1.webp
 ---
 Miles de coches atraviesan la avenida de la Libertad al cabo del día observando a su paso las chimeneas de la emblemática Yesería de Román sin saber el fenómeno electoral que atesora este barrio. Cientos de personas suben las escaleras de la estación de tren Elx Carrús y se encuentran de frente con la plaza de l’Algeps sin conocer que el voto de los habitantes que viven entre la antigua fábrica de yeso y dos calles más allá del Colegio Público Francesc Cantó ha sido un reflejo de los resultados de la ciudad de Elche en las seis últimas elecciones municipales.

@@ -4,14 +4,13 @@ title: ¿Quién va a ganar las elecciones locales en Elche?
 subtitle: La victoria del PSOE, pero un alcalde del PP con el apoyo de Vox es el
   resultado más probable el 28M, según un modelo de predicción basado en
   encuestas
-author: red
+author: pedro
 image: assets/images/elecciones_elx_2023.jpeg
 ---
-<sup>Por **Pedro Miguel González**
-
+El PSOE ganaría las elecciones del próximo domingo, pero sin los concejales suficientes para formar un gobierno de izquierdas en el Ayuntamiento de Elche. 
 <iframe title="\[ Insert title here ]" aria-label="Split Bars" id="datawrapper-chart-2C0rn" src="https://datawrapper.dwcdn.net/2C0rn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="432" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
-El PSOE ganaría las elecciones del próximo domingo, pero sin los concejales suficientes para formar un gobierno de izquierdas en el Ayuntamiento de Elche. Éste es el escenario más probable de un sistema de predicción diseñado para estas elecciones basado en cinco encuestas publicadas desde hace un año en la ciudad.
+Éste es el escenario más probable de un sistema de predicción diseñado para estas elecciones basado en cinco encuestas publicadas desde hace un año en la ciudad.
 
 <iframe src='https://flo.uri.sh/visualisation/13898897/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:200px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/13898897/?utm_source=embed&utm_campaign=visualisation/13898897' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 

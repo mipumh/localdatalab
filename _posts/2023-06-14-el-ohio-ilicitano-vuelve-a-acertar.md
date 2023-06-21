@@ -3,7 +3,7 @@ layout: post
 title: El Ohio ilicitano vuelve a acertar
 subtitle: La sección censal de las chimeneas se acerca por séptima vez
   consecutiva a los resultados de las elecciones locales en toda la ciudad
-author: red
+author: pedro
 image: assets/images/ohio.jpg
 ---
 Las elecciones del 28 de mayo han reeditado el mismo fenómeno [que lleva sucediendo en los comicios de Elche desde 1999](https://medium.com/@petertecnologia/veinte-a%C3%B1os-de-acierto-electoral-6f78ac98e6b). Los resultados de los partidos políticos que han conseguido al menos el 3% de los votos válidos en Elche (PSOE, PP, Vox y Compromís) se han situado a una distancia menor de 3 puntos respecto del porcentaje de voto a nivel local en la sección censal 4-1, la de las chimeneas.

@@ -3,7 +3,7 @@ layout: post
 title: Y la predicción de las elecciones locales de Elche funcionó
 subtitle: "El modelo matemático basado en encuestas acertó la victoria de los
   socialistas y la posibilidad de pacto entre las derechas "
-author: red
+author: pedro
 image: assets/images/acierto.jpg
 ---
 La victoria del PSOE finalmente sucedió el pasado 28 de mayo. También se dio la posibilidad de que la derecha sumara los concejales necesarios para formar gobierno en el Ayuntamiento de Elche, tal y como predijo un [modelo de predicción basado en encuestas](https://localdatalab.umh.es/quien-va-a-ganar-las-elecciones-locales-en-elche/).

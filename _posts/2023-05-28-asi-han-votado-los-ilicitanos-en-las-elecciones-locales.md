@@ -5,8 +5,6 @@ subtitle: La participación de las últimas municipales fue la más baja de la d
 author: felix
 image: assets/images/historico_elx.jpg
 ---
-<sup>Por **Félix Arias**
-
 Las elecciones municipales del 28 de mayo serán las duodécimas del actual periodo democrático. Un análisis sobre resultados de las anteriores permite extraer claves sobre la evolución del voto, la participación, la distribución geográfica de los votos y sus condicionantes sociodemográficos.
 
 <iframe src='https://flo.uri.sh/visualisation/13860826/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/13870803/?utm_source=embed&utm_campaign=visualisation/13870803' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>

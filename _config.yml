@@ -8,6 +8,7 @@ baseurl: ''
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
+exclude: ["README.md", "changelog.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor"]
 permalink: /:title/
 
 # Authors
